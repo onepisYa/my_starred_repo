@@ -41,13 +41,13 @@ def make_img(name, url):
 
 def save_pages(projects):
     with open("./README.md", "w+", encoding="utf-8") as fp:
-        fp.write("# my_starred_repo\
-show me my starred repo\
-\
----\
-\
-\
-")
+        fp.write("""# my_starred_repo
+show me my starred repo
+
+---
+
+
+""")
         fp.write(table_header)
         for project in projects:
             fp.write(template.format(**project))
