@@ -33,7 +33,7 @@ jobs:
     - name: commit
       id: commit
       run: |
-        git config --global user.email sunxuebangong@gmail.com
+        git config --global user.email pis1@qq.com
         git config --global user.name action_bot
         git add .
         git commit -m "update readme content"
