@@ -21,7 +21,7 @@ def get_pages(pages=1):
     url = "https://api.github.com/users/onepisya/starred?page={}&sort=starred&per_page=100"
     payload = {}
     headers = {}
-    star_pages = (requests.request("GET", url, headers=headers,
+    star_pages = (requests.request("GET", url.format(i), headers=headers,
                                    data=payload).json() for i in range(1, pages+1))
     return star_pages
 
