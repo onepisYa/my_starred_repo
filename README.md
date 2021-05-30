@@ -1,4 +1,10 @@
-# my_starred_reposhow me my starred repo---| name | language| full_name | stargazers_count  | description  |updated_at | homepage | clone_url |page|
+# my_starred_repo
+show me my starred repo
+
+---
+
+
+| name | language| full_name | stargazers_count  | description  |updated_at | homepage | clone_url |page|
 |------|-----------|----------|-------------|-----------|------------------|----------|------------|-------------------------|
 | [CMU-15-213-Intro-to-Computer-Systems](https://github.com/JonnyKong/CMU-15-213-Intro-to-Computer-Systems) | Assembly | JonnyKong/CMU-15-213-Intro-to-Computer-Systems | 147  | CS 15-213: Introduction to Computer Systems in 2017 Spring, CMU |2021-05-30T08:45:27Z |  | https://github.com/JonnyKong/CMU-15-213-Intro-to-Computer-Systems.git |1|
 | [CMU-15-213-Intro-to-Computer-Systems](https://github.com/JonnyKong/CMU-15-213-Intro-to-Computer-Systems) | Assembly | JonnyKong/CMU-15-213-Intro-to-Computer-Systems | 147  | CS 15-213: Introduction to Computer Systems in 2017 Spring, CMU |2021-05-30T08:45:27Z |  | https://github.com/JonnyKong/CMU-15-213-Intro-to-Computer-Systems.git |2|
