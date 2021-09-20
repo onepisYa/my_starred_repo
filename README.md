@@ -29,7 +29,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dmohindru/cod5e.git</td>
                 </tr>
                 <tr>
@@ -74,7 +74,7 @@ show me my starred repo
                     <td>http://github.com/leachim6/hello-world/wikis</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/leachim6/hello-world.git</td>
                 </tr>
                 <tr>
@@ -119,7 +119,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tanyugang/CodingMaster.git</td>
                 </tr>
                 <tr>
@@ -164,7 +164,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/JonnyKong/CMU-15-213-Intro-to-Computer-Systems.git</td>
                 </tr>
                 <tr>
@@ -209,7 +209,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/havivha/Nand2Tetris.git</td>
                 </tr>
                 <tr>
@@ -254,7 +254,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rcmaehl/WhyNotWin11.git</td>
                 </tr>
                 <tr>
@@ -299,7 +299,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vim/vim-win32-installer.git</td>
                 </tr>
                 <tr>
@@ -344,7 +344,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/libfuse/sshfs.git</td>
                 </tr>
                 <tr>
@@ -389,7 +389,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yifengyou/linux-0.12.git</td>
                 </tr>
                 <tr>
@@ -434,7 +434,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/huangz1990/redis-3.0-annotated.git</td>
                 </tr>
                 <tr>
@@ -479,7 +479,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/emscripten-core/emscripten.git</td>
                 </tr>
                 <tr>
@@ -524,7 +524,7 @@ show me my starred repo
                     <td>http://pythontutor.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SamLau95/OnlinePythonTutor.git</td>
                 </tr>
                 <tr>
@@ -569,7 +569,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jarun/nnn.git</td>
                 </tr>
                 <tr>
@@ -614,7 +614,7 @@ show me my starred repo
                     <td>https://ish.app</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ish-app/ish.git</td>
                 </tr>
                 <tr>
@@ -659,7 +659,7 @@ show me my starred repo
                     <td>https://docs.OIW.workers.dev/itlwm/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/OpenIntelWireless/itlwm.git</td>
                 </tr>
                 <tr>
@@ -704,7 +704,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/betaflight/betaflight.git</td>
                 </tr>
                 <tr>
@@ -749,7 +749,7 @@ show me my starred repo
                     <td>http://weharmonyos.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kuangyufei/kernel_liteos_a_note.git</td>
                 </tr>
                 <tr>
@@ -794,7 +794,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Dr-Noob/cpufetch.git</td>
                 </tr>
                 <tr>
@@ -839,7 +839,7 @@ show me my starred repo
                     <td>https://github.com/vonzhou/Blog</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vonzhou/CSAPP.git</td>
                 </tr>
                 <tr>
@@ -884,7 +884,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/AbderrhmanAbdellatif/ComputerOrganization.git</td>
                 </tr>
                 <tr>
@@ -929,7 +929,7 @@ show me my starred repo
                     <td>https://tracker.debian.org/pkg/w3m</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tats/w3m.git</td>
                 </tr>
                 <tr>
@@ -974,7 +974,7 @@ show me my starred repo
                     <td>https://pycairo.readthedocs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pygobject/pycairo.git</td>
                 </tr>
                 <tr>
@@ -1019,7 +1019,7 @@ show me my starred repo
                     <td>https://kbengine.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kbengine/kbengine.git</td>
                 </tr>
                 <tr>
@@ -1064,7 +1064,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/FASTSHIFT/X-TRACK.git</td>
                 </tr>
                 <tr>
@@ -1109,7 +1109,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LingDong-/magic-square-poems.git</td>
                 </tr>
                 <tr>
@@ -1154,7 +1154,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/upx/upx.git</td>
                 </tr>
                 <tr>
@@ -1192,23 +1192,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>26651</td>
+                    <td>26653</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://www.ventoy.net</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ventoy/Ventoy.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:54:13</td>
+                    <td>09/21/21 02:25:20</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:54:13Z</td>
+                    <td>2021-09-20T18:25:20Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -1244,7 +1244,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/halfer53/winix.git</td>
                 </tr>
                 <tr>
@@ -1289,7 +1289,7 @@ show me my starred repo
                     <td>http://blog.gentilkiwi.com/mimikatz</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gentilkiwi/mimikatz.git</td>
                 </tr>
                 <tr>
@@ -1334,7 +1334,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/maksir98/cs61c.git</td>
                 </tr>
                 <tr>
@@ -1379,7 +1379,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Junren0716/CS61c.git</td>
                 </tr>
                 <tr>
@@ -1424,7 +1424,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/huangz1990/annotated_redis_source.git</td>
                 </tr>
                 <tr>
@@ -1469,7 +1469,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/twitter/twemproxy.git</td>
                 </tr>
                 <tr>
@@ -1514,7 +1514,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/redis/hiredis.git</td>
                 </tr>
                 <tr>
@@ -1559,7 +1559,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/halfrost/Learn-Algorithms.git</td>
                 </tr>
                 <tr>
@@ -1604,7 +1604,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rapiz1/DungeonRush.git</td>
                 </tr>
                 <tr>
@@ -1649,7 +1649,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tostercx/GTAO_Booster_PoC.git</td>
                 </tr>
                 <tr>
@@ -1694,7 +1694,7 @@ show me my starred repo
                     <td>https://www.pygame.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pygame/pygame.git</td>
                 </tr>
                 <tr>
@@ -1739,7 +1739,7 @@ show me my starred repo
                     <td>https://mgba.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mgba-emu/mgba.git</td>
                 </tr>
                 <tr>
@@ -1784,7 +1784,7 @@ show me my starred repo
                     <td>https://obsproject.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/obsproject/obs-studio.git</td>
                 </tr>
                 <tr>
@@ -1829,7 +1829,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/drhsqlite/fossil-mirror.git</td>
                 </tr>
                 <tr>
@@ -1874,7 +1874,7 @@ show me my starred repo
                     <td>https://repo.or.cz/sqlite.git</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mackyle/sqlite.git</td>
                 </tr>
                 <tr>
@@ -1919,7 +1919,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cr-marcstevens/sha1collisiondetection.git</td>
                 </tr>
                 <tr>
@@ -1964,7 +1964,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gdevic/minix1.git</td>
                 </tr>
                 <tr>
@@ -2009,7 +2009,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yifengyou/The-design-and-implementation-of-a-64-bit-os.git</td>
                 </tr>
                 <tr>
@@ -2054,7 +2054,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/git/git.git</td>
                 </tr>
                 <tr>
@@ -2092,23 +2092,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>118407</td>
+                    <td>118406</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/torvalds/linux.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:11:41</td>
+                    <td>09/21/21 02:25:49</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:11:41Z</td>
+                    <td>2021-09-20T18:25:49Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -2144,7 +2144,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jdah/jdh-8.git</td>
                 </tr>
                 <tr>
@@ -2189,7 +2189,7 @@ show me my starred repo
                     <td>https://www.pycryptodome.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Legrandin/pycryptodome.git</td>
                 </tr>
                 <tr>
@@ -2234,7 +2234,7 @@ show me my starred repo
                     <td>https://zhuanlan.zhihu.com/json-tutorial</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/miloyip/json-tutorial.git</td>
                 </tr>
                 <tr>
@@ -2279,7 +2279,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Awesome-HarmonyOS/HarmonyOS.git</td>
                 </tr>
                 <tr>
@@ -2324,7 +2324,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/PolarDB-for-PostgreSQL.git</td>
                 </tr>
                 <tr>
@@ -2369,7 +2369,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Meituan-Dianping/SQLAdvisor.git</td>
                 </tr>
                 <tr>
@@ -2414,7 +2414,7 @@ show me my starred repo
                     <td>http://www.pell.portland.or.us/~orc/Code/discount</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Orc/discount.git</td>
                 </tr>
                 <tr>
@@ -2459,7 +2459,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard.git</td>
                 </tr>
                 <tr>
@@ -2504,7 +2504,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/netdata/netdata.git</td>
                 </tr>
                 <tr>
@@ -2549,7 +2549,7 @@ show me my starred repo
                     <td>https://github.com/ithewei/libhv/wiki</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ithewei/libhv.git</td>
                 </tr>
                 <tr>
@@ -2594,7 +2594,7 @@ show me my starred repo
                     <td>https://www.openssl.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/openssl/openssl.git</td>
                 </tr>
                 <tr>
@@ -2639,7 +2639,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/acidanthera/OpenCorePkg.git</td>
                 </tr>
                 <tr>
@@ -2684,7 +2684,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/DoctorWkt/acwj.git</td>
                 </tr>
                 <tr>
@@ -2729,7 +2729,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jdah/tetris-os.git</td>
                 </tr>
                 <tr>
@@ -2774,7 +2774,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/openwrt/openwrt.git</td>
                 </tr>
                 <tr>
@@ -2819,7 +2819,7 @@ show me my starred repo
                     <td>https://thealgorithms.github.io/C</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TheAlgorithms/C.git</td>
                 </tr>
                 <tr>
@@ -2864,7 +2864,7 @@ show me my starred repo
                     <td>https://github.com/ShadowsocksR-Live/shadowsocksr-native/wiki</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ShadowsocksR-Live/shadowsocksr-native.git</td>
                 </tr>
                 <tr>
@@ -2909,7 +2909,7 @@ show me my starred repo
                     <td>https://curl.se/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/curl/curl.git</td>
                 </tr>
                 <tr>
@@ -2954,7 +2954,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/peng-zhihui/HDMI-PI.git</td>
                 </tr>
                 <tr>
@@ -2999,7 +2999,7 @@ show me my starred repo
                     <td>https://gitlab.kitware.com/cmake/cmake</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Kitware/CMake.git</td>
                 </tr>
                 <tr>
@@ -3044,7 +3044,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kiukotsu/ucore.git</td>
                 </tr>
                 <tr>
@@ -3089,7 +3089,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/WinAppDriver.git</td>
                 </tr>
                 <tr>
@@ -3134,7 +3134,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/XINCGer/Unity3DTraining.git</td>
                 </tr>
                 <tr>
@@ -3179,7 +3179,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/aduskin/AduSkin.git</td>
                 </tr>
                 <tr>
@@ -3224,7 +3224,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Uahh/ToastFish.git</td>
                 </tr>
                 <tr>
@@ -3262,23 +3262,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>1948</td>
+                    <td>1949</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dotnetcore/FastGithub.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 21:04:04</td>
+                    <td>09/21/21 02:18:48</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T13:04:04Z</td>
+                    <td>2021-09-20T18:18:48Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -3314,7 +3314,7 @@ show me my starred repo
                     <td>https://www.nopcommerce.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nopSolutions/nopCommerce.git</td>
                 </tr>
                 <tr>
@@ -3359,7 +3359,7 @@ show me my starred repo
                     <td>https://aka.ms/mrtkdocs</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/MixedRealityToolkit-Unity.git</td>
                 </tr>
                 <tr>
@@ -3404,7 +3404,7 @@ show me my starred repo
                     <td>http://www.jy-new.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jynew/jynew.git</td>
                 </tr>
                 <tr>
@@ -3449,7 +3449,7 @@ show me my starred repo
                     <td>https://neil3d.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/neil3d/excel2json.git</td>
                 </tr>
                 <tr>
@@ -3494,7 +3494,7 @@ show me my starred repo
                     <td>https://www.newtonsoft.com/json</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/JamesNK/Newtonsoft.Json.git</td>
                 </tr>
                 <tr>
@@ -3539,7 +3539,7 @@ show me my starred repo
                     <td>https://asp.net</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dotnet/aspnetcore.git</td>
                 </tr>
                 <tr>
@@ -3584,7 +3584,7 @@ show me my starred repo
                     <td>https://github.com/features/actions</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/actions/runner.git</td>
                 </tr>
                 <tr>
@@ -3629,7 +3629,7 @@ show me my starred repo
                     <td>https://www.ailab.microsoft.com/experiments/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/ailab.git</td>
                 </tr>
                 <tr>
@@ -3674,7 +3674,7 @@ show me my starred repo
                     <td>https://eartrumpet.app</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/File-New-Project/EarTrumpet.git</td>
                 </tr>
                 <tr>
@@ -3719,7 +3719,7 @@ show me my starred repo
                     <td>https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dotnet/maui.git</td>
                 </tr>
                 <tr>
@@ -3764,7 +3764,7 @@ show me my starred repo
                     <td>https://files-community.github.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/files-community/Files.git</td>
                 </tr>
                 <tr>
@@ -3809,7 +3809,7 @@ show me my starred repo
                     <td>https://docs.microsoft.com/dotnet/csharp/roslyn-sdk/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dotnet/roslyn.git</td>
                 </tr>
                 <tr>
@@ -3854,7 +3854,7 @@ show me my starred repo
                     <td>https://docs.microsoft.com/dotnet/core/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dotnet/runtime.git</td>
                 </tr>
                 <tr>
@@ -3899,7 +3899,7 @@ show me my starred repo
                     <td>https://www.ryujinx.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Ryujinx/Ryujinx.git</td>
                 </tr>
                 <tr>
@@ -3944,7 +3944,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/stnkl/EverythingToolbar.git</td>
                 </tr>
                 <tr>
@@ -3989,7 +3989,7 @@ show me my starred repo
                     <td>http://wox.one</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Wox-launcher/Wox.git</td>
                 </tr>
                 <tr>
@@ -4034,7 +4034,7 @@ show me my starred repo
                     <td>https://bluepointlilac.github.io/ContextMenuManager</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/BluePointLilac/ContextMenuManager.git</td>
                 </tr>
                 <tr>
@@ -4079,7 +4079,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/huiyadanli/RevokeMsgPatcher.git</td>
                 </tr>
                 <tr>
@@ -4124,7 +4124,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SmartKeyerror/reading-source-code-of-leveldb-1.23.git</td>
                 </tr>
                 <tr>
@@ -4169,7 +4169,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/GTAmodding/re3.git</td>
                 </tr>
                 <tr>
@@ -4214,7 +4214,7 @@ show me my starred repo
                     <td>https://tesseract-ocr.github.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tesseract-ocr/tesseract.git</td>
                 </tr>
                 <tr>
@@ -4259,7 +4259,7 @@ show me my starred repo
                     <td>https://core.telegram.org/tdlib</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tdlib/td.git</td>
                 </tr>
                 <tr>
@@ -4304,7 +4304,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/opentx/opentx.git</td>
                 </tr>
                 <tr>
@@ -4349,7 +4349,7 @@ show me my starred repo
                     <td>https://groups.google.com/forum/?fromgroups#!forum/facebook-folly</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/folly.git</td>
                 </tr>
                 <tr>
@@ -4394,7 +4394,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/DayBreak-u/chineseocr_lite.git</td>
                 </tr>
                 <tr>
@@ -4439,16 +4439,16 @@ show me my starred repo
                     <td>https://google.github.io/filament/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/filament.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:18:24</td>
+                    <td>09/21/21 02:25:30</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:18:24Z</td>
+                    <td>2021-09-20T18:25:30Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -4484,7 +4484,7 @@ show me my starred repo
                     <td>https://simdjson.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/simdjson/simdjson.git</td>
                 </tr>
                 <tr>
@@ -4529,7 +4529,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hhatto/pgmagick.git</td>
                 </tr>
                 <tr>
@@ -4574,7 +4574,7 @@ show me my starred repo
                     <td>http://www.pj64-emu.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/project64/project64.git</td>
                 </tr>
                 <tr>
@@ -4619,7 +4619,7 @@ show me my starred repo
                     <td>http://reicast.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/reicast/reicast-emulator.git</td>
                 </tr>
                 <tr>
@@ -4664,7 +4664,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/amhndu/SimpleNES.git</td>
                 </tr>
                 <tr>
@@ -4709,7 +4709,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/openai/triton.git</td>
                 </tr>
                 <tr>
@@ -4754,7 +4754,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/szad670401/HyperLPR.git</td>
                 </tr>
                 <tr>
@@ -4799,7 +4799,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xyz347/xpack.git</td>
                 </tr>
                 <tr>
@@ -4844,7 +4844,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/czs108/Plants-vs.-Zombies-Online-Battle.git</td>
                 </tr>
                 <tr>
@@ -4889,7 +4889,7 @@ show me my starred repo
                     <td>https://microsoft.github.io/IoT-For-Beginners/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/IoT-For-Beginners.git</td>
                 </tr>
                 <tr>
@@ -4934,7 +4934,7 @@ show me my starred repo
                     <td>https://www.bilibili.com/video/av45509758</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xmuli/chinessChess.git</td>
                 </tr>
                 <tr>
@@ -4972,23 +4972,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>19167</td>
+                    <td>19168</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://clickhouse.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ClickHouse/ClickHouse.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:15:25</td>
+                    <td>09/21/21 02:22:12</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:15:25Z</td>
+                    <td>2021-09-20T18:22:12Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -5024,7 +5024,7 @@ show me my starred repo
                     <td>https://organicmaps.app</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/organicmaps/organicmaps.git</td>
                 </tr>
                 <tr>
@@ -5069,7 +5069,7 @@ show me my starred repo
                     <td>http://www.cocos2d-x.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cocos2d/cocos2d-x.git</td>
                 </tr>
                 <tr>
@@ -5114,7 +5114,7 @@ show me my starred repo
                     <td>http://marlinfw.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/MarlinFirmware/Marlin.git</td>
                 </tr>
                 <tr>
@@ -5159,7 +5159,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wuye9036/CppTemplateTutorial.git</td>
                 </tr>
                 <tr>
@@ -5204,7 +5204,7 @@ show me my starred repo
                     <td>http://dwz.cn/cp5answer</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pezy/CppPrimer.git</td>
                 </tr>
                 <tr>
@@ -5249,7 +5249,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/fully-homomorphic-encryption.git</td>
                 </tr>
                 <tr>
@@ -5294,7 +5294,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/GiovanniDicanio/WinReg.git</td>
                 </tr>
                 <tr>
@@ -5339,7 +5339,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Gusabary/FlowChar.git</td>
                 </tr>
                 <tr>
@@ -5384,7 +5384,7 @@ show me my starred repo
                     <td>https://notepad-plus-plus.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/notepad-plus-plus/notepad-plus-plus.git</td>
                 </tr>
                 <tr>
@@ -5429,7 +5429,7 @@ show me my starred repo
                     <td>https://buildwithmatter.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/project-chip/connectedhomeip.git</td>
                 </tr>
                 <tr>
@@ -5474,7 +5474,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/CodingGay/BlackDex.git</td>
                 </tr>
                 <tr>
@@ -5519,7 +5519,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/binji/pokegb.git</td>
                 </tr>
                 <tr>
@@ -5564,7 +5564,7 @@ show me my starred repo
                     <td>https://json.nlohmann.me</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nlohmann/json.git</td>
                 </tr>
                 <tr>
@@ -5609,7 +5609,7 @@ show me my starred repo
                     <td>http://cpvrlab.github.io/ImagePlay/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cpvrlab/ImagePlay.git</td>
                 </tr>
                 <tr>
@@ -5654,7 +5654,7 @@ show me my starred repo
                     <td>https://www.anyrtc.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource.git</td>
                 </tr>
                 <tr>
@@ -5699,16 +5699,16 @@ show me my starred repo
                     <td>http://rapids.ai</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rapidsai/cudf.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 21:59:43</td>
+                    <td>09/21/21 02:21:47</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T13:59:43Z</td>
+                    <td>2021-09-20T18:21:47Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -5744,7 +5744,7 @@ show me my starred repo
                     <td>https://serenityos.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SerenityOS/serenity.git</td>
                 </tr>
                 <tr>
@@ -5789,7 +5789,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/winget-cli.git</td>
                 </tr>
                 <tr>
@@ -5834,7 +5834,7 @@ show me my starred repo
                     <td>https://open.oceanbase.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/oceanbase/oceanbase.git</td>
                 </tr>
                 <tr>
@@ -5879,7 +5879,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/KvrocksLabs/kvrocks.git</td>
                 </tr>
                 <tr>
@@ -5924,7 +5924,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mamba-org/mamba.git</td>
                 </tr>
                 <tr>
@@ -5969,7 +5969,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/zhongyang219/TrafficMonitor.git</td>
                 </tr>
                 <tr>
@@ -6014,7 +6014,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ZLMediaKit/ZLMediaKit.git</td>
                 </tr>
                 <tr>
@@ -6059,7 +6059,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/leveldb.git</td>
                 </tr>
                 <tr>
@@ -6104,7 +6104,7 @@ show me my starred repo
                     <td>https://bitcoincore.org/en/download</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bitcoin/bitcoin.git</td>
                 </tr>
                 <tr>
@@ -6149,7 +6149,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ExpressLRS/ExpressLRS.git</td>
                 </tr>
                 <tr>
@@ -6194,7 +6194,7 @@ show me my starred repo
                     <td>https://ossrs.net</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ossrs/srs.git</td>
                 </tr>
                 <tr>
@@ -6239,7 +6239,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dogecoin/dogecoin.git</td>
                 </tr>
                 <tr>
@@ -6284,7 +6284,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/wslg.git</td>
                 </tr>
                 <tr>
@@ -6329,7 +6329,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/lyra.git</td>
                 </tr>
                 <tr>
@@ -6374,7 +6374,7 @@ show me my starred repo
                     <td>https://thealgorithms.github.io/C-Plus-Plus</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TheAlgorithms/C-Plus-Plus.git</td>
                 </tr>
                 <tr>
@@ -6419,7 +6419,7 @@ show me my starred repo
                     <td>https://light-city.club/sc/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Light-City/CPlusPlusThings.git</td>
                 </tr>
                 <tr>
@@ -6464,7 +6464,7 @@ show me my starred repo
                     <td>https://flameshot.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/flameshot-org/flameshot.git</td>
                 </tr>
                 <tr>
@@ -6509,16 +6509,16 @@ show me my starred repo
                     <td>http://rocksdb.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/rocksdb.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 22:17:03</td>
+                    <td>09/21/21 02:22:56</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T14:17:03Z</td>
+                    <td>2021-09-20T18:22:56Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -6554,7 +6554,7 @@ show me my starred repo
                     <td>https://chromium.googlesource.com/v8/v8.git</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/v8/v8.git</td>
                 </tr>
                 <tr>
@@ -6599,7 +6599,7 @@ show me my starred repo
                     <td>https://rime.im</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rime/librime.git</td>
                 </tr>
                 <tr>
@@ -6644,7 +6644,7 @@ show me my starred repo
                     <td>https://rime.im</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rime/weasel.git</td>
                 </tr>
                 <tr>
@@ -6689,7 +6689,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/terminal.git</td>
                 </tr>
                 <tr>
@@ -6734,7 +6734,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sogou/srpc.git</td>
                 </tr>
                 <tr>
@@ -6779,7 +6779,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gabime/spdlog.git</td>
                 </tr>
                 <tr>
@@ -6824,16 +6824,16 @@ show me my starred repo
                     <td>https://hhvm.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/hhvm.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 23:24:24</td>
+                    <td>09/21/21 02:24:27</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T15:24:24Z</td>
+                    <td>2021-09-20T18:24:27Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -6869,7 +6869,7 @@ show me my starred repo
                     <td>https://electronjs.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/electron/electron.git</td>
                 </tr>
                 <tr>
@@ -6914,7 +6914,7 @@ show me my starred repo
                     <td>https://tensorflow.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tensorflow/tensorflow.git</td>
                 </tr>
                 <tr>
@@ -6959,7 +6959,7 @@ show me my starred repo
                     <td>https://win11.blueedge.me</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/blueedgetechno/windows11.git</td>
                 </tr>
                 <tr>
@@ -7004,7 +7004,7 @@ show me my starred repo
                     <td>https://youtu.be/kSoViKHt-Yo</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/owl4ce/dotfiles.git</td>
                 </tr>
                 <tr>
@@ -7049,7 +7049,7 @@ show me my starred repo
                     <td>https://thesabbir.github.io/simple-line-icons</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/thesabbir/simple-line-icons.git</td>
                 </tr>
                 <tr>
@@ -7094,7 +7094,7 @@ show me my starred repo
                     <td>https://learnopengl-cn.github.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LearnOpenGL-CN/LearnOpenGL-CN.git</td>
                 </tr>
                 <tr>
@@ -7139,7 +7139,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/marvelapp/devices.css.git</td>
                 </tr>
                 <tr>
@@ -7184,7 +7184,7 @@ show me my starred repo
                     <td>https://jason2506.gitbooks.io/cpumemory/content/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jason2506/cpumemory.zh-tw.git</td>
                 </tr>
                 <tr>
@@ -7229,7 +7229,7 @@ show me my starred repo
                     <td>https://fcc.asia/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/FreeCodeCampChina/freecodecamp.cn.git</td>
                 </tr>
                 <tr>
@@ -7274,7 +7274,7 @@ show me my starred repo
                     <td>http://necolas.github.io/normalize.css/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/necolas/normalize.css.git</td>
                 </tr>
                 <tr>
@@ -7319,7 +7319,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jiulu313/HelloMarkDown.git</td>
                 </tr>
                 <tr>
@@ -7364,7 +7364,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bradtraversy/50projects50days.git</td>
                 </tr>
                 <tr>
@@ -7409,7 +7409,7 @@ show me my starred repo
                     <td>https://bttn.surge.sh/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ganapativs/bttn.css.git</td>
                 </tr>
                 <tr>
@@ -7454,7 +7454,7 @@ show me my starred repo
                     <td>http://b-server.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/B-Software/Ward.git</td>
                 </tr>
                 <tr>
@@ -7499,7 +7499,7 @@ show me my starred repo
                     <td>https://newfuture.github.io/CV/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/NewFuture/CV.git</td>
                 </tr>
                 <tr>
@@ -7544,7 +7544,7 @@ show me my starred repo
                     <td>https://online-cv.webjeda.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sharu725/online-cv.git</td>
                 </tr>
                 <tr>
@@ -7589,7 +7589,7 @@ show me my starred repo
                     <td>https://animate.style/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/animate-css/animate.css.git</td>
                 </tr>
                 <tr>
@@ -7634,7 +7634,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/black7375/Firefox-UI-Fix.git</td>
                 </tr>
                 <tr>
@@ -7679,7 +7679,7 @@ show me my starred repo
                     <td>http://javascript.ruanyifeng.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ruanyf/jstutorial.git</td>
                 </tr>
                 <tr>
@@ -7724,7 +7724,7 @@ show me my starred repo
                     <td>https://veal98.gitee.io/cs-wiki</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Veal98/CS-Wiki.git</td>
                 </tr>
                 <tr>
@@ -7769,7 +7769,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/you-dont-need/You-Dont-Need-JavaScript.git</td>
                 </tr>
                 <tr>
@@ -7814,7 +7814,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chokcoco/iCSS.git</td>
                 </tr>
                 <tr>
@@ -7859,7 +7859,7 @@ show me my starred repo
                     <td>https://cssicon.space/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wentin/cssicon.git</td>
                 </tr>
                 <tr>
@@ -7904,7 +7904,7 @@ show me my starred repo
                     <td>https://rime.im</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rime/home.git</td>
                 </tr>
                 <tr>
@@ -7949,7 +7949,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/WnP/vimwiki_markdown.git</td>
                 </tr>
                 <tr>
@@ -7994,7 +7994,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/iamcco/markdown-preview.vim.git</td>
                 </tr>
                 <tr>
@@ -8039,7 +8039,7 @@ show me my starred repo
                     <td>alibaba.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/alibaba.github.com.git</td>
                 </tr>
                 <tr>
@@ -8084,7 +8084,7 @@ show me my starred repo
                     <td>https://sparanoid.com/note/chinese-copywriting-guidelines/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sparanoid/chinese-copywriting-guidelines.git</td>
                 </tr>
                 <tr>
@@ -8129,7 +8129,7 @@ show me my starred repo
                     <td>https://pub.dev/packages/flutter_reaction_button</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/GeekAbdelouahed/flutter-reaction-button.git</td>
                 </tr>
                 <tr>
@@ -8174,7 +8174,7 @@ show me my starred repo
                     <td>https://authpass.app/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/authpass/authpass.git</td>
                 </tr>
                 <tr>
@@ -8219,7 +8219,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LianjiaTech/keframe.git</td>
                 </tr>
                 <tr>
@@ -8264,7 +8264,7 @@ show me my starred repo
                     <td>https://pub.dartlang.org/packages/drawing_animation</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/biocarl/drawing_animation.git</td>
                 </tr>
                 <tr>
@@ -8309,7 +8309,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/DroidsOnRoids/flutter-roadmap.git</td>
                 </tr>
                 <tr>
@@ -8354,7 +8354,7 @@ show me my starred repo
                     <td>https://youtu.be/_uOgXpEHNbc</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard.git</td>
                 </tr>
                 <tr>
@@ -8399,7 +8399,7 @@ show me my starred repo
                     <td>https://flutter-go.pub/website/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/flutter-go.git</td>
                 </tr>
                 <tr>
@@ -8444,7 +8444,7 @@ show me my starred repo
                     <td>https://vulhub.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vulhub/vulhub.git</td>
                 </tr>
                 <tr>
@@ -8489,7 +8489,7 @@ show me my starred repo
                     <td>http://spacemacs.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/syl20bnr/spacemacs.git</td>
                 </tr>
                 <tr>
@@ -8534,7 +8534,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cdr/sshcode.git</td>
                 </tr>
                 <tr>
@@ -8579,7 +8579,7 @@ show me my starred repo
                     <td>https://godoc.org/github.com/gliderlabs/ssh</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gliderlabs/ssh.git</td>
                 </tr>
                 <tr>
@@ -8624,7 +8624,7 @@ show me my starred repo
                     <td>https://www.cloudwego.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cloudwego/kitex.git</td>
                 </tr>
                 <tr>
@@ -8669,7 +8669,7 @@ show me my starred repo
                     <td>https://www.ory.sh/kratos/?utm_source=github&utm_medium=banner&utm_campaign=kratos</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ory/kratos.git</td>
                 </tr>
                 <tr>
@@ -8714,7 +8714,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pingcap/parser.git</td>
                 </tr>
                 <tr>
@@ -8759,7 +8759,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mathaou/termdbms.git</td>
                 </tr>
                 <tr>
@@ -8804,16 +8804,16 @@ show me my starred repo
                     <td>https://podman.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/containers/podman.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:02:46</td>
+                    <td>09/21/21 02:21:48</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:02:46Z</td>
+                    <td>2021-09-20T18:21:48Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -8849,7 +8849,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/binance-chain/bsc.git</td>
                 </tr>
                 <tr>
@@ -8894,7 +8894,7 @@ show me my starred repo
                     <td>https://godoc.org/github.com/gokcehan/lf</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gokcehan/lf.git</td>
                 </tr>
                 <tr>
@@ -8939,7 +8939,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/armosec/kubescape.git</td>
                 </tr>
                 <tr>
@@ -8984,7 +8984,7 @@ show me my starred repo
                     <td>https://sealyun.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fanux/sealos.git</td>
                 </tr>
                 <tr>
@@ -9029,7 +9029,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ouqiang/gocron.git</td>
                 </tr>
                 <tr>
@@ -9074,7 +9074,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/didi/sharingan.git</td>
                 </tr>
                 <tr>
@@ -9119,7 +9119,7 @@ show me my starred repo
                     <td>https://www.hwholiday.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hwholiday/learning_tools.git</td>
                 </tr>
                 <tr>
@@ -9164,7 +9164,7 @@ show me my starred repo
                     <td>https://lindb.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lindb/lindb.git</td>
                 </tr>
                 <tr>
@@ -9209,7 +9209,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gokadin/ai-simplest-network.git</td>
                 </tr>
                 <tr>
@@ -9254,7 +9254,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sachaos/viddy.git</td>
                 </tr>
                 <tr>
@@ -9299,7 +9299,7 @@ show me my starred repo
                     <td>https://megaease.com/easegress/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/megaease/easegress.git</td>
                 </tr>
                 <tr>
@@ -9344,7 +9344,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/praetorian-inc/gokart.git</td>
                 </tr>
                 <tr>
@@ -9389,7 +9389,7 @@ show me my starred repo
                     <td>https://www.jaegertracing.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jaegertracing/jaeger.git</td>
                 </tr>
                 <tr>
@@ -9434,7 +9434,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/HFO4/gameboy.live.git</td>
                 </tr>
                 <tr>
@@ -9479,7 +9479,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fogleman/nes.git</td>
                 </tr>
                 <tr>
@@ -9524,7 +9524,7 @@ show me my starred repo
                     <td>https://www.vaultproject.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hashicorp/vault.git</td>
                 </tr>
                 <tr>
@@ -9569,7 +9569,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tophubs/TopList.git</td>
                 </tr>
                 <tr>
@@ -9614,7 +9614,7 @@ show me my starred repo
                     <td>https://gohugo.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gohugoio/hugo.git</td>
                 </tr>
                 <tr>
@@ -9659,7 +9659,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yedf/dtm.git</td>
                 </tr>
                 <tr>
@@ -9704,7 +9704,7 @@ show me my starred repo
                     <td>https://goim.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Terry-Mao/goim.git</td>
                 </tr>
                 <tr>
@@ -9749,7 +9749,7 @@ show me my starred repo
                     <td>http://www.erda.cloud</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/erda-project/erda.git</td>
                 </tr>
                 <tr>
@@ -9794,7 +9794,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/CBL-Mariner.git</td>
                 </tr>
                 <tr>
@@ -9839,7 +9839,7 @@ show me my starred repo
                     <td>http://godoc.org/github.com/tsenart/vegeta/lib</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tsenart/vegeta.git</td>
                 </tr>
                 <tr>
@@ -9884,7 +9884,7 @@ show me my starred repo
                     <td>http://tmrts.com/go-patterns</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tmrts/go-patterns.git</td>
                 </tr>
                 <tr>
@@ -9929,7 +9929,7 @@ show me my starred repo
                     <td>https://earthly.dev</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/earthly/earthly.git</td>
                 </tr>
                 <tr>
@@ -9974,7 +9974,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/FastGitORG/fgit-go.git</td>
                 </tr>
                 <tr>
@@ -10019,7 +10019,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ossf/scorecard.git</td>
                 </tr>
                 <tr>
@@ -10064,7 +10064,7 @@ show me my starred repo
                     <td>https://github.com/dutchcoders/transfer.sh</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dutchcoders/transfer.sh.git</td>
                 </tr>
                 <tr>
@@ -10109,7 +10109,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SmartKeyerror/Psyduck.git</td>
                 </tr>
                 <tr>
@@ -10154,7 +10154,7 @@ show me my starred repo
                     <td>https://redis.uptrace.dev/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/go-redis/redis.git</td>
                 </tr>
                 <tr>
@@ -10199,7 +10199,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wxbool/video-srt-windows.git</td>
                 </tr>
                 <tr>
@@ -10244,7 +10244,7 @@ show me my starred repo
                     <td>https://filebrowser.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/filebrowser/filebrowser.git</td>
                 </tr>
                 <tr>
@@ -10289,7 +10289,7 @@ show me my starred repo
                     <td>https://wiretrustee.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wiretrustee/wiretrustee.git</td>
                 </tr>
                 <tr>
@@ -10334,7 +10334,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TritonHo/slides.git</td>
                 </tr>
                 <tr>
@@ -10379,7 +10379,7 @@ show me my starred repo
                     <td>https://www.cnblogs.com/Finley/category/1598973.html</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/HDT3213/godis.git</td>
                 </tr>
                 <tr>
@@ -10424,7 +10424,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/junegunn/fzf.git</td>
                 </tr>
                 <tr>
@@ -10469,7 +10469,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Jeffail/tunny.git</td>
                 </tr>
                 <tr>
@@ -10514,7 +10514,7 @@ show me my starred repo
                     <td>http://twitter.com/inancgumus</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/inancgumus/learngo.git</td>
                 </tr>
                 <tr>
@@ -10559,7 +10559,7 @@ show me my starred repo
                     <td>https://kubesphere.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kubesphere/kubesphere.git</td>
                 </tr>
                 <tr>
@@ -10604,7 +10604,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bradleyjkemp/memviz.git</td>
                 </tr>
                 <tr>
@@ -10649,7 +10649,7 @@ show me my starred repo
                     <td>https://www.30secondsofcode.org/go/p/1</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/30-seconds/30-seconds-of-golang.git</td>
                 </tr>
                 <tr>
@@ -10694,7 +10694,7 @@ show me my starred repo
                     <td>https://github.com/golang-jwt/jwt</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dgrijalva/jwt-go.git</td>
                 </tr>
                 <tr>
@@ -10739,7 +10739,7 @@ show me my starred repo
                     <td>https://www.terraform.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hashicorp/terraform.git</td>
                 </tr>
                 <tr>
@@ -10784,7 +10784,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/smallnest/gen.git</td>
                 </tr>
                 <tr>
@@ -10829,7 +10829,7 @@ show me my starred repo
                     <td>http://maaslalani.com/slides/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/maaslalani/slides.git</td>
                 </tr>
                 <tr>
@@ -10874,7 +10874,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/go-jsonnet.git</td>
                 </tr>
                 <tr>
@@ -10919,7 +10919,7 @@ show me my starred repo
                     <td>https://github.com/thedevsaddam/gojsonq/wiki</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/thedevsaddam/gojsonq.git</td>
                 </tr>
                 <tr>
@@ -10964,7 +10964,7 @@ show me my starred repo
                     <td>https://kubernetes.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kubernetes/kubernetes.git</td>
                 </tr>
                 <tr>
@@ -11009,7 +11009,7 @@ show me my starred repo
                     <td>https://unidoc.io/unioffice/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/unidoc/unioffice.git</td>
                 </tr>
                 <tr>
@@ -11054,7 +11054,7 @@ show me my starred repo
                     <td>https://projectdiscovery.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/projectdiscovery/httpx.git</td>
                 </tr>
                 <tr>
@@ -11099,7 +11099,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nektos/act.git</td>
                 </tr>
                 <tr>
@@ -11144,7 +11144,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sorenisanerd/gotty.git</td>
                 </tr>
                 <tr>
@@ -11189,7 +11189,7 @@ show me my starred repo
                     <td>https://cointop.sh</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/miguelmota/cointop.git</td>
                 </tr>
                 <tr>
@@ -11234,7 +11234,7 @@ show me my starred repo
                     <td>https://space.bilibili.com/26194591</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/roseduan/rosedb.git</td>
                 </tr>
                 <tr>
@@ -11279,7 +11279,7 @@ show me my starred repo
                     <td>https://cloudreve.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cloudreve/Cloudreve.git</td>
                 </tr>
                 <tr>
@@ -11324,7 +11324,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gwuhaolin/livego.git</td>
                 </tr>
                 <tr>
@@ -11369,7 +11369,7 @@ show me my starred repo
                     <td>https://pingcap.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pingcap/tidb.git</td>
                 </tr>
                 <tr>
@@ -11407,23 +11407,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>4125</td>
+                    <td>4126</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lima-vm/lima.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 23:49:04</td>
+                    <td>09/21/21 02:19:39</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T15:49:04Z</td>
+                    <td>2021-09-20T18:19:39Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -11459,7 +11459,7 @@ show me my starred repo
                     <td>https://github.com/godcong/fate</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/godcong/fate.git</td>
                 </tr>
                 <tr>
@@ -11504,7 +11504,7 @@ show me my starred repo
                     <td>https://sundowndev.github.io/phoneinfoga</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sundowndev/phoneinfoga.git</td>
                 </tr>
                 <tr>
@@ -11542,23 +11542,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>90016</td>
+                    <td>90017</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://golang.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/golang/go.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:07:32</td>
+                    <td>09/21/21 02:21:13</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:07:32Z</td>
+                    <td>2021-09-20T18:21:13Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -11594,7 +11594,7 @@ show me my starred repo
                     <td>https://min.io/download</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/minio/minio.git</td>
                 </tr>
                 <tr>
@@ -11639,7 +11639,7 @@ show me my starred repo
                     <td>https://photoprism.app/features</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/photoprism/photoprism.git</td>
                 </tr>
                 <tr>
@@ -11684,7 +11684,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/RH12503/triangula.git</td>
                 </tr>
                 <tr>
@@ -11729,7 +11729,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TheAlgorithms/Go.git</td>
                 </tr>
                 <tr>
@@ -11774,7 +11774,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/charmbracelet/lipgloss.git</td>
                 </tr>
                 <tr>
@@ -11819,7 +11819,7 @@ show me my starred repo
                     <td>https://awesome-go.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/avelino/awesome-go.git</td>
                 </tr>
                 <tr>
@@ -11864,7 +11864,7 @@ show me my starred repo
                     <td>https://d7y.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dragonflyoss/Dragonfly.git</td>
                 </tr>
                 <tr>
@@ -11902,23 +11902,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>13900</td>
+                    <td>13901</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/grafana/k6.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:43:34</td>
+                    <td>09/21/21 02:21:46</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:43:34Z</td>
+                    <td>2021-09-20T18:21:46Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -11954,7 +11954,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/utkusen/urlhunter.git</td>
                 </tr>
                 <tr>
@@ -11992,23 +11992,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>11016</td>
+                    <td>11022</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://go-zero.dev</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/zeromicro/go-zero.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:13:12</td>
+                    <td>09/21/21 02:22:58</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:13:12Z</td>
+                    <td>2021-09-20T18:22:58Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -12044,7 +12044,7 @@ show me my starred repo
                     <td>https://lazykube.tnk-studio.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TNK-Studio/lazykube.git</td>
                 </tr>
                 <tr>
@@ -12089,7 +12089,7 @@ show me my starred repo
                     <td>https://forum.syncthing.net/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/syncthing/syncthing.git</td>
                 </tr>
                 <tr>
@@ -12134,7 +12134,7 @@ show me my starred repo
                     <td>https://docs.inlets.dev</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/inlets/inlets-archived.git</td>
                 </tr>
                 <tr>
@@ -12179,7 +12179,7 @@ show me my starred repo
                     <td>https://k0sproject.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/k0sproject/k0s.git</td>
                 </tr>
                 <tr>
@@ -12224,7 +12224,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/RedisShake.git</td>
                 </tr>
                 <tr>
@@ -12269,7 +12269,7 @@ show me my starred repo
                     <td>http://deathking.github.io/yast-cn/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/DeathKing/yast-cn.git</td>
                 </tr>
                 <tr>
@@ -12314,7 +12314,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/AhmadRafiee/Docker_training_with_DockerMe.git</td>
                 </tr>
                 <tr>
@@ -12359,7 +12359,7 @@ show me my starred repo
                     <td>https://vpncn.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vpncn/vpncn.github.io.git</td>
                 </tr>
                 <tr>
@@ -12404,7 +12404,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fireship-io/222-responsive-icon-nav-css.git</td>
                 </tr>
                 <tr>
@@ -12449,7 +12449,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/maple5233/-Computer-Organization-and-Design-Notes.git</td>
                 </tr>
                 <tr>
@@ -12494,7 +12494,7 @@ show me my starred repo
                     <td>http://lamberta.github.io/html5-animation/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lamberta/html5-animation.git</td>
                 </tr>
                 <tr>
@@ -12539,7 +12539,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/supperjet/H5-Animation.git</td>
                 </tr>
                 <tr>
@@ -12584,7 +12584,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chinesehuazhou/chinesehuazhou.github.io.git</td>
                 </tr>
                 <tr>
@@ -12629,7 +12629,7 @@ show me my starred repo
                     <td>https://vasturiano.github.io/3d-force-graph/example/large-graph/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vasturiano/3d-force-graph.git</td>
                 </tr>
                 <tr>
@@ -12674,7 +12674,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jCodeLife/learn-vue3.git</td>
                 </tr>
                 <tr>
@@ -12719,7 +12719,7 @@ show me my starred repo
                     <td>https://resume.mdedit.online/erke/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hua1995116/360-sneakers-viewer.git</td>
                 </tr>
                 <tr>
@@ -12764,7 +12764,7 @@ show me my starred repo
                     <td>https://raspberrypi.org/documentation</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/raspberrypi/documentation.git</td>
                 </tr>
                 <tr>
@@ -12809,7 +12809,7 @@ show me my starred repo
                     <td>https://shd101wyy.github.io/markdown-preview-enhanced</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/shd101wyy/markdown-preview-enhanced.git</td>
                 </tr>
                 <tr>
@@ -12854,7 +12854,7 @@ show me my starred repo
                     <td>http://RedisDoc.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/huangz1990/redis.git</td>
                 </tr>
                 <tr>
@@ -12899,7 +12899,7 @@ show me my starred repo
                     <td>https://zxuqian.github.io/html-css-examples/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/zxuqian/html-css-examples.git</td>
                 </tr>
                 <tr>
@@ -12944,7 +12944,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/d-levin/vue-advanced-workshop.git</td>
                 </tr>
                 <tr>
@@ -12989,7 +12989,7 @@ show me my starred repo
                     <td>https://copilot.misterGF.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/misterGF/CoPilot.git</td>
                 </tr>
                 <tr>
@@ -13034,7 +13034,7 @@ show me my starred repo
                     <td>https://developer.mozilla.org/en-US/docs/Web/API</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mdn/dom-examples.git</td>
                 </tr>
                 <tr>
@@ -13079,7 +13079,7 @@ show me my starred repo
                     <td>https://developer.mozilla.org/en-US/Learn</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mdn/learning-area.git</td>
                 </tr>
                 <tr>
@@ -13124,7 +13124,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/1tontech/bootstrap4-snippets.git</td>
                 </tr>
                 <tr>
@@ -13169,7 +13169,7 @@ show me my starred repo
                     <td>https://xiao555.github.io/Resume/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xiao555/resume-it.git</td>
                 </tr>
                 <tr>
@@ -13214,7 +13214,7 @@ show me my starred repo
                     <td>http://resume.congm.in</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mcc108/resume.git</td>
                 </tr>
                 <tr>
@@ -13259,7 +13259,7 @@ show me my starred repo
                     <td>http://resume.wuhaolin.cn</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gwuhaolin/resume.git</td>
                 </tr>
                 <tr>
@@ -13304,7 +13304,7 @@ show me my starred repo
                     <td>http://zhangwenli.com/cv</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Ovilia/cv.git</td>
                 </tr>
                 <tr>
@@ -13349,7 +13349,7 @@ show me my starred repo
                     <td>https://dom.spec.whatwg.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/whatwg/dom.git</td>
                 </tr>
                 <tr>
@@ -13394,7 +13394,7 @@ show me my starred repo
                     <td>https://ng-tech.icu/Database-Series</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wx-chevalier/Database-Series.git</td>
                 </tr>
                 <tr>
@@ -13439,7 +13439,7 @@ show me my starred repo
                     <td>http://gojs.net</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/NorthwoodsSoftware/GoJS.git</td>
                 </tr>
                 <tr>
@@ -13484,7 +13484,7 @@ show me my starred repo
                     <td>http://addyosmani.com/resources/essentialjsdesignpatterns/book/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/addyosmani/essential-js-design-patterns.git</td>
                 </tr>
                 <tr>
@@ -13529,7 +13529,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jwasham/computer-science-flash-cards.git</td>
                 </tr>
                 <tr>
@@ -13574,7 +13574,7 @@ show me my starred repo
                     <td>https://bansal.io/pattern-css</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bansal-io/pattern.css.git</td>
                 </tr>
                 <tr>
@@ -13619,7 +13619,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/WeeJeWel/wg-easy.git</td>
                 </tr>
                 <tr>
@@ -13664,7 +13664,7 @@ show me my starred repo
                     <td>https://ChartsCSS.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ChartsCSS/charts.css.git</td>
                 </tr>
                 <tr>
@@ -13709,7 +13709,7 @@ show me my starred repo
                     <td>https://docs.docker.com/compose/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/docker/awesome-compose.git</td>
                 </tr>
                 <tr>
@@ -13754,7 +13754,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/roy-tian/learning-area.git</td>
                 </tr>
                 <tr>
@@ -13799,7 +13799,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/twitter/twemoji.git</td>
                 </tr>
                 <tr>
@@ -13844,7 +13844,7 @@ show me my starred repo
                     <td>https://ng-tech.icu/Web-Series</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wx-chevalier/Web-Series.git</td>
                 </tr>
                 <tr>
@@ -13889,7 +13889,7 @@ show me my starred repo
                     <td>https://spandan-madan.github.io/DeepLearningProject/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Spandan-Madan/DeepLearningProject.git</td>
                 </tr>
                 <tr>
@@ -13934,7 +13934,7 @@ show me my starred repo
                     <td>https://google.github.io/styleguide/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/styleguide.git</td>
                 </tr>
                 <tr>
@@ -13979,7 +13979,7 @@ show me my starred repo
                     <td>https://www.noob-hackers.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/noob-hackers/grabcam.git</td>
                 </tr>
                 <tr>
@@ -14024,7 +14024,7 @@ show me my starred repo
                     <td>https://free-for.dev/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ripienaar/free-for-dev.git</td>
                 </tr>
                 <tr>
@@ -14069,7 +14069,7 @@ show me my starred repo
                     <td>https://developers.google.com/web/fundamentals</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/WebFundamentals.git</td>
                 </tr>
                 <tr>
@@ -14114,7 +14114,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/alpha.git</td>
                 </tr>
                 <tr>
@@ -14159,7 +14159,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/htr-tech/zphisher.git</td>
                 </tr>
                 <tr>
@@ -14204,7 +14204,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/seaswalker/spring-analysis.git</td>
                 </tr>
                 <tr>
@@ -14249,7 +14249,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/00-Evan/shattered-pixel-dungeon.git</td>
                 </tr>
                 <tr>
@@ -14294,7 +14294,7 @@ show me my starred repo
                     <td>https://www.techempower.com/benchmarks/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TechEmpower/FrameworkBenchmarks.git</td>
                 </tr>
                 <tr>
@@ -14339,7 +14339,7 @@ show me my starred repo
                     <td>https://activej.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/activej/activej.git</td>
                 </tr>
                 <tr>
@@ -14384,7 +14384,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/WecanStudio/Android.git</td>
                 </tr>
                 <tr>
@@ -14429,7 +14429,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/linlinjava/litemall.git</td>
                 </tr>
                 <tr>
@@ -14474,7 +14474,7 @@ show me my starred repo
                     <td>https://lettuce.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lettuce-io/lettuce-core.git</td>
                 </tr>
                 <tr>
@@ -14519,7 +14519,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ximsfei/Android-skin-support.git</td>
                 </tr>
                 <tr>
@@ -14564,7 +14564,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/trello/RxLifecycle.git</td>
                 </tr>
                 <tr>
@@ -14609,7 +14609,7 @@ show me my starred repo
                     <td>https://capacitorjs.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ionic-team/capacitor.git</td>
                 </tr>
                 <tr>
@@ -14654,7 +14654,7 @@ show me my starred repo
                     <td>https://el-admin.xin</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/elunez/eladmin.git</td>
                 </tr>
                 <tr>
@@ -14699,7 +14699,7 @@ show me my starred repo
                     <td>https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java.git</td>
                 </tr>
                 <tr>
@@ -14744,7 +14744,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/trekawek/coffee-gb.git</td>
                 </tr>
                 <tr>
@@ -14789,7 +14789,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xuhuisheng/lemon.git</td>
                 </tr>
                 <tr>
@@ -14834,7 +14834,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/BerserkerHercules/OfficeAutomatic-System.git</td>
                 </tr>
                 <tr>
@@ -14879,7 +14879,7 @@ show me my starred repo
                     <td>https://k9mail.app/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/k9mail/k-9.git</td>
                 </tr>
                 <tr>
@@ -14924,7 +14924,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wsj1024/FengYunWeather.git</td>
                 </tr>
                 <tr>
@@ -14969,7 +14969,7 @@ show me my starred repo
                     <td>https://dataease.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dataease/dataease.git</td>
                 </tr>
                 <tr>
@@ -15014,7 +15014,7 @@ show me my starred repo
                     <td>https://mybatis.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pagehelper/Mybatis-PageHelper.git</td>
                 </tr>
                 <tr>
@@ -15059,7 +15059,7 @@ show me my starred repo
                     <td>http://sa-token.dev33.cn/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dromara/Sa-Token.git</td>
                 </tr>
                 <tr>
@@ -15104,7 +15104,7 @@ show me my starred repo
                     <td>http://mixpanel.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mixpanel/mixpanel-android.git</td>
                 </tr>
                 <tr>
@@ -15149,7 +15149,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/davidmoten/rtree.git</td>
                 </tr>
                 <tr>
@@ -15194,7 +15194,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rovo89/XposedInstaller.git</td>
                 </tr>
                 <tr>
@@ -15239,7 +15239,7 @@ show me my starred repo
                     <td>https://www.traccar.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/traccar/traccar.git</td>
                 </tr>
                 <tr>
@@ -15284,7 +15284,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/ExoPlayer.git</td>
                 </tr>
                 <tr>
@@ -15329,7 +15329,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alipay/SoloPi.git</td>
                 </tr>
                 <tr>
@@ -15374,7 +15374,7 @@ show me my starred repo
                     <td>http://www.powerjob.tech/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PowerJob/PowerJob.git</td>
                 </tr>
                 <tr>
@@ -15419,7 +15419,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/didi/LogiKM.git</td>
                 </tr>
                 <tr>
@@ -15464,7 +15464,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fenixsoft/jvm_book.git</td>
                 </tr>
                 <tr>
@@ -15509,16 +15509,16 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/s4kibs4mi/java-developer-roadmap.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 22:26:04</td>
+                    <td>09/21/21 02:19:43</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T14:26:04Z</td>
+                    <td>2021-09-20T18:19:43Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -15554,7 +15554,7 @@ show me my starred repo
                     <td>http://apijson.cn</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Tencent/APIJSON.git</td>
                 </tr>
                 <tr>
@@ -15599,7 +15599,7 @@ show me my starred repo
                     <td>https://tech.meituan.com/meituan_waimai_android_open_source_routing_framework.html</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/meituan/WMRouter.git</td>
                 </tr>
                 <tr>
@@ -15644,7 +15644,7 @@ show me my starred repo
                     <td>http://xpay.exrick.cn/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Exrick/xpay.git</td>
                 </tr>
                 <tr>
@@ -15689,7 +15689,7 @@ show me my starred repo
                     <td>http://xmall.exrick.cn</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Exrick/xmall.git</td>
                 </tr>
                 <tr>
@@ -15734,7 +15734,7 @@ show me my starred repo
                     <td>https://airbyte.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/airbytehq/airbyte.git</td>
                 </tr>
                 <tr>
@@ -15779,7 +15779,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/theonedev/onedev.git</td>
                 </tr>
                 <tr>
@@ -15824,7 +15824,7 @@ show me my starred repo
                     <td>https://ibotpeaches.github.io/Apktool</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/iBotPeaches/Apktool.git</td>
                 </tr>
                 <tr>
@@ -15869,7 +15869,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/AhmadElsagheer/Competitive-programming-library.git</td>
                 </tr>
                 <tr>
@@ -15907,23 +15907,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>7114</td>
+                    <td>7115</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://doocs.github.io/leetcode</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/doocs/leetcode.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 23:22:29</td>
+                    <td>09/21/21 02:22:39</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T15:22:29Z</td>
+                    <td>2021-09-20T18:22:39Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -15959,7 +15959,7 @@ show me my starred repo
                     <td>http://www.robotium.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/RobotiumTech/robotium.git</td>
                 </tr>
                 <tr>
@@ -16004,7 +16004,7 @@ show me my starred repo
                     <td>https://yalantis.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Yalantis/Phoenix.git</td>
                 </tr>
                 <tr>
@@ -16049,7 +16049,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chefyuan/algorithm-base.git</td>
                 </tr>
                 <tr>
@@ -16094,7 +16094,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/981011512/--.git</td>
                 </tr>
                 <tr>
@@ -16139,7 +16139,7 @@ show me my starred repo
                     <td>http://netty.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/netty/netty.git</td>
                 </tr>
                 <tr>
@@ -16184,7 +16184,7 @@ show me my starred repo
                     <td>https://djl.ai</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/deepjavalibrary/djl.git</td>
                 </tr>
                 <tr>
@@ -16229,7 +16229,7 @@ show me my starred repo
                     <td>https://www.hollischuang.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hollischuang/toBeTopJavaer.git</td>
                 </tr>
                 <tr>
@@ -16274,7 +16274,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/guava.git</td>
                 </tr>
                 <tr>
@@ -16319,7 +16319,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ReactiveX/RxJava.git</td>
                 </tr>
                 <tr>
@@ -16364,7 +16364,7 @@ show me my starred repo
                     <td>http://winterbe.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/winterbe/java8-tutorial.git</td>
                 </tr>
                 <tr>
@@ -16409,7 +16409,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/DuGuQiuBai/Java.git</td>
                 </tr>
                 <tr>
@@ -16454,7 +16454,7 @@ show me my starred repo
                     <td>http://www.jeecg.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jeecgboot/jeecg-boot.git</td>
                 </tr>
                 <tr>
@@ -16499,7 +16499,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/peng-zhihui/DeepVision.git</td>
                 </tr>
                 <tr>
@@ -16544,7 +16544,7 @@ show me my starred repo
                     <td>http://osfans.github.io/trime/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/osfans/trime.git</td>
                 </tr>
                 <tr>
@@ -16589,7 +16589,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/GoogleLLP/SuperMarket.git</td>
                 </tr>
                 <tr>
@@ -16634,7 +16634,7 @@ show me my starred repo
                     <td>http://www.sonarqube.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SonarSource/sonarqube.git</td>
                 </tr>
                 <tr>
@@ -16679,7 +16679,7 @@ show me my starred repo
                     <td>https://www.geekxh.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/geekxh/hello-algorithm.git</td>
                 </tr>
                 <tr>
@@ -16724,7 +16724,7 @@ show me my starred repo
                     <td>http://www.cyc2018.xyz</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/CyC2018/CS-Notes.git</td>
                 </tr>
                 <tr>
@@ -16769,7 +16769,7 @@ show me my starred repo
                     <td>https://201206030.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/201206030/novel-cloud.git</td>
                 </tr>
                 <tr>
@@ -16814,7 +16814,7 @@ show me my starred repo
                     <td>https://201206030.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/201206030/novel-plus.git</td>
                 </tr>
                 <tr>
@@ -16859,7 +16859,7 @@ show me my starred repo
                     <td>https://201206030.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/201206030/fiction_house.git</td>
                 </tr>
                 <tr>
@@ -16904,7 +16904,7 @@ show me my starred repo
                     <td>https://mindustrygame.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Anuken/Mindustry.git</td>
                 </tr>
                 <tr>
@@ -16949,7 +16949,7 @@ show me my starred repo
                     <td>http://almasb.github.io/FXGLGames/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/AlmasB/FXGLGames.git</td>
                 </tr>
                 <tr>
@@ -16994,7 +16994,7 @@ show me my starred repo
                     <td>https://item.jd.com/12890115.html</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/newbee-ltd/newbee-mall.git</td>
                 </tr>
                 <tr>
@@ -17039,7 +17039,7 @@ show me my starred repo
                     <td>https://hutool.cn/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dromara/hutool.git</td>
                 </tr>
                 <tr>
@@ -17084,7 +17084,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yizhiwazi/springboot-socks.git</td>
                 </tr>
                 <tr>
@@ -17129,7 +17129,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kingyuluk/FlappyBird.git</td>
                 </tr>
                 <tr>
@@ -17174,7 +17174,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/braisdom/ObjectiveSql.git</td>
                 </tr>
                 <tr>
@@ -17219,7 +17219,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/JetBrains/skija.git</td>
                 </tr>
                 <tr>
@@ -17264,7 +17264,7 @@ show me my starred repo
                     <td>http://www.guofei.site</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/onepisYa/guofei9987.github.io.git</td>
                 </tr>
                 <tr>
@@ -17309,7 +17309,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mscdex/ssh2.git</td>
                 </tr>
                 <tr>
@@ -17354,7 +17354,7 @@ show me my starred repo
                     <td>https://www.xieit.com/forum-51-1.html</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/CloudKits/miniprogram-foodmap.git</td>
                 </tr>
                 <tr>
@@ -17399,7 +17399,7 @@ show me my starred repo
                     <td>http://fabricjs.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fabricjs/fabric.js.git</td>
                 </tr>
                 <tr>
@@ -17444,7 +17444,7 @@ show me my starred repo
                     <td>http://gobang.light7.cn/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lihongxun945/gobang.git</td>
                 </tr>
                 <tr>
@@ -17489,7 +17489,7 @@ show me my starred repo
                     <td>http://ksria.com/simpread</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Kenshin/simpread.git</td>
                 </tr>
                 <tr>
@@ -17534,7 +17534,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wesm/feather.git</td>
                 </tr>
                 <tr>
@@ -17579,7 +17579,7 @@ show me my starred repo
                     <td>https://feathericons.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/feathericons/feather.git</td>
                 </tr>
                 <tr>
@@ -17624,7 +17624,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Kagami/ffmpeg.js.git</td>
                 </tr>
                 <tr>
@@ -17669,7 +17669,7 @@ show me my starred repo
                     <td>http://antimatter15.github.io/ocrad.js/demo.html</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/antimatter15/ocrad.js.git</td>
                 </tr>
                 <tr>
@@ -17714,7 +17714,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/giscafer/wechat-weapp-mapdemo.git</td>
                 </tr>
                 <tr>
@@ -17759,7 +17759,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gooking/visitingCard.git</td>
                 </tr>
                 <tr>
@@ -17804,7 +17804,7 @@ show me my starred repo
                     <td>https://neteasecloudmusicapi.vercel.app</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Binaryify/NeteaseCloudMusicApi.git</td>
                 </tr>
                 <tr>
@@ -17849,7 +17849,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/iven35/Himalayan-lite.git</td>
                 </tr>
                 <tr>
@@ -17894,7 +17894,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/su37josephxia/frontend-basic.git</td>
                 </tr>
                 <tr>
@@ -17939,7 +17939,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/khanhas/spicetify-cli.git</td>
                 </tr>
                 <tr>
@@ -17984,7 +17984,7 @@ show me my starred repo
                     <td>https://liferestart.syaro.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/VickScarlet/lifeRestart.git</td>
                 </tr>
                 <tr>
@@ -18029,7 +18029,7 @@ show me my starred repo
                     <td>https://sourceacademy.org/sicpjs</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/source-academy/sicp.git</td>
                 </tr>
                 <tr>
@@ -18074,7 +18074,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/HashLips/generative-art-node.git</td>
                 </tr>
                 <tr>
@@ -18119,7 +18119,7 @@ show me my starred repo
                     <td>https://koodo.960960.xyz</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/troyeguo/koodo-reader.git</td>
                 </tr>
                 <tr>
@@ -18164,7 +18164,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/appium/appium-desktop.git</td>
                 </tr>
                 <tr>
@@ -18209,7 +18209,7 @@ show me my starred repo
                     <td>https://hexo.fluid-dev.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fluid-dev/hexo-theme-fluid.git</td>
                 </tr>
                 <tr>
@@ -18254,7 +18254,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/betaflight/betaflight-configurator.git</td>
                 </tr>
                 <tr>
@@ -18299,7 +18299,7 @@ show me my starred repo
                     <td>https://simpleicons.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/simple-icons/simple-icons.git</td>
                 </tr>
                 <tr>
@@ -18344,7 +18344,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/shufflewzc/faker2.git</td>
                 </tr>
                 <tr>
@@ -18389,7 +18389,7 @@ show me my starred repo
                     <td>https://getbootstrap.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/twbs/bootstrap.git</td>
                 </tr>
                 <tr>
@@ -18434,7 +18434,7 @@ show me my starred repo
                     <td>https://zzz.dog</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/metafizzy/zdog.git</td>
                 </tr>
                 <tr>
@@ -18479,7 +18479,7 @@ show me my starred repo
                     <td>https://www.brave.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/brave/brave-browser.git</td>
                 </tr>
                 <tr>
@@ -18524,7 +18524,7 @@ show me my starred repo
                     <td>https://www.brave.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/brave/browser-laptop.git</td>
                 </tr>
                 <tr>
@@ -18569,7 +18569,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bxm0927/canvas-special.git</td>
                 </tr>
                 <tr>
@@ -18614,7 +18614,7 @@ show me my starred repo
                     <td>https://insomnia.rest</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Kong/insomnia.git</td>
                 </tr>
                 <tr>
@@ -18659,7 +18659,7 @@ show me my starred repo
                     <td>https://react-beautiful-dnd.netlify.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/atlassian/react-beautiful-dnd.git</td>
                 </tr>
                 <tr>
@@ -18704,7 +18704,7 @@ show me my starred repo
                     <td>https://pomb.us/build-your-own-react/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pomber/didact.git</td>
                 </tr>
                 <tr>
@@ -18749,7 +18749,7 @@ show me my starred repo
                     <td>http://www.awesome-react-native.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jondot/awesome-react-native.git</td>
                 </tr>
                 <tr>
@@ -18794,7 +18794,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/norberteder/trello.git</td>
                 </tr>
                 <tr>
@@ -18839,7 +18839,7 @@ show me my starred repo
                     <td>https://github.com/FreeCodeCampChina/freecodecamp.cn</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/huluoyang/freecodecamp.cn.git</td>
                 </tr>
                 <tr>
@@ -18884,7 +18884,7 @@ show me my starred repo
                     <td>https://vue-clipboard2.inndy.tw/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Inndy/vue-clipboard2.git</td>
                 </tr>
                 <tr>
@@ -18929,7 +18929,7 @@ show me my starred repo
                     <td>https://clipboardjs.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/zenorocha/clipboard.js.git</td>
                 </tr>
                 <tr>
@@ -18974,7 +18974,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/jscodeshift.git</td>
                 </tr>
                 <tr>
@@ -19019,7 +19019,7 @@ show me my starred repo
                     <td>https://www.eveningwater.com/my-web-projects/home/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/eveningwater/my-web-projects.git</td>
                 </tr>
                 <tr>
@@ -19064,7 +19064,7 @@ show me my starred repo
                     <td>VelocityJS.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/julianshapiro/velocity.git</td>
                 </tr>
                 <tr>
@@ -19109,7 +19109,7 @@ show me my starred repo
                     <td>https://greensock.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/greensock/GSAP.git</td>
                 </tr>
                 <tr>
@@ -19154,7 +19154,7 @@ show me my starred repo
                     <td>https://git.hust.cc/canvas-nest.js</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hustcc/canvas-nest.js.git</td>
                 </tr>
                 <tr>
@@ -19199,7 +19199,7 @@ show me my starred repo
                     <td>hyperandroid.github.com/CAAT</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hyperandroid/CAAT.git</td>
                 </tr>
                 <tr>
@@ -19244,7 +19244,7 @@ show me my starred repo
                     <td>https://animejs.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/juliangarnier/anime.git</td>
                 </tr>
                 <tr>
@@ -19289,7 +19289,7 @@ show me my starred repo
                     <td>http://joanclaret.github.io/html5-canvas-animation/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/JoanClaret/html5-canvas-animation.git</td>
                 </tr>
                 <tr>
@@ -19334,7 +19334,7 @@ show me my starred repo
                     <td>https://nativescript-vue.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nativescript-vue/nativescript-vue.git</td>
                 </tr>
                 <tr>
@@ -19379,7 +19379,7 @@ show me my starred repo
                     <td>https://tnfe.github.io/wp2vite/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tnfe/wp2vite.git</td>
                 </tr>
                 <tr>
@@ -19424,7 +19424,7 @@ show me my starred repo
                     <td>https://fishdraw.glitch.me/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LingDong-/fishdraw.git</td>
                 </tr>
                 <tr>
@@ -19469,7 +19469,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jlongster/absurd-sql.git</td>
                 </tr>
                 <tr>
@@ -19514,7 +19514,7 @@ show me my starred repo
                     <td>https://api.ihint.me/zi</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/BlueSky-07/Zi.git</td>
                 </tr>
                 <tr>
@@ -19559,7 +19559,7 @@ show me my starred repo
                     <td>https://api.ihint.me/shuang</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/BlueSky-07/Shuang.git</td>
                 </tr>
                 <tr>
@@ -19604,7 +19604,7 @@ show me my starred repo
                     <td>https://www.11ty.dev/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/11ty/eleventy.git</td>
                 </tr>
                 <tr>
@@ -19649,7 +19649,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/57code/vue-study.git</td>
                 </tr>
                 <tr>
@@ -19694,7 +19694,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/su37josephxia/vue3-study.git</td>
                 </tr>
                 <tr>
@@ -19739,7 +19739,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alyssaxuu/mapus.git</td>
                 </tr>
                 <tr>
@@ -19784,7 +19784,7 @@ show me my starred repo
                     <td>http://www.o2oa.net/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/o2oa/o2oa.git</td>
                 </tr>
                 <tr>
@@ -19829,7 +19829,7 @@ show me my starred repo
                     <td>http://vuepack.surge.sh</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/egoist/vuepack.git</td>
                 </tr>
                 <tr>
@@ -19874,7 +19874,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/shrekshrek/aep.git</td>
                 </tr>
                 <tr>
@@ -19919,7 +19919,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/shrekshrek/css3d-engine.git</td>
                 </tr>
                 <tr>
@@ -19964,7 +19964,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/josdirksen/learning-threejs.git</td>
                 </tr>
                 <tr>
@@ -20009,7 +20009,7 @@ show me my starred repo
                     <td>https://discord.gg/HF4UdyF</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/threejs/discord-bot.git</td>
                 </tr>
                 <tr>
@@ -20054,7 +20054,7 @@ show me my starred repo
                     <td>https://chrome.google.com/webstore/detail/threejs-developer-tools/ebpnegggocnnhleeicgljbedjkganaek</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/threejs/three-devtools.git</td>
                 </tr>
                 <tr>
@@ -20099,7 +20099,7 @@ show me my starred repo
                     <td>http://mofas.github.io/mindMap/dist/index.html</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mofas/mindMap.git</td>
                 </tr>
                 <tr>
@@ -20144,7 +20144,7 @@ show me my starred repo
                     <td>https://waypointproject.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hashicorp/waypoint.git</td>
                 </tr>
                 <tr>
@@ -20189,7 +20189,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/doublespeakgames/adarkroom.git</td>
                 </tr>
                 <tr>
@@ -20234,7 +20234,7 @@ show me my starred repo
                     <td>https://cloudr-f2e.github.io/rubick</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/clouDr-f2e/rubick.git</td>
                 </tr>
                 <tr>
@@ -20279,7 +20279,7 @@ show me my starred repo
                     <td>http://bitwiseshiftleft.github.com/sjcl/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bitwiseshiftleft/sjcl.git</td>
                 </tr>
                 <tr>
@@ -20324,7 +20324,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/snabbdom/snabbdom-to-html.git</td>
                 </tr>
                 <tr>
@@ -20369,7 +20369,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LingDong-/cope.git</td>
                 </tr>
                 <tr>
@@ -20414,7 +20414,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Aeraphe/xvba-repo.git</td>
                 </tr>
                 <tr>
@@ -20459,7 +20459,7 @@ show me my starred repo
                     <td>https://darrenjennings.github.io/vue-autosuggest</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/darrenjennings/vue-autosuggest.git</td>
                 </tr>
                 <tr>
@@ -20504,7 +20504,7 @@ show me my starred repo
                     <td>http://react-syntax-highlighter.github.io/react-syntax-highlighter/demo/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/react-syntax-highlighter/react-syntax-highlighter.git</td>
                 </tr>
                 <tr>
@@ -20549,7 +20549,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/metachris/vue-highlightjs.git</td>
                 </tr>
                 <tr>
@@ -20594,7 +20594,7 @@ show me my starred repo
                     <td>http://highlightjs.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/components/highlightjs.git</td>
                 </tr>
                 <tr>
@@ -20639,7 +20639,7 @@ show me my starred repo
                     <td>https://marked.js.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/markedjs/marked.git</td>
                 </tr>
                 <tr>
@@ -20684,7 +20684,7 @@ show me my starred repo
                     <td>http://www.showdownjs.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/showdownjs/showdown.git</td>
                 </tr>
                 <tr>
@@ -20729,7 +20729,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/HookyQR/VSCodeBeautify.git</td>
                 </tr>
                 <tr>
@@ -20774,7 +20774,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hezhongfeng/vue-page-stack.git</td>
                 </tr>
                 <tr>
@@ -20819,7 +20819,7 @@ show me my starred repo
                     <td>https://carbon.now.sh</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/carbon-app/carbon.git</td>
                 </tr>
                 <tr>
@@ -20864,7 +20864,7 @@ show me my starred repo
                     <td>https://hexo.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hexojs/hexo.git</td>
                 </tr>
                 <tr>
@@ -20909,7 +20909,7 @@ show me my starred repo
                     <td>https://documentjs.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bitovi/documentjs.git</td>
                 </tr>
                 <tr>
@@ -20954,7 +20954,7 @@ show me my starred repo
                     <td>https://esdoc.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/esdoc/esdoc.git</td>
                 </tr>
                 <tr>
@@ -20999,7 +20999,7 @@ show me my starred repo
                     <td>https://jsdoc.app/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jsdoc/jsdoc.git</td>
                 </tr>
                 <tr>
@@ -21044,7 +21044,7 @@ show me my starred repo
                     <td>http://docpress.github.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/docpress/docpress.git</td>
                 </tr>
                 <tr>
@@ -21089,7 +21089,7 @@ show me my starred repo
                     <td>https://www.gitbook.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/GitbookIO/gitbook.git</td>
                 </tr>
                 <tr>
@@ -21134,7 +21134,7 @@ show me my starred repo
                     <td>https://docute.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/egoist/docute.git</td>
                 </tr>
                 <tr>
@@ -21179,7 +21179,7 @@ show me my starred repo
                     <td>https://docsify.js.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/docsifyjs/docsify.git</td>
                 </tr>
                 <tr>
@@ -21224,7 +21224,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/thx/gogocode.git</td>
                 </tr>
                 <tr>
@@ -21269,7 +21269,7 @@ show me my starred repo
                     <td>https://www.netlifycms.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/netlify/netlify-cms.git</td>
                 </tr>
                 <tr>
@@ -21314,7 +21314,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fhefh2015/Fast-GitHub.git</td>
                 </tr>
                 <tr>
@@ -21359,7 +21359,7 @@ show me my starred repo
                     <td>https://www.showdoc.com.cn</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/star7th/showdoc.git</td>
                 </tr>
                 <tr>
@@ -21404,7 +21404,7 @@ show me my starred repo
                     <td>https://fakeflix-clone.vercel.app/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Th3Wall/Fakeflix.git</td>
                 </tr>
                 <tr>
@@ -21449,7 +21449,7 @@ show me my starred repo
                     <td>https://github.com/cujojs/curl/wiki</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cujojs/curl.git</td>
                 </tr>
                 <tr>
@@ -21494,7 +21494,7 @@ show me my starred repo
                     <td>https://www.odoo.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/odoo/odoo.git</td>
                 </tr>
                 <tr>
@@ -21539,7 +21539,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Code-Pop/vue-3-reactivity.git</td>
                 </tr>
                 <tr>
@@ -21584,7 +21584,7 @@ show me my starred repo
                     <td>https://fontawesome.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/FortAwesome/vue-fontawesome.git</td>
                 </tr>
                 <tr>
@@ -21629,7 +21629,7 @@ show me my starred repo
                     <td>https://fontawesome.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/FortAwesome/react-fontawesome.git</td>
                 </tr>
                 <tr>
@@ -21674,7 +21674,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ascoders/weekly.git</td>
                 </tr>
                 <tr>
@@ -21719,7 +21719,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast.git</td>
                 </tr>
                 <tr>
@@ -21764,7 +21764,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/romashamin/Size-Marks-PS.git</td>
                 </tr>
                 <tr>
@@ -21809,7 +21809,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bronzehedwick/Adobe-Export-Scripts.git</td>
                 </tr>
                 <tr>
@@ -21854,7 +21854,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Silly-V/Adobe-Illustrator.git</td>
                 </tr>
                 <tr>
@@ -21899,7 +21899,7 @@ show me my starred repo
                     <td>https://tailwindcss-custom-forms.netlify.app/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tailwindlabs/tailwindcss-custom-forms.git</td>
                 </tr>
                 <tr>
@@ -21944,7 +21944,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tailwindlabs/tailwindcss-typography.git</td>
                 </tr>
                 <tr>
@@ -21989,7 +21989,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tailwindlabs/tailwindcss-jit.git</td>
                 </tr>
                 <tr>
@@ -22034,7 +22034,7 @@ show me my starred repo
                     <td>https://heroicons.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tailwindlabs/heroicons.git</td>
                 </tr>
                 <tr>
@@ -22079,7 +22079,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/react-ga/react-ga.git</td>
                 </tr>
                 <tr>
@@ -22124,7 +22124,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/upgundecha/howtheysre.git</td>
                 </tr>
                 <tr>
@@ -22169,7 +22169,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rovo89/XposedBridge.git</td>
                 </tr>
                 <tr>
@@ -22214,7 +22214,7 @@ show me my starred repo
                     <td>https://kanmail.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Oxygem/Kanmail.git</td>
                 </tr>
                 <tr>
@@ -22259,7 +22259,7 @@ show me my starred repo
                     <td>https://eruda.liriliri.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/liriliri/eruda.git</td>
                 </tr>
                 <tr>
@@ -22297,23 +22297,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>16373</td>
+                    <td>16374</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/typicode/lowdb.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:55:33</td>
+                    <td>09/21/21 02:21:37</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:55:33Z</td>
+                    <td>2021-09-20T18:21:37Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -22349,7 +22349,7 @@ show me my starred repo
                     <td>https://mooviejs.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/BMSVieira/moovie.js.git</td>
                 </tr>
                 <tr>
@@ -22394,7 +22394,7 @@ show me my starred repo
                     <td>https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mdn/webgl-examples.git</td>
                 </tr>
                 <tr>
@@ -22439,7 +22439,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mdn/web-speech-api.git</td>
                 </tr>
                 <tr>
@@ -22484,7 +22484,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mdn/web-components-examples.git</td>
                 </tr>
                 <tr>
@@ -22529,7 +22529,7 @@ show me my starred repo
                     <td>https://sheetjs.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SheetJS/sheetjs.git</td>
                 </tr>
                 <tr>
@@ -22574,7 +22574,7 @@ show me my starred repo
                     <td>https://eligrey.com/blog/saving-generated-files-on-the-client-side/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/eligrey/FileSaver.js.git</td>
                 </tr>
                 <tr>
@@ -22619,7 +22619,7 @@ show me my starred repo
                     <td>https://swiperjs.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nolimits4web/swiper.git</td>
                 </tr>
                 <tr>
@@ -22664,7 +22664,7 @@ show me my starred repo
                     <td>https://www.diagrams.net</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jgraph/drawio-desktop.git</td>
                 </tr>
                 <tr>
@@ -22709,7 +22709,7 @@ show me my starred repo
                     <td>https://www.diagrams.net</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jgraph/drawio.git</td>
                 </tr>
                 <tr>
@@ -22754,7 +22754,7 @@ show me my starred repo
                     <td>https://www.webrtc-experiment.com/msr/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/streamproc/MediaStreamRecorder.git</td>
                 </tr>
                 <tr>
@@ -22799,7 +22799,7 @@ show me my starred repo
                     <td>https://checklyhq.com/headless-recorder</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/checkly/headless-recorder.git</td>
                 </tr>
                 <tr>
@@ -22844,7 +22844,7 @@ show me my starred repo
                     <td>https://terminalizer.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/faressoft/terminalizer.git</td>
                 </tr>
                 <tr>
@@ -22889,7 +22889,7 @@ show me my starred repo
                     <td>https://stylus-lang.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/stylus/stylus.git</td>
                 </tr>
                 <tr>
@@ -22934,7 +22934,7 @@ show me my starred repo
                     <td>https://resume.mdnice.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mdnice/markdown-resume.git</td>
                 </tr>
                 <tr>
@@ -22979,7 +22979,7 @@ show me my starred repo
                     <td>https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xriley/Orbit-Theme.git</td>
                 </tr>
                 <tr>
@@ -23024,7 +23024,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ChangJoo-Park/Resume-Vue.git</td>
                 </tr>
                 <tr>
@@ -23069,7 +23069,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/FutaoSmile/resume-mini-program.git</td>
                 </tr>
                 <tr>
@@ -23114,7 +23114,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/coderwhy/LearnMiniProgram.git</td>
                 </tr>
                 <tr>
@@ -23159,7 +23159,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kezhenxu94/mini-github.git</td>
                 </tr>
                 <tr>
@@ -23204,7 +23204,7 @@ show me my starred repo
                     <td>https://jirengu-inc.github.io/animating-resume/public/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jirengu-inc/animating-resume.git</td>
                 </tr>
                 <tr>
@@ -23249,7 +23249,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/geekcompany/DeerResume.git</td>
                 </tr>
                 <tr>
@@ -23294,7 +23294,7 @@ show me my starred repo
                     <td>https://welovedevs.com/react-ultimate-resume</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/welovedevs/react-ultimate-resume.git</td>
                 </tr>
                 <tr>
@@ -23339,7 +23339,7 @@ show me my starred repo
                     <td>https://jsonresume.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jsonresume/resume-cli.git</td>
                 </tr>
                 <tr>
@@ -23377,23 +23377,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>49687</td>
+                    <td>49688</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://resume.github.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/resume/resume.github.com.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:13:57</td>
+                    <td>09/21/21 02:22:20</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:13:57Z</td>
+                    <td>2021-09-20T18:22:20Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -23429,7 +23429,7 @@ show me my starred repo
                     <td>http://www.egret.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/egret-labs/egret-core.git</td>
                 </tr>
                 <tr>
@@ -23474,7 +23474,7 @@ show me my starred repo
                     <td>https://www.cocos.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cocos2d/cocos2d-html5.git</td>
                 </tr>
                 <tr>
@@ -23519,7 +23519,7 @@ show me my starred repo
                     <td>https://spug.dev</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/openspug/spug.git</td>
                 </tr>
                 <tr>
@@ -23557,23 +23557,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>23481</td>
+                    <td>23482</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>http://codemirror.net/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/codemirror/CodeMirror.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 22:13:11</td>
+                    <td>09/21/21 02:21:03</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T14:13:11Z</td>
+                    <td>2021-09-20T18:21:03Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -23609,7 +23609,7 @@ show me my starred repo
                     <td>http://magicmirror.builders</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/MichMich/MagicMirror.git</td>
                 </tr>
                 <tr>
@@ -23654,7 +23654,7 @@ show me my starred repo
                     <td>https://twitter.com/autoprefixer</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/postcss/autoprefixer.git</td>
                 </tr>
                 <tr>
@@ -23699,7 +23699,7 @@ show me my starred repo
                     <td>https://viatsko.github.io/awesome-vscode/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/viatsko/awesome-vscode.git</td>
                 </tr>
                 <tr>
@@ -23744,7 +23744,7 @@ show me my starred repo
                     <td>https://ncov.shanyue.tech</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/shfshanyue/2019-ncov.git</td>
                 </tr>
                 <tr>
@@ -23789,7 +23789,7 @@ show me my starred repo
                     <td>https://30secondsofcode.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/30-seconds/30-seconds-web.git</td>
                 </tr>
                 <tr>
@@ -23834,7 +23834,7 @@ show me my starred repo
                     <td>https://github.com/microsoft/TypeScript-Website</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/TypeScript-Handbook.git</td>
                 </tr>
                 <tr>
@@ -23879,7 +23879,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Asabeneh/30-Days-Of-JavaScript.git</td>
                 </tr>
                 <tr>
@@ -23924,7 +23924,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/treadpit/wx_calendar.git</td>
                 </tr>
                 <tr>
@@ -23969,7 +23969,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alyssaxuu/flowy.git</td>
                 </tr>
                 <tr>
@@ -24014,7 +24014,7 @@ show me my starred repo
                     <td>http://flowchart.js.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/adrai/flowchart.js.git</td>
                 </tr>
                 <tr>
@@ -24059,7 +24059,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fbeline/design-patterns-JS.git</td>
                 </tr>
                 <tr>
@@ -24104,7 +24104,7 @@ show me my starred repo
                     <td>https://sdk-design.js.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hueitan/javascript-sdk-design.git</td>
                 </tr>
                 <tr>
@@ -24149,7 +24149,7 @@ show me my starred repo
                     <td>http://tcorral.github.com/Design-Patterns-in-Javascript/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tcorral/Design-Patterns-in-Javascript.git</td>
                 </tr>
                 <tr>
@@ -24194,7 +24194,7 @@ show me my starred repo
                     <td>https://unpkg.com/emojilib@latest</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/muan/emojilib.git</td>
                 </tr>
                 <tr>
@@ -24239,7 +24239,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jamiebuilds/react-loadable.git</td>
                 </tr>
                 <tr>
@@ -24284,7 +24284,7 @@ show me my starred repo
                     <td>http://git.io/git-tips</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/git-tips/tips.git</td>
                 </tr>
                 <tr>
@@ -24329,7 +24329,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/CavinCao/mini-blog.git</td>
                 </tr>
                 <tr>
@@ -24374,7 +24374,7 @@ show me my starred repo
                     <td>https://registry.hub.docker.com/r/lantianxiang1/jd_shell/tags?page=1&ordering=last_updated</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lan-tianxiang/jd_shell.git</td>
                 </tr>
                 <tr>
@@ -24419,7 +24419,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mechaniac/Map-of-Javascript.git</td>
                 </tr>
                 <tr>
@@ -24464,7 +24464,7 @@ show me my starred repo
                     <td>https://tooljet.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ToolJet/ToolJet.git</td>
                 </tr>
                 <tr>
@@ -24509,7 +24509,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/antvis/wx-f2.git</td>
                 </tr>
                 <tr>
@@ -24554,7 +24554,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/adam-golab/react-developer-roadmap.git</td>
                 </tr>
                 <tr>
@@ -24599,7 +24599,7 @@ show me my starred repo
                     <td>https://npm.im/greenlet</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/developit/greenlet.git</td>
                 </tr>
                 <tr>
@@ -24644,7 +24644,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jhu-ep-coursera/fullstack-course4.git</td>
                 </tr>
                 <tr>
@@ -24689,7 +24689,7 @@ show me my starred repo
                     <td>https://rahuldkjain.github.io/gh-profile-readme-generator</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rahuldkjain/github-profile-readme-generator.git</td>
                 </tr>
                 <tr>
@@ -24734,7 +24734,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xuhuai66/used-book-pro.git</td>
                 </tr>
                 <tr>
@@ -24779,7 +24779,7 @@ show me my starred repo
                     <td>https://etherpad.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ether/etherpad-lite.git</td>
                 </tr>
                 <tr>
@@ -24824,7 +24824,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nitin42/redocx.git</td>
                 </tr>
                 <tr>
@@ -24869,7 +24869,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mwilliamson/mammoth.js.git</td>
                 </tr>
                 <tr>
@@ -24914,7 +24914,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tsycnh/WeChatExporter.git</td>
                 </tr>
                 <tr>
@@ -24959,7 +24959,7 @@ show me my starred repo
                     <td>http://hzzly.github.io/vue-particle-line/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hzzly/vue-particle-line.git</td>
                 </tr>
                 <tr>
@@ -25004,7 +25004,7 @@ show me my starred repo
                     <td>https://echarts-maps.github.io/echarts-china-cities-js/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/echarts-maps/echarts-china-cities-js.git</td>
                 </tr>
                 <tr>
@@ -25049,7 +25049,7 @@ show me my starred repo
                     <td>https://echarts.apache.org/examples/en/index.html</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/apache/echarts-examples.git</td>
                 </tr>
                 <tr>
@@ -25094,7 +25094,7 @@ show me my starred repo
                     <td>https://vue-echarts.vercel.app/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ecomfe/vue-echarts.git</td>
                 </tr>
                 <tr>
@@ -25139,7 +25139,7 @@ show me my starred repo
                     <td>https://pdf2md.morethan.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jzillmann/pdf-to-markdown.git</td>
                 </tr>
                 <tr>
@@ -25184,7 +25184,7 @@ show me my starred repo
                     <td>https://npmjs.org/package/markdown-pdf</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alanshaw/markdown-pdf.git</td>
                 </tr>
                 <tr>
@@ -25229,7 +25229,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ecomfe/echarts-for-weixin.git</td>
                 </tr>
                 <tr>
@@ -25274,7 +25274,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/simplewebrtc/SimpleWebRTC.git</td>
                 </tr>
                 <tr>
@@ -25319,7 +25319,7 @@ show me my starred repo
                     <td>https://www.webrtc-experiment.com/RecordRTC/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/muaz-khan/RecordRTC.git</td>
                 </tr>
                 <tr>
@@ -25364,7 +25364,7 @@ show me my starred repo
                     <td>https://www.webrtc-experiment.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/muaz-khan/WebRTC-Experiment.git</td>
                 </tr>
                 <tr>
@@ -25409,7 +25409,7 @@ show me my starred repo
                     <td>https://www.rtcmulticonnection.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/muaz-khan/RTCMultiConnection.git</td>
                 </tr>
                 <tr>
@@ -25454,7 +25454,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TonyJiangWJ/AutoScriptBase.git</td>
                 </tr>
                 <tr>
@@ -25499,7 +25499,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TonyJiangWJ/Ant-Forest.git</td>
                 </tr>
                 <tr>
@@ -25544,7 +25544,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/qiushi123/xiaochengxu_demos.git</td>
                 </tr>
                 <tr>
@@ -25589,7 +25589,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/r-spacex/SpaceX-API.git</td>
                 </tr>
                 <tr>
@@ -25634,7 +25634,7 @@ show me my starred repo
                     <td>https://github.com/actions</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/actions/javascript-action.git</td>
                 </tr>
                 <tr>
@@ -25672,23 +25672,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>9207</td>
+                    <td>9208</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://Blitzjs.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/blitz-js/blitz.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:28:48</td>
+                    <td>09/21/21 02:24:25</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:28:48Z</td>
+                    <td>2021-09-20T18:24:25Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -25724,7 +25724,7 @@ show me my starred repo
                     <td>https://eattheblocks.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jklepatch/eattheblocks.git</td>
                 </tr>
                 <tr>
@@ -25769,7 +25769,7 @@ show me my starred repo
                     <td>https://docs.github.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/github/docs.git</td>
                 </tr>
                 <tr>
@@ -25814,7 +25814,7 @@ show me my starred repo
                     <td>https://www.devbridge.com/sourcery/components/jquery-autocomplete/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/devbridge/jQuery-Autocomplete.git</td>
                 </tr>
                 <tr>
@@ -25859,7 +25859,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lisong/code-push-server.git</td>
                 </tr>
                 <tr>
@@ -25904,7 +25904,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ad-m/github-push-action.git</td>
                 </tr>
                 <tr>
@@ -25949,7 +25949,7 @@ show me my starred repo
                     <td>http://mpvue.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Meituan-Dianping/mpvue.git</td>
                 </tr>
                 <tr>
@@ -25994,7 +25994,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/overleaf/overleaf.git</td>
                 </tr>
                 <tr>
@@ -26039,7 +26039,7 @@ show me my starred repo
                     <td>https://tabix.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tabixio/tabix.git</td>
                 </tr>
                 <tr>
@@ -26084,7 +26084,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/module-federation/module-federation-examples.git</td>
                 </tr>
                 <tr>
@@ -26129,7 +26129,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/exif-js/exif-js.git</td>
                 </tr>
                 <tr>
@@ -26174,7 +26174,7 @@ show me my starred repo
                     <td>https://vue-composition-api-rfc.netlify.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/composition-api-rfc.git</td>
                 </tr>
                 <tr>
@@ -26219,7 +26219,7 @@ show me my starred repo
                     <td>https://cn.vitejs.dev</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vitejs/docs-cn.git</td>
                 </tr>
                 <tr>
@@ -26264,7 +26264,7 @@ show me my starred repo
                     <td>https://github.com/vitejs/vite</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vitejs/awesome-vite.git</td>
                 </tr>
                 <tr>
@@ -26309,7 +26309,7 @@ show me my starred repo
                     <td>https://quasar.dev</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/quasarframework/quasar.git</td>
                 </tr>
                 <tr>
@@ -26354,7 +26354,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lyswhut/lx-music-desktop.git</td>
                 </tr>
                 <tr>
@@ -26392,23 +26392,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>8687</td>
+                    <td>8688</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://umami.is</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mikecao/umami.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:07:38</td>
+                    <td>09/21/21 02:24:34</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:07:38Z</td>
+                    <td>2021-09-20T18:24:34Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -26437,23 +26437,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>37759</td>
+                    <td>37760</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>http://mermaid-js.github.io/mermaid/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mermaid-js/mermaid.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:48:53</td>
+                    <td>09/21/21 02:23:34</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:48:53Z</td>
+                    <td>2021-09-20T18:23:34Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -26489,7 +26489,7 @@ show me my starred repo
                     <td>https://www.covid19india.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/covid19india/covid19india-react.git</td>
                 </tr>
                 <tr>
@@ -26534,7 +26534,7 @@ show me my starred repo
                     <td>https://npmjs.com/package/zx</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/zx.git</td>
                 </tr>
                 <tr>
@@ -26579,7 +26579,7 @@ show me my starred repo
                     <td>https://birdseye.readthedocs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alexmojaki/birdseye.git</td>
                 </tr>
                 <tr>
@@ -26624,7 +26624,7 @@ show me my starred repo
                     <td>https://fatiherikli.github.io/brainfuck-visualizer/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fatiherikli/brainfuck-visualizer.git</td>
                 </tr>
                 <tr>
@@ -26669,7 +26669,7 @@ show me my starred repo
                     <td>http://jdan.github.io/cleaver</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jdan/cleaver.git</td>
                 </tr>
                 <tr>
@@ -26714,7 +26714,7 @@ show me my starred repo
                     <td>https://30secondsofinterviews.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/30-seconds/30-seconds-of-interviews.git</td>
                 </tr>
                 <tr>
@@ -26759,7 +26759,7 @@ show me my starred repo
                     <td>https://twitter.com/nodepractices/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/goldbergyoni/nodebestpractices.git</td>
                 </tr>
                 <tr>
@@ -26804,7 +26804,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chrisleekr/binance-trading-bot.git</td>
                 </tr>
                 <tr>
@@ -26849,7 +26849,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nextapps-de/winbox.git</td>
                 </tr>
                 <tr>
@@ -26894,7 +26894,7 @@ show me my starred repo
                     <td>https://mrdoc.pro/en.html</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/zmister2016/MrDoc.git</td>
                 </tr>
                 <tr>
@@ -26939,7 +26939,7 @@ show me my starred repo
                     <td>https://eva.js.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/eva-engine/eva.js.git</td>
                 </tr>
                 <tr>
@@ -26977,23 +26977,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>11533</td>
+                    <td>11534</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://appwrite.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/appwrite/appwrite.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:16:52</td>
+                    <td>09/21/21 02:21:27</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:16:52Z</td>
+                    <td>2021-09-20T18:21:27Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -27029,7 +27029,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Ryleeing/Tap_your_tap-.git</td>
                 </tr>
                 <tr>
@@ -27074,7 +27074,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bradtraversy/vanillawebprojects.git</td>
                 </tr>
                 <tr>
@@ -27112,23 +27112,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>71541</td>
+                    <td>71542</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://mui.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mui-org/material-ui.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:05:01</td>
+                    <td>09/21/21 02:19:39</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:05:01Z</td>
+                    <td>2021-09-20T18:19:39Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -27164,7 +27164,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/jsx.git</td>
                 </tr>
                 <tr>
@@ -27209,7 +27209,7 @@ show me my starred repo
                     <td>https://vuejs.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/vuejs.org.git</td>
                 </tr>
                 <tr>
@@ -27254,7 +27254,7 @@ show me my starred repo
                     <td>https://vuex.vuejs.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/vuex.git</td>
                 </tr>
                 <tr>
@@ -27299,7 +27299,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/qq281113270/vue.git</td>
                 </tr>
                 <tr>
@@ -27337,23 +27337,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>188349</td>
+                    <td>188348</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>http://vuejs.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/vue.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:55:17</td>
+                    <td>09/21/21 02:25:55</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:55:17Z</td>
+                    <td>2021-09-20T18:25:55Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -27389,7 +27389,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ruanyf/webpack-demos.git</td>
                 </tr>
                 <tr>
@@ -27434,7 +27434,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ruanyf/react-demos.git</td>
                 </tr>
                 <tr>
@@ -27479,7 +27479,7 @@ show me my starred repo
                     <td>https://hellogithub-team.github.io/GitHubPageHub/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/HelloGitHub-Team/GitHubPageHub.git</td>
                 </tr>
                 <tr>
@@ -27524,7 +27524,7 @@ show me my starred repo
                     <td>https://git.io/macx</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jaywcjlove/awesome-mac.git</td>
                 </tr>
                 <tr>
@@ -27569,7 +27569,7 @@ show me my starred repo
                     <td>https://fontawesome.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/FortAwesome/Font-Awesome.git</td>
                 </tr>
                 <tr>
@@ -27614,7 +27614,7 @@ show me my starred repo
                     <td>https://discord.js.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/discordjs/discord.js.git</td>
                 </tr>
                 <tr>
@@ -27659,16 +27659,16 @@ show me my starred repo
                     <td>https://www.cypress.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cypress-io/cypress.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:38:49</td>
+                    <td>09/21/21 02:26:00</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:38:49Z</td>
+                    <td>2021-09-20T18:26:00Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -27697,23 +27697,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>16546</td>
+                    <td>16548</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sudheerj/reactjs-interview-questions.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:11:26</td>
+                    <td>09/21/21 02:23:29</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:11:26Z</td>
+                    <td>2021-09-20T18:23:29Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -27749,7 +27749,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TheAlgorithms/Javascript.git</td>
                 </tr>
                 <tr>
@@ -27794,7 +27794,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ryanmcdermott/clean-code-javascript.git</td>
                 </tr>
                 <tr>
@@ -27839,7 +27839,7 @@ show me my starred repo
                     <td>https://blueimp.github.io/JavaScript-MD5/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/blueimp/JavaScript-MD5.git</td>
                 </tr>
                 <tr>
@@ -27884,7 +27884,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/goabstract/Awesome-Design-Tools.git</td>
                 </tr>
                 <tr>
@@ -27929,7 +27929,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jerrylizilong/autotest_platform.git</td>
                 </tr>
                 <tr>
@@ -27974,7 +27974,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Sariay/hexo-theme-Annie.git</td>
                 </tr>
                 <tr>
@@ -28019,7 +28019,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/breakwa11/gfw_whitelist.git</td>
                 </tr>
                 <tr>
@@ -28064,7 +28064,7 @@ show me my starred repo
                     <td>https://git.io/data-structures</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jamiebuilds/itsy-bitsy-data-structures.git</td>
                 </tr>
                 <tr>
@@ -28109,7 +28109,7 @@ show me my starred repo
                     <td>https://git.io/vhLgF</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PanJiaChen/awesome-bookmarks.git</td>
                 </tr>
                 <tr>
@@ -28154,7 +28154,7 @@ show me my starred repo
                     <td>https://unbug.github.io/codelf/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/unbug/codelf.git</td>
                 </tr>
                 <tr>
@@ -28192,23 +28192,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>58775</td>
+                    <td>58776</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://techinterviewhandbook.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yangshun/tech-interview-handbook.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:08:30</td>
+                    <td>09/21/21 02:22:40</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:08:30Z</td>
+                    <td>2021-09-20T18:22:40Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -28244,7 +28244,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/OBKoro1/koro1FileHeader.git</td>
                 </tr>
                 <tr>
@@ -28289,7 +28289,7 @@ show me my starred repo
                     <td>https://single-spa.js.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/single-spa/single-spa.git</td>
                 </tr>
                 <tr>
@@ -28334,7 +28334,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/zthxxx/kugimiya-rainbow-fart.git</td>
                 </tr>
                 <tr>
@@ -28379,7 +28379,7 @@ show me my starred repo
                     <td>http://datav-react.jiaminghi.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/DataV-Team/DataV-React.git</td>
                 </tr>
                 <tr>
@@ -28424,7 +28424,7 @@ show me my starred repo
                     <td>https://yyhsong.github.io/iDataV</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yyhsong/iDataV.git</td>
                 </tr>
                 <tr>
@@ -28469,7 +28469,7 @@ show me my starred repo
                     <td>https://classic.yarnpkg.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yarnpkg/yarn.git</td>
                 </tr>
                 <tr>
@@ -28514,7 +28514,7 @@ show me my starred repo
                     <td>https://markdown-it.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/markdown-it/markdown-it.git</td>
                 </tr>
                 <tr>
@@ -28559,7 +28559,7 @@ show me my starred repo
                     <td>https://www.chartjs.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chartjs/Chart.js.git</td>
                 </tr>
                 <tr>
@@ -28604,7 +28604,7 @@ show me my starred repo
                     <td>https://marktext.app</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/marktext/marktext.git</td>
                 </tr>
                 <tr>
@@ -28649,7 +28649,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/javallone/regexper.git</td>
                 </tr>
                 <tr>
@@ -28694,7 +28694,7 @@ show me my starred repo
                     <td>https://github.com/Summer-andy/chrome-extensions-searchReplace</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Summer-andy/chrome-extensions-searchReplace.git</td>
                 </tr>
                 <tr>
@@ -28739,7 +28739,7 @@ show me my starred repo
                     <td>https://d3js.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/d3/d3.git</td>
                 </tr>
                 <tr>
@@ -28784,7 +28784,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/leonardomso/33-js-concepts.git</td>
                 </tr>
                 <tr>
@@ -28829,7 +28829,7 @@ show me my starred repo
                     <td>https://passer-by.com/pacman/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mumuy/pacman.git</td>
                 </tr>
                 <tr>
@@ -28874,7 +28874,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/qianguyihao/Web.git</td>
                 </tr>
                 <tr>
@@ -28919,7 +28919,7 @@ show me my starred repo
                     <td>https://muyiy.cn/question/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Advanced-Frontend/Daily-Interview-Question.git</td>
                 </tr>
                 <tr>
@@ -28964,7 +28964,7 @@ show me my starred repo
                     <td>https://lecoupa.github.io/awesome-cheatsheets/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LeCoupa/awesome-cheatsheets.git</td>
                 </tr>
                 <tr>
@@ -29009,7 +29009,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/iamcco/markdown-preview.nvim.git</td>
                 </tr>
                 <tr>
@@ -29054,7 +29054,7 @@ show me my starred repo
                     <td>https://www.serverless.com/examples/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/serverless/examples.git</td>
                 </tr>
                 <tr>
@@ -29099,7 +29099,7 @@ show me my starred repo
                     <td>https://flask-state.herokuapp.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yoobool/flask-state.git</td>
                 </tr>
                 <tr>
@@ -29144,7 +29144,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/AutoPiano/AutoPiano.git</td>
                 </tr>
                 <tr>
@@ -29189,7 +29189,7 @@ show me my starred repo
                     <td>https://100px.net</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LuckDraw/lucky-canvas.git</td>
                 </tr>
                 <tr>
@@ -29234,7 +29234,7 @@ show me my starred repo
                     <td>https://adminlte.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ColorlibHQ/AdminLTE.git</td>
                 </tr>
                 <tr>
@@ -29279,7 +29279,7 @@ show me my starred repo
                     <td>https://reactnative.dev/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/react-native.git</td>
                 </tr>
                 <tr>
@@ -29324,7 +29324,7 @@ show me my starred repo
                     <td>https://js.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/js-org/js.org.git</td>
                 </tr>
                 <tr>
@@ -29369,7 +29369,7 @@ show me my starred repo
                     <td>https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alyssaxuu/screenity.git</td>
                 </tr>
                 <tr>
@@ -29414,7 +29414,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dternyak/React-Redux-Flask.git</td>
                 </tr>
                 <tr>
@@ -29459,7 +29459,7 @@ show me my starred repo
                     <td>https://brasilapi.com.br</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/BrasilAPI/BrasilAPI.git</td>
                 </tr>
                 <tr>
@@ -29504,7 +29504,7 @@ show me my starred repo
                     <td>http://www.h-camel.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/haizlin/fe-interview.git</td>
                 </tr>
                 <tr>
@@ -29542,23 +29542,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>120223</td>
+                    <td>120224</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/trekhleb/javascript-algorithms.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:43:13</td>
+                    <td>09/21/21 02:24:01</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:43:13Z</td>
+                    <td>2021-09-20T18:24:01Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -29594,7 +29594,7 @@ show me my starred repo
                     <td>https://beautifulinteractions.github.io/beautiful-react-diagrams/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/beautifulinteractions/beautiful-react-diagrams.git</td>
                 </tr>
                 <tr>
@@ -29639,7 +29639,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ccxt/ccxt.git</td>
                 </tr>
                 <tr>
@@ -29684,7 +29684,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chakra-core/ChakraCore.git</td>
                 </tr>
                 <tr>
@@ -29729,7 +29729,7 @@ show me my starred repo
                     <td>http://facebook.github.io/regenerator/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/regenerator.git</td>
                 </tr>
                 <tr>
@@ -29774,7 +29774,7 @@ show me my starred repo
                     <td>http://prepack.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/prepack.git</td>
                 </tr>
                 <tr>
@@ -29819,7 +29819,7 @@ show me my starred repo
                     <td>https://facebook.github.io/react-360</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebookarchive/react-360.git</td>
                 </tr>
                 <tr>
@@ -29864,7 +29864,7 @@ show me my starred repo
                     <td>https://draftjs.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/draft-js.git</td>
                 </tr>
                 <tr>
@@ -29909,7 +29909,7 @@ show me my starred repo
                     <td>http://netflix.github.io/falcor</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Netflix/falcor.git</td>
                 </tr>
                 <tr>
@@ -29954,7 +29954,7 @@ show me my starred repo
                     <td>https://netflix.github.io/pollyjs</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Netflix/pollyjs.git</td>
                 </tr>
                 <tr>
@@ -29999,7 +29999,7 @@ show me my starred repo
                     <td>https://www.industrialempathy.com/posts/eleventy-high-performance-blog/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/eleventy-high-performance-blog.git</td>
                 </tr>
                 <tr>
@@ -30044,7 +30044,7 @@ show me my starred repo
                     <td>code.google.com/closure/library/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/closure-library.git</td>
                 </tr>
                 <tr>
@@ -30089,7 +30089,7 @@ show me my starred repo
                     <td>https://sitekit.withgoogle.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/site-kit-wp.git</td>
                 </tr>
                 <tr>
@@ -30127,23 +30127,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>9574</td>
+                    <td>9576</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://developers.google.com/blockly/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/blockly.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 22:39:36</td>
+                    <td>09/21/21 02:26:22</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T14:39:36Z</td>
+                    <td>2021-09-20T18:26:22Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -30179,7 +30179,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/top.git</td>
                 </tr>
                 <tr>
@@ -30224,7 +30224,7 @@ show me my starred repo
                     <td>https://atom.io/packages/structure-view</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/structure-view.git</td>
                 </tr>
                 <tr>
@@ -30269,7 +30269,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/plover.git</td>
                 </tr>
                 <tr>
@@ -30314,7 +30314,7 @@ show me my starred repo
                     <td>https://alibaba.github.io/rax-map/api/components/index</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/rax-map.git</td>
                 </tr>
                 <tr>
@@ -30359,7 +30359,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/beidou.git</td>
                 </tr>
                 <tr>
@@ -30404,7 +30404,7 @@ show me my starred repo
                     <td>https://www.f2etest.net</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/f2etest.git</td>
                 </tr>
                 <tr>
@@ -30449,7 +30449,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/online-test-platform.git</td>
                 </tr>
                 <tr>
@@ -30494,7 +30494,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/rax.git</td>
                 </tr>
                 <tr>
@@ -30532,23 +30532,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>2157</td>
+                    <td>2158</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/geerlingguy/internet-pi.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:15:19</td>
+                    <td>09/21/21 02:17:12</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:15:19Z</td>
+                    <td>2021-09-20T18:17:12Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -30584,7 +30584,7 @@ show me my starred repo
                     <td>http://jsonnet.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/jsonnet.git</td>
                 </tr>
                 <tr>
@@ -30622,23 +30622,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>882</td>
+                    <td>883</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alexeygrigorev/mlbookcamp-code.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:48:04</td>
+                    <td>09/21/21 02:16:53</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:48:04Z</td>
+                    <td>2021-09-20T18:16:53Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -30674,7 +30674,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/marceloprates/prettymaps.git</td>
                 </tr>
                 <tr>
@@ -30712,23 +30712,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>22164</td>
+                    <td>22165</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://microsoft.github.io/ML-For-Beginners/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/ML-For-Beginners.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:09:41</td>
+                    <td>09/21/21 02:20:42</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:09:41Z</td>
+                    <td>2021-09-20T18:20:42Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -30764,7 +30764,7 @@ show me my starred repo
                     <td>https://medium.com/@akashsingh3031</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation.git</td>
                 </tr>
                 <tr>
@@ -30809,7 +30809,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yijunwang0805/covid-19.git</td>
                 </tr>
                 <tr>
@@ -30854,7 +30854,7 @@ show me my starred repo
                     <td>https://charmve.github.io/L0CV-web</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Charmve/computer-vision-in-action.git</td>
                 </tr>
                 <tr>
@@ -30899,7 +30899,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/EnkrateiaLucca/ocr_for_transcribing_pdf_slides.git</td>
                 </tr>
                 <tr>
@@ -30944,7 +30944,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jantic/DeOldify.git</td>
                 </tr>
                 <tr>
@@ -30989,7 +30989,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Pierian-Data/Complete-Python-3-Bootcamp.git</td>
                 </tr>
                 <tr>
@@ -31034,7 +31034,7 @@ show me my starred repo
                     <td>https://SocratesAcademy.github.io/css/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SocratesAcademy/css.git</td>
                 </tr>
                 <tr>
@@ -31079,7 +31079,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/harskish/ganspace.git</td>
                 </tr>
                 <tr>
@@ -31124,7 +31124,7 @@ show me my starred repo
                     <td>https://ml4trading.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/stefan-jansen/machine-learning-for-trading.git</td>
                 </tr>
                 <tr>
@@ -31169,7 +31169,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/CNFeffery/DataScienceStudyNotes.git</td>
                 </tr>
                 <tr>
@@ -31214,7 +31214,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/MacroAnalyst/Linear_Algebra_With_Python.git</td>
                 </tr>
                 <tr>
@@ -31259,7 +31259,7 @@ show me my starred repo
                     <td>https://www.pythoncheatsheet.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wilfredinni/python-cheatsheet.git</td>
                 </tr>
                 <tr>
@@ -31304,7 +31304,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/prog-edu-assistant.git</td>
                 </tr>
                 <tr>
@@ -31349,7 +31349,7 @@ show me my starred repo
                     <td>https://iclr.cc/virtual_2020/poster_SklD9yrFPS.html</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/neural-tangents.git</td>
                 </tr>
                 <tr>
@@ -31394,7 +31394,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/saitestop/chinesecolors.git</td>
                 </tr>
                 <tr>
@@ -31439,7 +31439,7 @@ show me my starred repo
                     <td>https://mirai.mamoe.net</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mamoe/mirai.git</td>
                 </tr>
                 <tr>
@@ -31484,7 +31484,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/blindmonk/WanArchitecture.git</td>
                 </tr>
                 <tr>
@@ -31529,7 +31529,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/zhengcx/MethodTraceMan.git</td>
                 </tr>
                 <tr>
@@ -31574,7 +31574,7 @@ show me my starred repo
                     <td>https://tachiyomi.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tachiyomiorg/tachiyomi.git</td>
                 </tr>
                 <tr>
@@ -31619,7 +31619,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/maxkeppeler/sheets.git</td>
                 </tr>
                 <tr>
@@ -31664,7 +31664,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/trello/trello.cards.git</td>
                 </tr>
                 <tr>
@@ -31709,7 +31709,7 @@ show me my starred repo
                     <td>https://www.lunarvim.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LunarVim/LunarVim.git</td>
                 </tr>
                 <tr>
@@ -31754,7 +31754,7 @@ show me my starred repo
                     <td>https://lite-xl.github.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lite-xl/lite-xl.git</td>
                 </tr>
                 <tr>
@@ -31799,7 +31799,7 @@ show me my starred repo
                     <td>https://nvchad.netlify.app</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/NvChad/NvChad.git</td>
                 </tr>
                 <tr>
@@ -31844,7 +31844,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/a327ex/SNKRX.git</td>
                 </tr>
                 <tr>
@@ -31889,7 +31889,7 @@ show me my starred repo
                     <td>https://awesomewm.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/awesomeWM/awesome.git</td>
                 </tr>
                 <tr>
@@ -31934,7 +31934,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kika/fixedsys.git</td>
                 </tr>
                 <tr>
@@ -31979,7 +31979,7 @@ show me my starred repo
                     <td>http://jobbole.github.io/awesome-python-cn/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jobbole/awesome-python-cn.git</td>
                 </tr>
                 <tr>
@@ -32024,7 +32024,7 @@ show me my starred repo
                     <td>https://tldr.sh</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tldr-pages/tldr.git</td>
                 </tr>
                 <tr>
@@ -32069,7 +32069,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dom96/httpbeast.git</td>
                 </tr>
                 <tr>
@@ -32114,7 +32114,7 @@ show me my starred repo
                     <td>http://wangdoc.com/ssh</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wangdoc/ssh-tutorial.git</td>
                 </tr>
                 <tr>
@@ -32159,7 +32159,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PowerShell/Win32-OpenSSH.git</td>
                 </tr>
                 <tr>
@@ -32204,7 +32204,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lubanproj/grpc-read.git</td>
                 </tr>
                 <tr>
@@ -32249,7 +32249,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yongshun/learn_netty_source_code.git</td>
                 </tr>
                 <tr>
@@ -32294,7 +32294,7 @@ show me my starred repo
                     <td>https://wangdoc.com/clang</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wangdoc/clang-tutorial.git</td>
                 </tr>
                 <tr>
@@ -32339,7 +32339,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/1c7/chinese-independent-developer.git</td>
                 </tr>
                 <tr>
@@ -32384,7 +32384,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/AakashKumarNain/annotated_research_papers.git</td>
                 </tr>
                 <tr>
@@ -32429,7 +32429,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/miaomiaosoft/PandaOCR.git</td>
                 </tr>
                 <tr>
@@ -32474,7 +32474,7 @@ show me my starred repo
                     <td>https://git.io/papirus-icon-theme</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PapirusDevelopmentTeam/papirus-icon-theme.git</td>
                 </tr>
                 <tr>
@@ -32519,7 +32519,7 @@ show me my starred repo
                     <td>https://marketplace.visualstudio.com/items?itemName=kdarkhan.mips</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kdarkhan/vscode-mips-support.git</td>
                 </tr>
                 <tr>
@@ -32564,7 +32564,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kefranabg/awesome-vue-composition-api.git</td>
                 </tr>
                 <tr>
@@ -32609,7 +32609,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chinanf-boy/didact-explain.git</td>
                 </tr>
                 <tr>
@@ -32654,7 +32654,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wangmu89/Book-CSAPP.git</td>
                 </tr>
                 <tr>
@@ -32699,7 +32699,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xueb96/C_O_D_5th.git</td>
                 </tr>
                 <tr>
@@ -32744,7 +32744,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/css-modules/css-modules.git</td>
                 </tr>
                 <tr>
@@ -32789,7 +32789,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/shiliuxing/JsCode.git</td>
                 </tr>
                 <tr>
@@ -32834,16 +32834,16 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/WebKit/WebKit.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:07:00</td>
+                    <td>09/21/21 02:21:11</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:07:00Z</td>
+                    <td>2021-09-20T18:21:11Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -32879,7 +32879,7 @@ show me my starred repo
                     <td>http://www.webkit.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/WebKit/WebKit-http.git</td>
                 </tr>
                 <tr>
@@ -32924,7 +32924,7 @@ show me my starred repo
                     <td>https://cdnjs.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cdnjs/cdnjs.git</td>
                 </tr>
                 <tr>
@@ -32969,7 +32969,7 @@ show me my starred repo
                     <td>http://playcover.me</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/iVoider/PlayCover.git</td>
                 </tr>
                 <tr>
@@ -33014,7 +33014,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yifeikong/reverse-interview-zh.git</td>
                 </tr>
                 <tr>
@@ -33059,7 +33059,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chinesehuazhou/guido_blog_translation.git</td>
                 </tr>
                 <tr>
@@ -33104,7 +33104,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chinesehuazhou/peps-cn.git</td>
                 </tr>
                 <tr>
@@ -33149,7 +33149,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ibraheemdev/modern-unix.git</td>
                 </tr>
                 <tr>
@@ -33194,7 +33194,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/phith0n/Mind-Map.git</td>
                 </tr>
                 <tr>
@@ -33239,7 +33239,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jCodeLife/quality-front-end-articles-and-videos.git</td>
                 </tr>
                 <tr>
@@ -33284,7 +33284,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jCodeLife/mind-map.git</td>
                 </tr>
                 <tr>
@@ -33329,7 +33329,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bolasblack/http-api-guide.git</td>
                 </tr>
                 <tr>
@@ -33374,7 +33374,7 @@ show me my starred repo
                     <td>https://www.gitbook.com/read/book/geemus/http-api-design</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/interagent/http-api-design.git</td>
                 </tr>
                 <tr>
@@ -33419,7 +33419,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/18835596648/Learn-Vue-Source-Code.git</td>
                 </tr>
                 <tr>
@@ -33464,7 +33464,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/reactjs/rfcs.git</td>
                 </tr>
                 <tr>
@@ -33509,7 +33509,7 @@ show me my starred repo
                     <td>https://www.feisuanyz.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/feisuanyz/SoFlu-adp.git</td>
                 </tr>
                 <tr>
@@ -33554,7 +33554,7 @@ show me my starred repo
                     <td>http://dhamaniasad.github.io/awesome-postgres</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dhamaniasad/awesome-postgres.git</td>
                 </tr>
                 <tr>
@@ -33599,7 +33599,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jobbole/awesome-mysql-cn.git</td>
                 </tr>
                 <tr>
@@ -33644,7 +33644,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/byoungd/English-level-up-tips-for-Chinese.git</td>
                 </tr>
                 <tr>
@@ -33689,7 +33689,7 @@ show me my starred repo
                     <td>https://a-programmers-guide-to-english.harryyu.me/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yujiangshui/A-Programmers-Guide-to-English.git</td>
                 </tr>
                 <tr>
@@ -33734,7 +33734,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xiaolai/everyone-can-use-english.git</td>
                 </tr>
                 <tr>
@@ -33779,7 +33779,7 @@ show me my starred repo
                     <td>https://docsify.js.org/#/awesome</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/docsifyjs/awesome-docsify.git</td>
                 </tr>
                 <tr>
@@ -33824,7 +33824,7 @@ show me my starred repo
                     <td>https://docsify.js.org/#/zh-cn/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/docsifyjs/docs-zh.git</td>
                 </tr>
                 <tr>
@@ -33869,7 +33869,7 @@ show me my starred repo
                     <td>https://lxgw.github.io/2021/01/28/Klee-Simpchin/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lxgw/LxgwWenKai.git</td>
                 </tr>
                 <tr>
@@ -33914,7 +33914,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/laynH/Anime-Girls-Holding-Programming-Books.git</td>
                 </tr>
                 <tr>
@@ -33959,7 +33959,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Awesome-Windows/Awesome-Windows-Screensavers.git</td>
                 </tr>
                 <tr>
@@ -34004,7 +34004,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Awesome-Windows/awesome-windows-command-line.git</td>
                 </tr>
                 <tr>
@@ -34049,7 +34049,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Hack-with-Github/Windows.git</td>
                 </tr>
                 <tr>
@@ -34094,7 +34094,7 @@ show me my starred repo
                     <td>https://www.celerycn.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/open-source-translation/celery-cn.git</td>
                 </tr>
                 <tr>
@@ -34139,7 +34139,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/rfcs.git</td>
                 </tr>
                 <tr>
@@ -34184,7 +34184,7 @@ show me my starred repo
                     <td>https://curl.github.io/curl-cheat-sheet/http-sheet.html</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/curl/curl-cheat-sheet.git</td>
                 </tr>
                 <tr>
@@ -34229,7 +34229,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/JingwenTian/awesome-frontend.git</td>
                 </tr>
                 <tr>
@@ -34274,7 +34274,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dypsilon/frontend-dev-bookmarks.git</td>
                 </tr>
                 <tr>
@@ -34319,7 +34319,7 @@ show me my starred repo
                     <td>https://getquicker.net</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cuiliang/Quicker.git</td>
                 </tr>
                 <tr>
@@ -34364,7 +34364,7 @@ show me my starred repo
                     <td>https://www.ethereum.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ethereum/wiki.git</td>
                 </tr>
                 <tr>
@@ -34409,7 +34409,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/judasn/IntelliJ-IDEA-Tutorial.git</td>
                 </tr>
                 <tr>
@@ -34454,7 +34454,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wsargent/docker-cheat-sheet.git</td>
                 </tr>
                 <tr>
@@ -34499,7 +34499,7 @@ show me my starred repo
                     <td>http://git.io/sheet</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tiimgreen/github-cheat-sheet.git</td>
                 </tr>
                 <tr>
@@ -34544,7 +34544,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/HelloGitHub-Team/HelloZooKeeper.git</td>
                 </tr>
                 <tr>
@@ -34589,7 +34589,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dyweb/awesome-resume-for-chinese.git</td>
                 </tr>
                 <tr>
@@ -34634,7 +34634,7 @@ show me my starred repo
                     <td>https://osjobs.net/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/resumejob/awesome-resume.git</td>
                 </tr>
                 <tr>
@@ -34679,7 +34679,7 @@ show me my starred repo
                     <td>http://get.jobdeer.com/744.get</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/geekcompany/ResumeSample.git</td>
                 </tr>
                 <tr>
@@ -34724,7 +34724,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lennylxx/ipv6-hosts.git</td>
                 </tr>
                 <tr>
@@ -34769,7 +34769,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/googlehosts/hosts.git</td>
                 </tr>
                 <tr>
@@ -34814,7 +34814,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/formulahendry/awesome-vscode-cn.git</td>
                 </tr>
                 <tr>
@@ -34859,7 +34859,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jobbole/awesome-cpp-cn.git</td>
                 </tr>
                 <tr>
@@ -34904,7 +34904,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/AnthonyCalandra/modern-cpp-features.git</td>
                 </tr>
                 <tr>
@@ -34949,7 +34949,7 @@ show me my starred repo
                     <td>https://www.kwgg2020.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/FrontEndGitHub/FrontEndGitHub.git</td>
                 </tr>
                 <tr>
@@ -34994,7 +34994,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/simbafl/DataWarehouse.git</td>
                 </tr>
                 <tr>
@@ -35039,7 +35039,7 @@ show me my starred repo
                     <td>https://www.yuque.com/prototeam/weblog</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ProtoTeam/blog.git</td>
                 </tr>
                 <tr>
@@ -35084,7 +35084,7 @@ show me my starred repo
                     <td>https://www.30secondsofcode.org/git/p/1</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/30-seconds/30-seconds-of-git.git</td>
                 </tr>
                 <tr>
@@ -35129,7 +35129,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dzharii/awesome-typescript.git</td>
                 </tr>
                 <tr>
@@ -35174,7 +35174,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chriskiehl/GooeyExamples.git</td>
                 </tr>
                 <tr>
@@ -35219,7 +35219,7 @@ show me my starred repo
                     <td>https://chromium.googlesource.com/chromium/src/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chromium/chromium.git</td>
                 </tr>
                 <tr>
@@ -35264,7 +35264,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/peng-zhihui/XUAN.git</td>
                 </tr>
                 <tr>
@@ -35309,7 +35309,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sohamkamani/javascript-design-patterns-for-humans.git</td>
                 </tr>
                 <tr>
@@ -35354,7 +35354,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/flaviocopes/vue-developer-roadmap.git</td>
                 </tr>
                 <tr>
@@ -35399,7 +35399,7 @@ show me my starred repo
                     <td>https://www.reddit.com/r/MachineLearning/comments/d8jheo/p_natural_language_processing_roadmap_and_keyword/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/graykode/nlp-roadmap.git</td>
                 </tr>
                 <tr>
@@ -35444,7 +35444,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/MoienTajik/AspNetCore-Developer-Roadmap.git</td>
                 </tr>
                 <tr>
@@ -35489,7 +35489,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Alikhll/golang-developer-roadmap.git</td>
                 </tr>
                 <tr>
@@ -35534,7 +35534,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fityanos/awesome-quality-assurance-roadmap.git</td>
                 </tr>
                 <tr>
@@ -35579,7 +35579,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mobile-roadmap/android-developer-roadmap.git</td>
                 </tr>
                 <tr>
@@ -35624,7 +35624,7 @@ show me my starred repo
                     <td>https://datastack.tv</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/datastacktv/data-engineer-roadmap.git</td>
                 </tr>
                 <tr>
@@ -35669,7 +35669,7 @@ show me my starred repo
                     <td>https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ZuzooVn/machine-learning-for-software-engineers.git</td>
                 </tr>
                 <tr>
@@ -35714,7 +35714,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/utilForever/game-developer-roadmap.git</td>
                 </tr>
                 <tr>
@@ -35759,7 +35759,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/freefq/free.git</td>
                 </tr>
                 <tr>
@@ -35804,7 +35804,7 @@ show me my starred repo
                     <td>https://systems.jhu.edu/research/public-health/ncov/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/CSSEGISandData/COVID-19.git</td>
                 </tr>
                 <tr>
@@ -35849,7 +35849,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/qingshuisiyuan/electron-ssr-backup.git</td>
                 </tr>
                 <tr>
@@ -35894,7 +35894,7 @@ show me my starred repo
                     <td>https://t.me/ACL4SSR</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ACL4SSR/ACL4SSR.git</td>
                 </tr>
                 <tr>
@@ -35939,7 +35939,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/shadowsocksr-backup/shadowsocks-rss.git</td>
                 </tr>
                 <tr>
@@ -35984,7 +35984,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/aben1188/awesome-uni-app.git</td>
                 </tr>
                 <tr>
@@ -36029,7 +36029,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/programthink/books.git</td>
                 </tr>
                 <tr>
@@ -36074,7 +36074,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/beiliangshizi/China_House.git</td>
                 </tr>
                 <tr>
@@ -36119,7 +36119,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/merry75/educative.io_courses.git</td>
                 </tr>
                 <tr>
@@ -36164,7 +36164,7 @@ show me my starred repo
                     <td>https://www.appbrewery.co</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/londonappbrewery/Flutter-Course-Resources.git</td>
                 </tr>
                 <tr>
@@ -36209,7 +36209,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Tencent/secguide.git</td>
                 </tr>
                 <tr>
@@ -36254,7 +36254,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pawelborkar/awesome-repos.git</td>
                 </tr>
                 <tr>
@@ -36299,7 +36299,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bradtraversy/design-resources-for-developers.git</td>
                 </tr>
                 <tr>
@@ -36344,7 +36344,7 @@ show me my starred repo
                     <td>http://younghz.github.io/Markdown/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/younghz/Markdown.git</td>
                 </tr>
                 <tr>
@@ -36389,7 +36389,7 @@ show me my starred repo
                     <td>https://imgcook.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/imgcook/imgcook.git</td>
                 </tr>
                 <tr>
@@ -36434,7 +36434,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code.git</td>
                 </tr>
                 <tr>
@@ -36479,7 +36479,7 @@ show me my starred repo
                     <td>https://mehdihadeli.github.io/awesome-software-architecture</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mehdihadeli/awesome-software-architecture.git</td>
                 </tr>
                 <tr>
@@ -36524,7 +36524,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dreamCirno/Princlples-of-Accounts.git</td>
                 </tr>
                 <tr>
@@ -36569,7 +36569,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fanshuangstrive/payment_system.git</td>
                 </tr>
                 <tr>
@@ -36614,7 +36614,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/JanVanRyswyck/awesome-talks.git</td>
                 </tr>
                 <tr>
@@ -36659,7 +36659,7 @@ show me my starred repo
                     <td>https://frontendchecklist.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/thedaviddias/Front-End-Checklist.git</td>
                 </tr>
                 <tr>
@@ -36704,7 +36704,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gpakosz/.tmux.git</td>
                 </tr>
                 <tr>
@@ -36749,7 +36749,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/florije1988/Just_For_Fun.git</td>
                 </tr>
                 <tr>
@@ -36794,7 +36794,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/limkokhole/just-for-fun-linus-torvalds.git</td>
                 </tr>
                 <tr>
@@ -36839,7 +36839,7 @@ show me my starred repo
                     <td>http://google.github.io/material-design-icons/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/material-design-icons.git</td>
                 </tr>
                 <tr>
@@ -36884,7 +36884,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ruanyf/free-books.git</td>
                 </tr>
                 <tr>
@@ -36929,7 +36929,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Olshansk/interview.git</td>
                 </tr>
                 <tr>
@@ -36974,7 +36974,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sdmg15/Best-websites-a-programmer-should-visit.git</td>
                 </tr>
                 <tr>
@@ -37019,7 +37019,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/trimstray/the-book-of-secret-knowledge.git</td>
                 </tr>
                 <tr>
@@ -37064,7 +37064,7 @@ show me my starred repo
                     <td>https://aka.ms/thinking-in-data</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dynamicwebpaige/thinking-in-data.git</td>
                 </tr>
                 <tr>
@@ -37109,7 +37109,7 @@ show me my starred repo
                     <td>https://fatiherikli.github.io/brainfuck-visualizer/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/onepisYa/brainfuck-visualizer.git</td>
                 </tr>
                 <tr>
@@ -37154,7 +37154,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alivebao/clean-code-js.git</td>
                 </tr>
                 <tr>
@@ -37192,23 +37192,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>144452</td>
+                    <td>144453</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/getify/You-Dont-Know-JS.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:11:46</td>
+                    <td>09/21/21 02:24:59</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:11:46Z</td>
+                    <td>2021-09-20T18:24:59Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -37244,7 +37244,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Developer-Y/cs-video-courses.git</td>
                 </tr>
                 <tr>
@@ -37289,7 +37289,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/youngyangyang04/leetcode-master.git</td>
                 </tr>
                 <tr>
@@ -37334,7 +37334,7 @@ show me my starred repo
                     <td>https://gh0st.cn/Binary-Learning/Binary-Learning.html</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gh0stkey/Binary-Learning.git</td>
                 </tr>
                 <tr>
@@ -37372,23 +37372,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>95515</td>
+                    <td>95517</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ossu/computer-science.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:11:26</td>
+                    <td>09/21/21 02:21:14</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:11:26Z</td>
+                    <td>2021-09-20T18:21:14Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -37424,7 +37424,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mrcodedev/frontend-developer-resources.git</td>
                 </tr>
                 <tr>
@@ -37469,7 +37469,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nordicgiant2/awesome-landing-page.git</td>
                 </tr>
                 <tr>
@@ -37514,7 +37514,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hexojs/awesome-hexo.git</td>
                 </tr>
                 <tr>
@@ -37559,7 +37559,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ruanyf/document-style-guide.git</td>
                 </tr>
                 <tr>
@@ -37604,7 +37604,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ruanyf/weekly.git</td>
                 </tr>
                 <tr>
@@ -37649,7 +37649,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ruanyf/jstraining.git</td>
                 </tr>
                 <tr>
@@ -37694,7 +37694,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/521xueweihan/git-tips.git</td>
                 </tr>
                 <tr>
@@ -37732,23 +37732,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>4840</td>
+                    <td>4841</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://www.changgy.com/leetcode-101</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/changgyhub/leetcode_101.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 23:17:53</td>
+                    <td>09/21/21 02:17:17</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T15:17:53Z</td>
+                    <td>2021-09-20T18:17:17Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -37784,7 +37784,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jinwchoi/awesome-action-recognition.git</td>
                 </tr>
                 <tr>
@@ -37829,7 +37829,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sdras/awesome-actions.git</td>
                 </tr>
                 <tr>
@@ -37874,7 +37874,7 @@ show me my starred repo
                     <td>https://awesome-docker.netlify.app</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/veggiemonk/awesome-docker.git</td>
                 </tr>
                 <tr>
@@ -37919,7 +37919,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ChristosChristofidis/awesome-deep-learning.git</td>
                 </tr>
                 <tr>
@@ -37964,7 +37964,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/academic/awesome-datascience.git</td>
                 </tr>
                 <tr>
@@ -38009,7 +38009,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/justjavac/awesome-wechat-weapp.git</td>
                 </tr>
                 <tr>
@@ -38054,7 +38054,7 @@ show me my starred repo
                     <td>http://fffaraz.github.io/awesome-cpp/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fffaraz/awesome-cpp.git</td>
                 </tr>
                 <tr>
@@ -38099,7 +38099,7 @@ show me my starred repo
                     <td>https://node.cool</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sindresorhus/awesome-nodejs.git</td>
                 </tr>
                 <tr>
@@ -38144,7 +38144,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/enaqx/awesome-react.git</td>
                 </tr>
                 <tr>
@@ -38189,7 +38189,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/prakhar1989/awesome-courses.git</td>
                 </tr>
                 <tr>
@@ -38227,23 +38227,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>45902</td>
+                    <td>45903</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Hack-with-Github/Awesome-Hacking.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:00:04</td>
+                    <td>09/21/21 02:21:10</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:00:04Z</td>
+                    <td>2021-09-20T18:21:10Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -38279,7 +38279,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xingshaocheng/architect-awesome.git</td>
                 </tr>
                 <tr>
@@ -38324,7 +38324,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Awesome-Windows/Awesome.git</td>
                 </tr>
                 <tr>
@@ -38369,7 +38369,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/github/roadmap.git</td>
                 </tr>
                 <tr>
@@ -38414,7 +38414,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ept/ddia-references.git</td>
                 </tr>
                 <tr>
@@ -38459,7 +38459,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jobbole/awesome-java-cn.git</td>
                 </tr>
                 <tr>
@@ -38497,23 +38497,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>25526</td>
+                    <td>25527</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sorrycc/awesome-javascript.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 21:58:16</td>
+                    <td>09/21/21 02:25:01</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T13:58:16Z</td>
+                    <td>2021-09-20T18:25:01Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -38549,7 +38549,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lydiahallie/javascript-questions.git</td>
                 </tr>
                 <tr>
@@ -38594,7 +38594,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/akullpp/awesome-java.git</td>
                 </tr>
                 <tr>
@@ -38639,7 +38639,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/AobingJava/JavaFamily.git</td>
                 </tr>
                 <tr>
@@ -38684,7 +38684,7 @@ show me my starred repo
                     <td>java.quanke.name</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/quanke/think-in-java.git</td>
                 </tr>
                 <tr>
@@ -38729,7 +38729,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/liangfeng/ubuntu-mono-2.git</td>
                 </tr>
                 <tr>
@@ -38774,7 +38774,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/trekhleb/state-of-the-art-shitcode.git</td>
                 </tr>
                 <tr>
@@ -38819,7 +38819,7 @@ show me my starred repo
                     <td>http://omgitsmgp.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mgp/book-notes.git</td>
                 </tr>
                 <tr>
@@ -38864,7 +38864,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facert/awesome-spider.git</td>
                 </tr>
                 <tr>
@@ -38909,7 +38909,7 @@ show me my starred repo
                     <td>https://gitbook.hellogithub.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/521xueweihan/HelloGitHub_GitBook.git</td>
                 </tr>
                 <tr>
@@ -38954,7 +38954,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Nanguage/Rainbow-Fart-MBG.git</td>
                 </tr>
                 <tr>
@@ -38999,7 +38999,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/airbnb/css.git</td>
                 </tr>
                 <tr>
@@ -39044,7 +39044,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ayuer/shanghai_house_knowledge.git</td>
                 </tr>
                 <tr>
@@ -39089,7 +39089,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hhstore/awesome-buying-a-house.git</td>
                 </tr>
                 <tr>
@@ -39134,7 +39134,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes.git</td>
                 </tr>
                 <tr>
@@ -39179,7 +39179,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/peng-zhihui/Project-Quantum.git</td>
                 </tr>
                 <tr>
@@ -39224,7 +39224,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/peng-zhihui/PocketLCD.git</td>
                 </tr>
                 <tr>
@@ -39269,7 +39269,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sgalal/awesome-rime.git</td>
                 </tr>
                 <tr>
@@ -39314,7 +39314,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cdoco/learn-regex-zh.git</td>
                 </tr>
                 <tr>
@@ -39359,7 +39359,7 @@ show me my starred repo
                     <td>https://gum.co/learn-regex</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ziishaned/learn-regex.git</td>
                 </tr>
                 <tr>
@@ -39404,7 +39404,7 @@ show me my starred repo
                     <td>https://mbeaudru.github.io/modern-js-cheatsheet/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mbeaudru/modern-js-cheatsheet.git</td>
                 </tr>
                 <tr>
@@ -39449,7 +39449,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tchapi/markdown-cheatsheet.git</td>
                 </tr>
                 <tr>
@@ -39494,7 +39494,7 @@ show me my starred repo
                     <td>https://aicheatsheets.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kailashahirwar/cheatsheets-ai.git</td>
                 </tr>
                 <tr>
@@ -39539,7 +39539,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/EvanMeek/awesome-config.git</td>
                 </tr>
                 <tr>
@@ -39584,7 +39584,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vim-china/hello-vim.git</td>
                 </tr>
                 <tr>
@@ -39629,7 +39629,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/CavsZhouyou/Front-End-Interview-Notebook.git</td>
                 </tr>
                 <tr>
@@ -39674,7 +39674,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xingchenpro/MindManager.git</td>
                 </tr>
                 <tr>
@@ -39719,7 +39719,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LingCoder/OnJava8.git</td>
                 </tr>
                 <tr>
@@ -39764,7 +39764,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tvvocold/free-for-dev-zh.git</td>
                 </tr>
                 <tr>
@@ -39809,7 +39809,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/zhiwehu/Python-programming-exercises.git</td>
                 </tr>
                 <tr>
@@ -39854,7 +39854,7 @@ show me my starred repo
                     <td>https://upptime.js.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/upptime/upptime.git</td>
                 </tr>
                 <tr>
@@ -39899,7 +39899,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/humiaozuzu/awesome-flask.git</td>
                 </tr>
                 <tr>
@@ -39944,7 +39944,7 @@ show me my starred repo
                     <td>https://github.com/topics/remarkable-tablet</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/reHackable/awesome-reMarkable.git</td>
                 </tr>
                 <tr>
@@ -39989,7 +39989,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/sql-server-samples.git</td>
                 </tr>
                 <tr>
@@ -40034,7 +40034,7 @@ show me my starred repo
                     <td>http://facebook.github.io/jsx/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/jsx.git</td>
                 </tr>
                 <tr>
@@ -40079,7 +40079,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/react-devtools.git</td>
                 </tr>
                 <tr>
@@ -40124,7 +40124,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/webar.js.git</td>
                 </tr>
                 <tr>
@@ -40169,7 +40169,7 @@ show me my starred repo
                     <td>https://macacajs.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/macaca.git</td>
                 </tr>
                 <tr>
@@ -40214,7 +40214,7 @@ show me my starred repo
                     <td>https://flow.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/flow.git</td>
                 </tr>
                 <tr>
@@ -40259,7 +40259,7 @@ show me my starred repo
                     <td>https://www.codeux.com/textual/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Codeux-Software/Textual.git</td>
                 </tr>
                 <tr>
@@ -40304,7 +40304,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Tencent/GAutomator.git</td>
                 </tr>
                 <tr>
@@ -40349,7 +40349,7 @@ show me my starred repo
                     <td>https://iterm2.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gnachman/iTerm2.git</td>
                 </tr>
                 <tr>
@@ -40394,7 +40394,7 @@ show me my starred repo
                     <td>https://instagram.github.io/IGListKit/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Instagram/IGListKit.git</td>
                 </tr>
                 <tr>
@@ -40439,7 +40439,7 @@ show me my starred repo
                     <td>https://getutm.app</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/utmapp/UTM.git</td>
                 </tr>
                 <tr>
@@ -40484,7 +40484,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/MustangYM/WeChatExtension-ForMac.git</td>
                 </tr>
                 <tr>
@@ -40529,7 +40529,7 @@ show me my starred repo
                     <td>https://sveinbjorn.org/sloth</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sveinbjornt/Sloth.git</td>
                 </tr>
                 <tr>
@@ -40574,7 +40574,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/amix/photoshop.git</td>
                 </tr>
                 <tr>
@@ -40619,7 +40619,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/the-benchmarker/web-frameworks.git</td>
                 </tr>
                 <tr>
@@ -40664,7 +40664,7 @@ show me my starred repo
                     <td>https://icon.wuruihong.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/zhanghuanchong/icon-workshop.git</td>
                 </tr>
                 <tr>
@@ -40709,7 +40709,7 @@ show me my starred repo
                     <td>http://www.zentao.pm</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/easysoft/zentaopms.git</td>
                 </tr>
                 <tr>
@@ -40754,7 +40754,7 @@ show me my starred repo
                     <td>http://www.humhub.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/humhub/humhub.git</td>
                 </tr>
                 <tr>
@@ -40799,7 +40799,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wensonsmith/YoudaoTranslate.git</td>
                 </tr>
                 <tr>
@@ -40844,7 +40844,7 @@ show me my starred repo
                     <td>https://komarev.com/sources/github-profile-views-counter</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/antonkomarev/github-profile-views-counter.git</td>
                 </tr>
                 <tr>
@@ -40889,7 +40889,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bugaosuni59/TH-CPL.git</td>
                 </tr>
                 <tr>
@@ -40934,7 +40934,7 @@ show me my starred repo
                     <td>https://www.prestashop-project.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PrestaShop/PrestaShop.git</td>
                 </tr>
                 <tr>
@@ -40979,7 +40979,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/luolongfei/freenom.git</td>
                 </tr>
                 <tr>
@@ -41024,7 +41024,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rovo89/XposedTools.git</td>
                 </tr>
                 <tr>
@@ -41069,7 +41069,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/janikvonrotz/awesome-powershell.git</td>
                 </tr>
                 <tr>
@@ -41114,7 +41114,7 @@ show me my starred repo
                     <td>https://docs.microsoft.com/powershell</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/MicrosoftDocs/PowerShell-Docs.git</td>
                 </tr>
                 <tr>
@@ -41159,7 +41159,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/clymb3r/PowerShell.git</td>
                 </tr>
                 <tr>
@@ -41204,7 +41204,7 @@ show me my starred repo
                     <td>http://lazywinadmin.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lazywinadmin/PowerShell.git</td>
                 </tr>
                 <tr>
@@ -41249,7 +41249,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/actions/virtual-environments.git</td>
                 </tr>
                 <tr>
@@ -41294,7 +41294,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/winget-pkgs.git</td>
                 </tr>
                 <tr>
@@ -41339,7 +41339,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/MicrosoftDocs/OfficeDocs-Support.git</td>
                 </tr>
                 <tr>
@@ -41384,7 +41384,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sshuttle/sshuttle.git</td>
                 </tr>
                 <tr>
@@ -41429,7 +41429,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/apenwarr/sshuttle.git</td>
                 </tr>
                 <tr>
@@ -41474,7 +41474,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hhstore/annotated-py-projects.git</td>
                 </tr>
                 <tr>
@@ -41519,7 +41519,7 @@ show me my starred repo
                     <td>https://ri.firesbox.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xiaolai/regular-investing-in-box.git</td>
                 </tr>
                 <tr>
@@ -41564,7 +41564,7 @@ show me my starred repo
                     <td>http://webpy.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/webpy/webpy.git</td>
                 </tr>
                 <tr>
@@ -41609,7 +41609,7 @@ show me my starred repo
                     <td>https://xfangfang.github.io/Macast/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xfangfang/Macast.git</td>
                 </tr>
                 <tr>
@@ -41654,7 +41654,7 @@ show me my starred repo
                     <td>https://mimesis.name</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lk-geimfari/mimesis.git</td>
                 </tr>
                 <tr>
@@ -41699,7 +41699,7 @@ show me my starred repo
                     <td>http://emscripten.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/emscripten-core/emsdk.git</td>
                 </tr>
                 <tr>
@@ -41744,7 +41744,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/brython-dev/brython.git</td>
                 </tr>
                 <tr>
@@ -41789,7 +41789,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TencentARC/GFPGAN.git</td>
                 </tr>
                 <tr>
@@ -41834,7 +41834,7 @@ show me my starred repo
                     <td>http://discordpy.rtfd.org/en/latest</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Rapptz/discord.py.git</td>
                 </tr>
                 <tr>
@@ -41879,7 +41879,7 @@ show me my starred repo
                     <td>http://qtile.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/qtile/qtile.git</td>
                 </tr>
                 <tr>
@@ -41924,7 +41924,7 @@ show me my starred repo
                     <td>https://pypi.org/project/whoogle-search/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/benbusby/whoogle-search.git</td>
                 </tr>
                 <tr>
@@ -41969,7 +41969,7 @@ show me my starred repo
                     <td>https://sqlmodel.tiangolo.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tiangolo/sqlmodel.git</td>
                 </tr>
                 <tr>
@@ -42014,7 +42014,7 @@ show me my starred repo
                     <td>https://asrt.ailemon.net</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nl8590687/ASRT_SpeechRecognition.git</td>
                 </tr>
                 <tr>
@@ -42059,7 +42059,7 @@ show me my starred repo
                     <td>https://websec.readthedocs.io/zh/latest/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LyleMi/Learn-Web-Hacking.git</td>
                 </tr>
                 <tr>
@@ -42104,7 +42104,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/liuhuanyong/QASystemOnMedicalKG.git</td>
                 </tr>
                 <tr>
@@ -42149,7 +42149,7 @@ show me my starred repo
                     <td>https://ray.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ray-project/ray.git</td>
                 </tr>
                 <tr>
@@ -42194,7 +42194,7 @@ show me my starred repo
                     <td>https://pyinstrument.readthedocs.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/joerick/pyinstrument.git</td>
                 </tr>
                 <tr>
@@ -42239,7 +42239,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dataabc/weiboSpider.git</td>
                 </tr>
                 <tr>
@@ -42284,7 +42284,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SpiderClub/weibospider.git</td>
                 </tr>
                 <tr>
@@ -42329,7 +42329,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/APhun/moviepy-cn.git</td>
                 </tr>
                 <tr>
@@ -42374,7 +42374,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/scottslowe/learning-tools.git</td>
                 </tr>
                 <tr>
@@ -42419,7 +42419,7 @@ show me my starred repo
                     <td>https://jira.readthedocs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pycontribs/jira.git</td>
                 </tr>
                 <tr>
@@ -42464,7 +42464,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/haohuaijin/CS61C.git</td>
                 </tr>
                 <tr>
@@ -42509,7 +42509,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kingyiusuen/image-to-latex.git</td>
                 </tr>
                 <tr>
@@ -42554,7 +42554,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/babysor/MockingBird.git</td>
                 </tr>
                 <tr>
@@ -42599,7 +42599,7 @@ show me my starred repo
                     <td>https://arxiv.org/abs/2101.06175</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PaddlePaddle/PaddleSeg.git</td>
                 </tr>
                 <tr>
@@ -42644,7 +42644,7 @@ show me my starred repo
                     <td>https://localstack.cloud</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/localstack/localstack.git</td>
                 </tr>
                 <tr>
@@ -42689,7 +42689,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/willmcgugan/textual.git</td>
                 </tr>
                 <tr>
@@ -42734,7 +42734,7 @@ show me my starred repo
                     <td>http://mahotas.rtfd.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/luispedro/mahotas.git</td>
                 </tr>
                 <tr>
@@ -42779,7 +42779,7 @@ show me my starred repo
                     <td>http://simplecv.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sightmachine/SimpleCV.git</td>
                 </tr>
                 <tr>
@@ -42824,7 +42824,7 @@ show me my starred repo
                     <td>http://codec.wang/#/opencv/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/CodecWang/OpenCV-Python-Tutorial.git</td>
                 </tr>
                 <tr>
@@ -42869,7 +42869,7 @@ show me my starred repo
                     <td>https://scikit-image.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/scikit-image/scikit-image.git</td>
                 </tr>
                 <tr>
@@ -42914,7 +42914,7 @@ show me my starred repo
                     <td>https://rasa.com/docs/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/RasaHQ/rasa.git</td>
                 </tr>
                 <tr>
@@ -42959,7 +42959,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Baekalfen/PyBoy.git</td>
                 </tr>
                 <tr>
@@ -43004,7 +43004,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu.git</td>
                 </tr>
                 <tr>
@@ -43049,7 +43049,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Dod-o/Statistical-Learning-Method_Code.git</td>
                 </tr>
                 <tr>
@@ -43094,7 +43094,7 @@ show me my starred repo
                     <td>https://insightface.ai</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/deepinsight/insightface.git</td>
                 </tr>
                 <tr>
@@ -43139,7 +43139,7 @@ show me my starred repo
                     <td>http://opensource.qduoj.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/QingdaoU/OnlineJudge.git</td>
                 </tr>
                 <tr>
@@ -43184,7 +43184,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TurboWay/bigdata_analyse.git</td>
                 </tr>
                 <tr>
@@ -43229,7 +43229,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yqchilde/JDMemberCloseAccount.git</td>
                 </tr>
                 <tr>
@@ -43274,7 +43274,7 @@ show me my starred repo
                     <td>https://python-pillow.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/python-pillow/Pillow.git</td>
                 </tr>
                 <tr>
@@ -43319,7 +43319,7 @@ show me my starred repo
                     <td>https://doc.shinnytech.com/tqsdk/latest</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/shinnytech/tqsdk-python.git</td>
                 </tr>
                 <tr>
@@ -43364,7 +43364,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LingDong-/LingDong-.git</td>
                 </tr>
                 <tr>
@@ -43409,7 +43409,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dahlia/awesome-sqlalchemy.git</td>
                 </tr>
                 <tr>
@@ -43454,7 +43454,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/shimohq/chinese-programmer-wrong-pronunciation.git</td>
                 </tr>
                 <tr>
@@ -43499,7 +43499,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/guofei9987/blind_watermark.git</td>
                 </tr>
                 <tr>
@@ -43544,7 +43544,7 @@ show me my starred repo
                     <td>https://www.sphinx-doc.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sphinx-doc/sphinx.git</td>
                 </tr>
                 <tr>
@@ -43589,7 +43589,7 @@ show me my starred repo
                     <td>https://scikit-optimize.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/scikit-optimize/scikit-optimize.git</td>
                 </tr>
                 <tr>
@@ -43634,7 +43634,7 @@ show me my starred repo
                     <td>https://scikit-opt.github.io/scikit-opt/#/en/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/guofei9987/scikit-opt.git</td>
                 </tr>
                 <tr>
@@ -43679,7 +43679,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/deepmind/alphafold.git</td>
                 </tr>
                 <tr>
@@ -43724,7 +43724,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wnma3mz/wechat_articles_spider.git</td>
                 </tr>
                 <tr>
@@ -43769,7 +43769,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yijingping/unicrawler.git</td>
                 </tr>
                 <tr>
@@ -43814,7 +43814,7 @@ show me my starred repo
                     <td>http://wechatspider.0fenbei.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bowenpay/wechat-spider.git</td>
                 </tr>
                 <tr>
@@ -43859,7 +43859,7 @@ show me my starred repo
                     <td>https://tiny.cc/thebond</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Deadshot0x7/007-TheBond.git</td>
                 </tr>
                 <tr>
@@ -43904,7 +43904,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/andymccurdy/redis-py.git</td>
                 </tr>
                 <tr>
@@ -43949,7 +43949,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lohriialo/photoshop-scripting-python.git</td>
                 </tr>
                 <tr>
@@ -43994,7 +43994,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kingoflolz/mesh-transformer-jax.git</td>
                 </tr>
                 <tr>
@@ -44039,7 +44039,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/appium/python-client.git</td>
                 </tr>
                 <tr>
@@ -44084,7 +44084,7 @@ show me my starred repo
                     <td>http://www.guietta.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alfiopuglisi/guietta.git</td>
                 </tr>
                 <tr>
@@ -44129,7 +44129,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yihong0618/GitHubPoster.git</td>
                 </tr>
                 <tr>
@@ -44174,7 +44174,7 @@ show me my starred repo
                     <td>https://matplotlib.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/matplotlib/cheatsheets.git</td>
                 </tr>
                 <tr>
@@ -44219,7 +44219,7 @@ show me my starred repo
                     <td>https://ng-tech.icu/Awesome-CheatSheets</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wx-chevalier/Awesome-CheatSheets.git</td>
                 </tr>
                 <tr>
@@ -44264,7 +44264,7 @@ show me my starred repo
                     <td>https://streamlit.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/streamlit/streamlit.git</td>
                 </tr>
                 <tr>
@@ -44309,7 +44309,7 @@ show me my starred repo
                     <td>http://www.opendevops.cn/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/opendevops-cn/opendevops.git</td>
                 </tr>
                 <tr>
@@ -44354,7 +44354,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bregman-arie/devops-exercises.git</td>
                 </tr>
                 <tr>
@@ -44399,7 +44399,7 @@ show me my starred repo
                     <td>http://repoll.club:8091/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/NaNShaner/repoll.git</td>
                 </tr>
                 <tr>
@@ -44444,7 +44444,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bee-san/pyWhat.git</td>
                 </tr>
                 <tr>
@@ -44489,7 +44489,7 @@ show me my starred repo
                     <td>https://www.astropy.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/astropy/astropy.git</td>
                 </tr>
                 <tr>
@@ -44534,7 +44534,7 @@ show me my starred repo
                     <td>https://diagrams.mingrammer.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mingrammer/diagrams.git</td>
                 </tr>
                 <tr>
@@ -44579,7 +44579,7 @@ show me my starred repo
                     <td>https://graphviz.readthedocs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xflr6/graphviz.git</td>
                 </tr>
                 <tr>
@@ -44624,7 +44624,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/programthink/zhao.git</td>
                 </tr>
                 <tr>
@@ -44669,7 +44669,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/probml/pyprobml.git</td>
                 </tr>
                 <tr>
@@ -44714,7 +44714,7 @@ show me my starred repo
                     <td>https://douzero.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kwai/DouZero.git</td>
                 </tr>
                 <tr>
@@ -44759,7 +44759,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/StevenBlack/hosts.git</td>
                 </tr>
                 <tr>
@@ -44804,7 +44804,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hunshcn/gh-proxy.git</td>
                 </tr>
                 <tr>
@@ -44849,7 +44849,7 @@ show me my starred repo
                     <td>https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebookresearch/AugLy.git</td>
                 </tr>
                 <tr>
@@ -44894,7 +44894,7 @@ show me my starred repo
                     <td>http://people.csail.mit.edu/pgbovine/python/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hcientist/OnlinePythonTutor.git</td>
                 </tr>
                 <tr>
@@ -44939,7 +44939,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/snare/voltron.git</td>
                 </tr>
                 <tr>
@@ -44984,7 +44984,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/san089/goodreads_etl_pipeline.git</td>
                 </tr>
                 <tr>
@@ -45029,7 +45029,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yunjey/pytorch-tutorial.git</td>
                 </tr>
                 <tr>
@@ -45074,7 +45074,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Asabeneh/30-Days-Of-Python.git</td>
                 </tr>
                 <tr>
@@ -45119,7 +45119,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chriskiehl/Gooey.git</td>
                 </tr>
                 <tr>
@@ -45164,7 +45164,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ticarpi/jwt_tool.git</td>
                 </tr>
                 <tr>
@@ -45209,7 +45209,7 @@ show me my starred repo
                     <td>https://django-rest-framework-simplejwt.readthedocs.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jazzband/djangorestframework-simplejwt.git</td>
                 </tr>
                 <tr>
@@ -45254,7 +45254,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mattupstate/flask-jwt.git</td>
                 </tr>
                 <tr>
@@ -45299,7 +45299,7 @@ show me my starred repo
                     <td>http://jpadilla.github.io/django-rest-framework-jwt/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jpadilla/django-rest-framework-jwt.git</td>
                 </tr>
                 <tr>
@@ -45344,7 +45344,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/davedoesdev/python-jwt.git</td>
                 </tr>
                 <tr>
@@ -45389,7 +45389,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/latchset/jwcrypto.git</td>
                 </tr>
                 <tr>
@@ -45434,7 +45434,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mpdavis/python-jose.git</td>
                 </tr>
                 <tr>
@@ -45479,7 +45479,7 @@ show me my starred repo
                     <td>https://authlib.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lepture/authlib.git</td>
                 </tr>
                 <tr>
@@ -45524,7 +45524,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Demonware/jose.git</td>
                 </tr>
                 <tr>
@@ -45569,7 +45569,7 @@ show me my starred repo
                     <td>https://stuvel.eu/rsa</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sybrenstuvel/python-rsa.git</td>
                 </tr>
                 <tr>
@@ -45614,7 +45614,7 @@ show me my starred repo
                     <td>https://pyjwt.readthedocs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jpadilla/pyjwt.git</td>
                 </tr>
                 <tr>
@@ -45659,7 +45659,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/EssayKillerBrain/EssayKiller_V2.git</td>
                 </tr>
                 <tr>
@@ -45704,7 +45704,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gbaman/Python-To-AQA-Pseudocode.git</td>
                 </tr>
                 <tr>
@@ -45749,7 +45749,7 @@ show me my starred repo
                     <td>http://mithil467.github.io/mitype</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Mithil467/mitype.git</td>
                 </tr>
                 <tr>
@@ -45794,7 +45794,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bigzhao/Keyword_Extraction.git</td>
                 </tr>
                 <tr>
@@ -45839,7 +45839,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/AimeeLee77/keyword_extraction.git</td>
                 </tr>
                 <tr>
@@ -45884,7 +45884,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vi3k6i5/flashtext.git</td>
                 </tr>
                 <tr>
@@ -45929,7 +45929,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SZFsir/pddSpider.git</td>
                 </tr>
                 <tr>
@@ -45974,7 +45974,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dakuohao/GetDouYin.git</td>
                 </tr>
                 <tr>
@@ -46019,7 +46019,7 @@ show me my starred repo
                     <td>https://zhuanlan.zhihu.com/yangyangfuture</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fighting41love/funNLP.git</td>
                 </tr>
                 <tr>
@@ -46064,7 +46064,7 @@ show me my starred repo
                     <td>https://www.akshare.xyz</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jindaxiang/akshare.git</td>
                 </tr>
                 <tr>
@@ -46109,7 +46109,7 @@ show me my starred repo
                     <td>https://paddlenlp.readthedocs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PaddlePaddle/PaddleNLP.git</td>
                 </tr>
                 <tr>
@@ -46154,7 +46154,7 @@ show me my starred repo
                     <td>https://yyets.dmesg.app</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tgbot-collection/YYeTsBot.git</td>
                 </tr>
                 <tr>
@@ -46199,7 +46199,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ParthJadhav/Tkinter-Designer.git</td>
                 </tr>
                 <tr>
@@ -46244,7 +46244,7 @@ show me my starred repo
                     <td>https://docs.jina.ai</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jina-ai/jina.git</td>
                 </tr>
                 <tr>
@@ -46289,7 +46289,7 @@ show me my starred repo
                     <td>https://www.starlette.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/encode/starlette.git</td>
                 </tr>
                 <tr>
@@ -46334,7 +46334,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dabeaz/curio.git</td>
                 </tr>
                 <tr>
@@ -46379,7 +46379,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ross/requests-futures.git</td>
                 </tr>
                 <tr>
@@ -46424,7 +46424,7 @@ show me my starred repo
                     <td>http://www.pycrypto.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Legrandin/pycrypto.git</td>
                 </tr>
                 <tr>
@@ -46469,7 +46469,7 @@ show me my starred repo
                     <td>http://pypi.python.org/pypi/ijson/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ICRAR/ijson.git</td>
                 </tr>
                 <tr>
@@ -46514,7 +46514,7 @@ show me my starred repo
                     <td>https://www.faceswap.dev</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/deepfakes/faceswap.git</td>
                 </tr>
                 <tr>
@@ -46559,7 +46559,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lancopku/pkuseg-python.git</td>
                 </tr>
                 <tr>
@@ -46604,7 +46604,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/python-openxml/python-docx.git</td>
                 </tr>
                 <tr>
@@ -46649,7 +46649,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/scrapy/parsel.git</td>
                 </tr>
                 <tr>
@@ -46694,7 +46694,7 @@ show me my starred repo
                     <td>https://www.python-httpx.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/encode/httpx.git</td>
                 </tr>
                 <tr>
@@ -46739,7 +46739,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pielco11/fav-up.git</td>
                 </tr>
                 <tr>
@@ -46784,7 +46784,7 @@ show me my starred repo
                     <td>http://django-practice-book.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/the5fire/typeidea.git</td>
                 </tr>
                 <tr>
@@ -46829,7 +46829,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/CCExtractor/vardbg.git</td>
                 </tr>
                 <tr>
@@ -46874,7 +46874,7 @@ show me my starred repo
                     <td>https://saleor.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mirumee/saleor.git</td>
                 </tr>
                 <tr>
@@ -46919,7 +46919,7 @@ show me my starred repo
                     <td>https://jupyterlite.rtfd.io/en/latest/try/lab</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jupyterlite/jupyterlite.git</td>
                 </tr>
                 <tr>
@@ -46964,7 +46964,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/viewfinderco/viewfinder.git</td>
                 </tr>
                 <tr>
@@ -47009,7 +47009,7 @@ show me my starred repo
                     <td>https://ycm-core.github.io/ycmd/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ycm-core/ycmd.git</td>
                 </tr>
                 <tr>
@@ -47047,23 +47047,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>158931</td>
+                    <td>158938</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/public-apis/public-apis.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:13:55</td>
+                    <td>09/21/21 02:25:26</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:13:55Z</td>
+                    <td>2021-09-20T18:25:26Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -47099,7 +47099,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Meituan-Dianping/vision-ui.git</td>
                 </tr>
                 <tr>
@@ -47144,7 +47144,7 @@ show me my starred repo
                     <td>http://imgaug.readthedocs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/aleju/imgaug.git</td>
                 </tr>
                 <tr>
@@ -47189,7 +47189,7 @@ show me my starred repo
                     <td>http://python-parallel-programmning-cookbook.readthedocs.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/laixintao/python-parallel-programming-cookbook-cn.git</td>
                 </tr>
                 <tr>
@@ -47234,7 +47234,7 @@ show me my starred repo
                     <td>https://bitcoinbook.info/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bitcoinbook/bitcoinbook.git</td>
                 </tr>
                 <tr>
@@ -47279,7 +47279,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/magic-wormhole/magic-wormhole.git</td>
                 </tr>
                 <tr>
@@ -47324,7 +47324,7 @@ show me my starred repo
                     <td>https://www.bt.cn</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/aaPanel/BaoTa.git</td>
                 </tr>
                 <tr>
@@ -47369,7 +47369,7 @@ show me my starred repo
                     <td>https://elasticsearch-py.rtfd.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/elastic/elasticsearch-py.git</td>
                 </tr>
                 <tr>
@@ -47414,7 +47414,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ianare/exif-py.git</td>
                 </tr>
                 <tr>
@@ -47459,7 +47459,7 @@ show me my starred repo
                     <td>https://django-debug-toolbar.readthedocs.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jazzband/django-debug-toolbar.git</td>
                 </tr>
                 <tr>
@@ -47497,23 +47497,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>28981</td>
+                    <td>28985</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://rich.readthedocs.io/en/latest/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/willmcgugan/rich.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:02:25</td>
+                    <td>09/21/21 02:26:21</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:02:25Z</td>
+                    <td>2021-09-20T18:26:21Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -47549,7 +47549,7 @@ show me my starred repo
                     <td>https://lab.isaaclin.cn/nCoV/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/BlankerL/DXY-COVID-19-Data.git</td>
                 </tr>
                 <tr>
@@ -47594,7 +47594,7 @@ show me my starred repo
                     <td>https://erpnext.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/frappe/erpnext.git</td>
                 </tr>
                 <tr>
@@ -47639,7 +47639,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/freqtrade/freqtrade-strategies.git</td>
                 </tr>
                 <tr>
@@ -47684,7 +47684,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/davidhalter/jedi-vim.git</td>
                 </tr>
                 <tr>
@@ -47729,7 +47729,7 @@ show me my starred repo
                     <td>http://www.grantjenks.com/docs/sortedcontainers/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/grantjenks/python-sortedcontainers.git</td>
                 </tr>
                 <tr>
@@ -47774,7 +47774,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nryoung/algorithms.git</td>
                 </tr>
                 <tr>
@@ -47819,7 +47819,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Maratyszcza/PeachPy.git</td>
                 </tr>
                 <tr>
@@ -47864,7 +47864,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Suor/funcy.git</td>
                 </tr>
                 <tr>
@@ -47909,7 +47909,7 @@ show me my starred repo
                     <td>http://pscript.readthedocs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/flexxui/pscript.git</td>
                 </tr>
                 <tr>
@@ -47954,7 +47954,7 @@ show me my starred repo
                     <td>http://flexx.readthedocs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/flexxui/flexx.git</td>
                 </tr>
                 <tr>
@@ -47999,7 +47999,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/scottrogowski/code2flow.git</td>
                 </tr>
                 <tr>
@@ -48044,7 +48044,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PySimpleGUI/PySimpleGUI.git</td>
                 </tr>
                 <tr>
@@ -48089,7 +48089,7 @@ show me my starred repo
                     <td>https://www.fedai.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/FederatedAI/FATE.git</td>
                 </tr>
                 <tr>
@@ -48134,7 +48134,7 @@ show me my starred repo
                     <td>http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/isocpp/CppCoreGuidelines.git</td>
                 </tr>
                 <tr>
@@ -48179,7 +48179,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Chia-Network/chia-blockchain.git</td>
                 </tr>
                 <tr>
@@ -48224,7 +48224,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vipstone/faceai.git</td>
                 </tr>
                 <tr>
@@ -48269,7 +48269,7 @@ show me my starred repo
                     <td>https://ryven.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/leon-thomm/Ryven.git</td>
                 </tr>
                 <tr>
@@ -48314,7 +48314,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/openatx/uiautomator2.git</td>
                 </tr>
                 <tr>
@@ -48359,7 +48359,7 @@ show me my starred repo
                     <td>https://luong-komorebi.github.io/Awesome-Linux-Software/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/luong-komorebi/Awesome-Linux-Software.git</td>
                 </tr>
                 <tr>
@@ -48397,23 +48397,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>6959</td>
+                    <td>6960</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://www.paddlepaddle.org.cn/hub</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PaddlePaddle/PaddleHub.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:28:34</td>
+                    <td>09/21/21 02:22:59</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:28:34Z</td>
+                    <td>2021-09-20T18:22:59Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -48449,16 +48449,16 @@ show me my starred repo
                     <td>http://zh.d2l.ai</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/d2l-ai/d2l-zh.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 00:21:30</td>
+                    <td>09/21/21 02:25:47</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T16:21:30Z</td>
+                    <td>2021-09-20T18:25:47Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -48494,7 +48494,7 @@ show me my starred repo
                     <td>https://ultralytics.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ultralytics/yolov5.git</td>
                 </tr>
                 <tr>
@@ -48539,7 +48539,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rsalmei/alive-progress.git</td>
                 </tr>
                 <tr>
@@ -48584,7 +48584,7 @@ show me my starred repo
                     <td>https://cython.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cython/cython.git</td>
                 </tr>
                 <tr>
@@ -48629,7 +48629,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SunsetYe66/ClasstableToIcal.git</td>
                 </tr>
                 <tr>
@@ -48674,7 +48674,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/DavidBuchanan314/tweetable-polyglot-png.git</td>
                 </tr>
                 <tr>
@@ -48719,7 +48719,7 @@ show me my starred repo
                     <td>https://pypi.org/project/tabulate/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/astanin/python-tabulate.git</td>
                 </tr>
                 <tr>
@@ -48764,7 +48764,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/CITGuru/PyInquirer.git</td>
                 </tr>
                 <tr>
@@ -48809,7 +48809,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/prompt-toolkit/ptpython.git</td>
                 </tr>
                 <tr>
@@ -48854,7 +48854,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pdbpp/pdbpp.git</td>
                 </tr>
                 <tr>
@@ -48899,7 +48899,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jupyter-vim/jupyter-vim.git</td>
                 </tr>
                 <tr>
@@ -48944,7 +48944,7 @@ show me my starred repo
                     <td>urwid.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/urwid/urwid.git</td>
                 </tr>
                 <tr>
@@ -48989,7 +48989,7 @@ show me my starred repo
                     <td>https://www.4r7.ir</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sepandhaghighi/art.git</td>
                 </tr>
                 <tr>
@@ -49034,7 +49034,7 @@ show me my starred repo
                     <td>http://bit.ly/cyberbrain-features</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/laike9m/Cyberbrain.git</td>
                 </tr>
                 <tr>
@@ -49079,7 +49079,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/josephmisiti/awesome-machine-learning.git</td>
                 </tr>
                 <tr>
@@ -49124,7 +49124,7 @@ show me my starred repo
                     <td>https://raw.hellogithub.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/521xueweihan/GitHub520.git</td>
                 </tr>
                 <tr>
@@ -49169,7 +49169,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/openai/DALL-E.git</td>
                 </tr>
                 <tr>
@@ -49214,7 +49214,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Vonng/ddia.git</td>
                 </tr>
                 <tr>
@@ -49259,7 +49259,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/effigies/BitTornado.git</td>
                 </tr>
                 <tr>
@@ -49304,7 +49304,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/beurtschipper/Depix.git</td>
                 </tr>
                 <tr>
@@ -49349,7 +49349,7 @@ show me my starred repo
                     <td>https://gamestonkterminal.github.io/GamestonkTerminal/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/GamestonkTerminal/GamestonkTerminal.git</td>
                 </tr>
                 <tr>
@@ -49394,7 +49394,7 @@ show me my starred repo
                     <td>https://www.oppia.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/oppia/oppia.git</td>
                 </tr>
                 <tr>
@@ -49439,7 +49439,7 @@ show me my starred repo
                     <td>https://documen.tician.de/pudb/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/inducer/pudb.git</td>
                 </tr>
                 <tr>
@@ -49484,7 +49484,7 @@ show me my starred repo
                     <td>https://pypi.org/project/yaspin/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pavdmyt/yaspin.git</td>
                 </tr>
                 <tr>
@@ -49529,7 +49529,7 @@ show me my starred repo
                     <td>https://mmdetection.readthedocs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/open-mmlab/mmdetection.git</td>
                 </tr>
                 <tr>
@@ -49574,7 +49574,7 @@ show me my starred repo
                     <td>https://www.python.org/dev/peps/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/python/peps.git</td>
                 </tr>
                 <tr>
@@ -49619,7 +49619,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/python/typeshed.git</td>
                 </tr>
                 <tr>
@@ -49664,7 +49664,7 @@ show me my starred repo
                     <td>http://www.mypy-lang.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/python/mypy.git</td>
                 </tr>
                 <tr>
@@ -49709,7 +49709,7 @@ show me my starred repo
                     <td>https://bpython-interpreter.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bpython/bpython.git</td>
                 </tr>
                 <tr>
@@ -49754,7 +49754,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dddomodossola/remi.git</td>
                 </tr>
                 <tr>
@@ -49799,7 +49799,7 @@ show me my starred repo
                     <td>https://hellogithub.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/HelloGitHub-Team/Hydra.git</td>
                 </tr>
                 <tr>
@@ -49844,7 +49844,7 @@ show me my starred repo
                     <td>https://python-prompt-toolkit.readthedocs.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/prompt-toolkit/python-prompt-toolkit.git</td>
                 </tr>
                 <tr>
@@ -49889,7 +49889,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/skywind3000/ECDICT.git</td>
                 </tr>
                 <tr>
@@ -49934,7 +49934,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sdushantha/wifi-password.git</td>
                 </tr>
                 <tr>
@@ -49979,7 +49979,7 @@ show me my starred repo
                     <td>http://tangzhixiong.com/Shuang/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/district10/shuangpin-heatmap.git</td>
                 </tr>
                 <tr>
@@ -50024,7 +50024,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hanschen/vim-ipython-cell.git</td>
                 </tr>
                 <tr>
@@ -50069,7 +50069,7 @@ show me my starred repo
                     <td>https://vaex.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vaexio/vaex.git</td>
                 </tr>
                 <tr>
@@ -50114,7 +50114,7 @@ show me my starred repo
                     <td>https://www.urlteam.cn</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/luyishisi/Anti-Anti-Spider.git</td>
                 </tr>
                 <tr>
@@ -50159,7 +50159,7 @@ show me my starred repo
                     <td>https://cuijiahua.com/blog/spider/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Jack-Cherish/python-spider.git</td>
                 </tr>
                 <tr>
@@ -50204,7 +50204,7 @@ show me my starred repo
                     <td>https://docs.gerapy.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Gerapy/Gerapy.git</td>
                 </tr>
                 <tr>
@@ -50249,7 +50249,7 @@ show me my starred repo
                     <td>https://hellogithub.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/521xueweihan/hellogithub.com.git</td>
                 </tr>
                 <tr>
@@ -50294,7 +50294,7 @@ show me my starred repo
                     <td>http://www.jefftk.com/icdiff</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jeffkaufman/icdiff.git</td>
                 </tr>
                 <tr>
@@ -50339,7 +50339,7 @@ show me my starred repo
                     <td>https://kivy.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kivy/kivy.git</td>
                 </tr>
                 <tr>
@@ -50384,7 +50384,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PaddlePaddle/PaddleDetection.git</td>
                 </tr>
                 <tr>
@@ -50429,7 +50429,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ybbz/bookmarks-classifier.git</td>
                 </tr>
                 <tr>
@@ -50474,7 +50474,7 @@ show me my starred repo
                     <td>alir3z4.github.io/html2text/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Alir3z4/html2text.git</td>
                 </tr>
                 <tr>
@@ -50519,7 +50519,7 @@ show me my starred repo
                     <td>https://networkx.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/networkx/networkx.git</td>
                 </tr>
                 <tr>
@@ -50564,7 +50564,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/emmetio/py-emmet.git</td>
                 </tr>
                 <tr>
@@ -50609,7 +50609,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bjweimengshu/ProgrammerXiaohuiPython.git</td>
                 </tr>
                 <tr>
@@ -50654,7 +50654,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mariosemes/PornHub-downloader-python.git</td>
                 </tr>
                 <tr>
@@ -50699,7 +50699,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/carpedm20/emoji.git</td>
                 </tr>
                 <tr>
@@ -50744,7 +50744,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/madisonmay/CommonRegex.git</td>
                 </tr>
                 <tr>
@@ -50789,7 +50789,7 @@ show me my starred repo
                     <td>https://cheatsheetseries.owasp.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/OWASP/CheatSheetSeries.git</td>
                 </tr>
                 <tr>
@@ -50834,7 +50834,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/detailyang/awesome-cheatsheet.git</td>
                 </tr>
                 <tr>
@@ -50879,7 +50879,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/geohot/tinygrad.git</td>
                 </tr>
                 <tr>
@@ -50924,7 +50924,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/RangiLyu/nanodet.git</td>
                 </tr>
                 <tr>
@@ -50969,7 +50969,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xuebinqin/U-2-Net.git</td>
                 </tr>
                 <tr>
@@ -51014,7 +51014,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/0voice/interview_internal_reference.git</td>
                 </tr>
                 <tr>
@@ -51059,7 +51059,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SirVer/ultisnips.git</td>
                 </tr>
                 <tr>
@@ -51104,7 +51104,7 @@ show me my starred repo
                     <td>http://ycm-core.github.io/YouCompleteMe/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ycm-core/YouCompleteMe.git</td>
                 </tr>
                 <tr>
@@ -51149,7 +51149,7 @@ show me my starred repo
                     <td>http://github.com/ivanov/vim-ipython</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ivanov/vim-ipython.git</td>
                 </tr>
                 <tr>
@@ -51194,7 +51194,7 @@ show me my starred repo
                     <td>https://www.jaided.ai/easyocr</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/JaidedAI/EasyOCR.git</td>
                 </tr>
                 <tr>
@@ -51239,7 +51239,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pytorch/examples.git</td>
                 </tr>
                 <tr>
@@ -51284,7 +51284,7 @@ show me my starred repo
                     <td>http://www.gopup.cn</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/justinzm/gopup.git</td>
                 </tr>
                 <tr>
@@ -51329,7 +51329,7 @@ show me my starred repo
                     <td>https://running-page.vercel.app</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yihong0618/running_page.git</td>
                 </tr>
                 <tr>
@@ -51374,7 +51374,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/junxiaosong/AlphaZero_Gomoku.git</td>
                 </tr>
                 <tr>
@@ -51419,7 +51419,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PowerSpider/PowerSpider.git</td>
                 </tr>
                 <tr>
@@ -51464,7 +51464,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TsinghuaAI/CPM-1-Generate.git</td>
                 </tr>
                 <tr>
@@ -51509,7 +51509,7 @@ show me my starred repo
                     <td>https://texthero.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jbesomi/texthero.git</td>
                 </tr>
                 <tr>
@@ -51554,7 +51554,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jerry-git/learn-python3.git</td>
                 </tr>
                 <tr>
@@ -51599,7 +51599,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/trekhleb/learn-python.git</td>
                 </tr>
                 <tr>
@@ -51644,7 +51644,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/miguelgrinberg/Flask-Migrate.git</td>
                 </tr>
                 <tr>
@@ -51689,7 +51689,7 @@ show me my starred repo
                     <td>https://httpbin.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/postmanlabs/httpbin.git</td>
                 </tr>
                 <tr>
@@ -51734,7 +51734,7 @@ show me my starred repo
                     <td>https://flask-wtf.readthedocs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wtforms/flask-wtf.git</td>
                 </tr>
                 <tr>
@@ -51779,7 +51779,7 @@ show me my starred repo
                     <td>http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/miguelgrinberg/microblog.git</td>
                 </tr>
                 <tr>
@@ -51824,7 +51824,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gtalarico/flask-vuejs-template.git</td>
                 </tr>
                 <tr>
@@ -51869,7 +51869,7 @@ show me my starred repo
                     <td>https://hub.docker.com/r/tiangolo/uwsgi-nginx-flask/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tiangolo/uwsgi-nginx-flask-docker.git</td>
                 </tr>
                 <tr>
@@ -51914,7 +51914,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/christabor/flask_jsondash.git</td>
                 </tr>
                 <tr>
@@ -51959,7 +51959,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/miguelgrinberg/Flask-SocketIO.git</td>
                 </tr>
                 <tr>
@@ -52004,7 +52004,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dpgaspar/Flask-AppBuilder.git</td>
                 </tr>
                 <tr>
@@ -52049,7 +52049,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cookiecutter-flask/cookiecutter-flask.git</td>
                 </tr>
                 <tr>
@@ -52094,7 +52094,7 @@ show me my starred repo
                     <td>https://flask-login.readthedocs.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/maxcountryman/flask-login.git</td>
                 </tr>
                 <tr>
@@ -52139,7 +52139,7 @@ show me my starred repo
                     <td>https://flask-sqlalchemy.palletsprojects.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pallets/flask-sqlalchemy.git</td>
                 </tr>
                 <tr>
@@ -52184,7 +52184,7 @@ show me my starred repo
                     <td>http://discoverflask.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/realpython/discover-flask.git</td>
                 </tr>
                 <tr>
@@ -52229,7 +52229,7 @@ show me my starred repo
                     <td>http://flask-restful.readthedocs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/flask-restful/flask-restful.git</td>
                 </tr>
                 <tr>
@@ -52274,7 +52274,7 @@ show me my starred repo
                     <td>http://flask.pocoo.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pallets/flask-website.git</td>
                 </tr>
                 <tr>
@@ -52319,7 +52319,7 @@ show me my starred repo
                     <td>https://sanicframework.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sanic-org/sanic.git</td>
                 </tr>
                 <tr>
@@ -52364,7 +52364,7 @@ show me my starred repo
                     <td>http://bit.ly/fluentpy</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fluentpython/example-code.git</td>
                 </tr>
                 <tr>
@@ -52409,7 +52409,7 @@ show me my starred repo
                     <td>https://pytorchlightning.ai</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PyTorchLightning/pytorch-lightning.git</td>
                 </tr>
                 <tr>
@@ -52454,7 +52454,7 @@ show me my starred repo
                     <td>https://microsoft.github.io/dowhy/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/dowhy.git</td>
                 </tr>
                 <tr>
@@ -52499,7 +52499,7 @@ show me my starred repo
                     <td>https://microsoft-recommenders.readthedocs.io/en/latest/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/recommenders.git</td>
                 </tr>
                 <tr>
@@ -52544,7 +52544,7 @@ show me my starred repo
                     <td>https://facebook.github.io/augmented-traffic-control</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebookarchive/augmented-traffic-control.git</td>
                 </tr>
                 <tr>
@@ -52589,7 +52589,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebookarchive/huxley.git</td>
                 </tr>
                 <tr>
@@ -52634,7 +52634,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebookarchive/redis-faina.git</td>
                 </tr>
                 <tr>
@@ -52679,7 +52679,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebookarchive/pyaib.git</td>
                 </tr>
                 <tr>
@@ -52724,7 +52724,7 @@ show me my starred repo
                     <td>https://facebook.github.io/PathPicker/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/PathPicker.git</td>
                 </tr>
                 <tr>
@@ -52769,7 +52769,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/fbtftp.git</td>
                 </tr>
                 <tr>
@@ -52814,7 +52814,7 @@ show me my starred repo
                     <td>https://facebook.github.io/prophet</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/prophet.git</td>
                 </tr>
                 <tr>
@@ -52859,7 +52859,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebookarchive/codemod.git</td>
                 </tr>
                 <tr>
@@ -52904,7 +52904,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/spotify/chartify.git</td>
                 </tr>
                 <tr>
@@ -52949,7 +52949,7 @@ show me my starred repo
                     <td>http://dh-virtualenv.readthedocs.io/en/latest/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/spotify/dh-virtualenv.git</td>
                 </tr>
                 <tr>
@@ -52994,7 +52994,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dropbox/pyxl.git</td>
                 </tr>
                 <tr>
@@ -53039,7 +53039,7 @@ show me my starred repo
                     <td>https://mdwebhook.herokuapp.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dropbox/mdwebhook.git</td>
                 </tr>
                 <tr>
@@ -53084,7 +53084,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dropbox/PyHive.git</td>
                 </tr>
                 <tr>
@@ -53129,7 +53129,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Netflix/hubcommander.git</td>
                 </tr>
                 <tr>
@@ -53174,7 +53174,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Netflix/security_monkey.git</td>
                 </tr>
                 <tr>
@@ -53219,7 +53219,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Netflix/vmaf.git</td>
                 </tr>
                 <tr>
@@ -53264,7 +53264,7 @@ show me my starred repo
                     <td>https://metaflow.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Netflix/metaflow.git</td>
                 </tr>
                 <tr>
@@ -53309,7 +53309,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Netflix/dispatch.git</td>
                 </tr>
                 <tr>
@@ -53354,7 +53354,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/micropython/micropython-lib.git</td>
                 </tr>
                 <tr>
@@ -53399,7 +53399,7 @@ show me my starred repo
                     <td>https://google.github.io/pytype</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/pytype.git</td>
                 </tr>
                 <tr>
@@ -53444,7 +53444,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/timesketch.git</td>
                 </tr>
                 <tr>
@@ -53489,7 +53489,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/gin-config.git</td>
                 </tr>
                 <tr>
@@ -53534,7 +53534,7 @@ show me my starred repo
                     <td>https://skywater-pdk.rtfd.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/skywater-pdk.git</td>
                 </tr>
                 <tr>
@@ -53579,7 +53579,7 @@ show me my starred repo
                     <td>https://google.github.io/clusterfuzz</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/clusterfuzz.git</td>
                 </tr>
                 <tr>
@@ -53617,23 +53617,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>2126</td>
+                    <td>2127</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/flax.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 17:39:56</td>
+                    <td>09/21/21 02:24:51</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T09:39:56Z</td>
+                    <td>2021-09-20T18:24:51Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -53669,7 +53669,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/it-cert-automation-practice.git</td>
                 </tr>
                 <tr>
@@ -53714,7 +53714,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/turbinia.git</td>
                 </tr>
                 <tr>
@@ -53759,7 +53759,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/mobileperf.git</td>
                 </tr>
                 <tr>
@@ -53804,7 +53804,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/alimama-common-performance-platform-acp.git</td>
                 </tr>
                 <tr>
@@ -53849,7 +53849,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pzhaonet/ncovr.git</td>
                 </tr>
                 <tr>
@@ -53894,7 +53894,7 @@ show me my starred repo
                     <td>https://coding.net/u/scaffrey/p/hosts/git</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kelthuzadx/hosts.git</td>
                 </tr>
                 <tr>
@@ -53939,7 +53939,7 @@ show me my starred repo
                     <td>https://github.phodal.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/phodal/github.git</td>
                 </tr>
                 <tr>
@@ -53984,7 +53984,7 @@ show me my starred repo
                     <td>https://www.vagrantup.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hashicorp/vagrant.git</td>
                 </tr>
                 <tr>
@@ -54029,7 +54029,7 @@ show me my starred repo
                     <td>https://homeland.ruby-china.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ruby-china/homeland.git</td>
                 </tr>
                 <tr>
@@ -54074,7 +54074,7 @@ show me my starred repo
                     <td>https://jekyllrb.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jekyll/jekyll.git</td>
                 </tr>
                 <tr>
@@ -54119,7 +54119,7 @@ show me my starred repo
                     <td>https://github.com/explore</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/github/explore.git</td>
                 </tr>
                 <tr>
@@ -54164,7 +54164,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bayandin/awesome-awesomeness.git</td>
                 </tr>
                 <tr>
@@ -54209,7 +54209,7 @@ show me my starred repo
                     <td>http://markevans.github.io/dragonfly</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/markevans/dragonfly.git</td>
                 </tr>
                 <tr>
@@ -54254,7 +54254,7 @@ show me my starred repo
                     <td>http://twitter.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lg/murder.git</td>
                 </tr>
                 <tr>
@@ -54299,7 +54299,7 @@ show me my starred repo
                     <td>https://brew.sh</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Homebrew/brew.git</td>
                 </tr>
                 <tr>
@@ -54344,7 +54344,7 @@ show me my starred repo
                     <td>http://anemone.rubyforge.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chriskite/anemone.git</td>
                 </tr>
                 <tr>
@@ -54389,7 +54389,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/orhun/git-cliff.git</td>
                 </tr>
                 <tr>
@@ -54434,7 +54434,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TaKO8Ki/gobang.git</td>
                 </tr>
                 <tr>
@@ -54479,7 +54479,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/iron/iron.git</td>
                 </tr>
                 <tr>
@@ -54524,7 +54524,7 @@ show me my starred repo
                     <td>http://nickel-org.github.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nickel-org/nickel.rs.git</td>
                 </tr>
                 <tr>
@@ -54569,7 +54569,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/iced-rs/iced.git</td>
                 </tr>
                 <tr>
@@ -54614,7 +54614,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/erikgrinaker/toydb.git</td>
                 </tr>
                 <tr>
@@ -54659,7 +54659,7 @@ show me my starred repo
                     <td>https://crates.io/crates/sonic-server</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/valeriansaliou/sonic.git</td>
                 </tr>
                 <tr>
@@ -54704,7 +54704,7 @@ show me my starred repo
                     <td>https://docs.meilisearch.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/meilisearch/MeiliSearch.git</td>
                 </tr>
                 <tr>
@@ -54749,7 +54749,7 @@ show me my starred repo
                     <td>https://databend.rs</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/datafuselabs/databend.git</td>
                 </tr>
                 <tr>
@@ -54787,23 +54787,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>4817</td>
+                    <td>4818</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://azul.rs/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fschutt/azul.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:05:13</td>
+                    <td>09/21/21 02:20:58</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:05:13Z</td>
+                    <td>2021-09-20T18:20:58Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -54839,7 +54839,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mitsuhiko/indicatif.git</td>
                 </tr>
                 <tr>
@@ -54884,7 +54884,7 @@ show me my starred repo
                     <td>https://helix-editor.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/helix-editor/helix.git</td>
                 </tr>
                 <tr>
@@ -54929,7 +54929,7 @@ show me my starred repo
                     <td>https://www.nushell.sh/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nushell/nushell.git</td>
                 </tr>
                 <tr>
@@ -54974,7 +54974,7 @@ show me my starred repo
                     <td>https://rustdesk.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rustdesk/rustdesk-server-demo.git</td>
                 </tr>
                 <tr>
@@ -55019,7 +55019,7 @@ show me my starred repo
                     <td>https://deno.land</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/denoland/deno.git</td>
                 </tr>
                 <tr>
@@ -55064,7 +55064,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/anshulrgoyal/rust-web-developer-roadmap.git</td>
                 </tr>
                 <tr>
@@ -55109,7 +55109,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/flaneur2020/pua-lang.git</td>
                 </tr>
                 <tr>
@@ -55154,7 +55154,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/paritytech/substrate.git</td>
                 </tr>
                 <tr>
@@ -55199,7 +55199,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TheAlgorithms/Rust.git</td>
                 </tr>
                 <tr>
@@ -55244,7 +55244,7 @@ show me my starred repo
                     <td>https://rustdesk.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rustdesk/rustdesk.git</td>
                 </tr>
                 <tr>
@@ -55289,7 +55289,7 @@ show me my starred repo
                     <td>https://www.rust-lang.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rust-lang/rust.git</td>
                 </tr>
                 <tr>
@@ -55334,7 +55334,7 @@ show me my starred repo
                     <td>https://tauri.studio</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tauri-apps/tauri.git</td>
                 </tr>
                 <tr>
@@ -55379,7 +55379,7 @@ show me my starred repo
                     <td>https://crates.io/crates/t-rec</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sassman/t-rec-rs.git</td>
                 </tr>
                 <tr>
@@ -55424,7 +55424,7 @@ show me my starred repo
                     <td>https://wasmer.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wasmerio/wasmer.git</td>
                 </tr>
                 <tr>
@@ -55469,7 +55469,7 @@ show me my starred repo
                     <td>https://ruffle.rs</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ruffle-rs/ruffle.git</td>
                 </tr>
                 <tr>
@@ -55514,7 +55514,7 @@ show me my starred repo
                     <td>https://starship.rs</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/starship/starship.git</td>
                 </tr>
                 <tr>
@@ -55559,7 +55559,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vinceliuice/WhiteSur-gtk-theme.git</td>
                 </tr>
                 <tr>
@@ -55604,7 +55604,7 @@ show me my starred repo
                     <td>https://candinya.com/posts/Kratos-Rebirth/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Candinya/Kratos-Rebirth.git</td>
                 </tr>
                 <tr>
@@ -55649,7 +55649,7 @@ show me my starred repo
                     <td>https://slatedocs.github.io/slate</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/slatedocs/slate.git</td>
                 </tr>
                 <tr>
@@ -55694,7 +55694,7 @@ show me my starred repo
                     <td>http://autoprefixer.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/autoprefixer/autoprefixer.github.io.git</td>
                 </tr>
                 <tr>
@@ -55739,7 +55739,7 @@ show me my starred repo
                     <td>https://primer.style/css</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/primer/css.git</td>
                 </tr>
                 <tr>
@@ -55784,7 +55784,7 @@ show me my starred repo
                     <td>https://devhints.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rstacruz/cheatsheets.git</td>
                 </tr>
                 <tr>
@@ -55829,7 +55829,7 @@ show me my starred repo
                     <td>http://www.simpleitk.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SimpleITK/SimpleITK.git</td>
                 </tr>
                 <tr>
@@ -55874,7 +55874,7 @@ show me my starred repo
                     <td>https://www.scala-lang.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/scala/scala.git</td>
                 </tr>
                 <tr>
@@ -55919,7 +55919,7 @@ show me my starred repo
                     <td>https://dotty.epfl.ch</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lampepfl/dotty.git</td>
                 </tr>
                 <tr>
@@ -55964,7 +55964,7 @@ show me my starred repo
                     <td>http://sicp.readthedocs.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/huangz1990/SICP-answers.git</td>
                 </tr>
                 <tr>
@@ -56009,7 +56009,7 @@ show me my starred repo
                     <td>https://sicp.liujiacai.net/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jiacai2050/sicp.git</td>
                 </tr>
                 <tr>
@@ -56054,7 +56054,7 @@ show me my starred repo
                     <td>https://docs.pingcap.com/zh</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pingcap/docs-cn.git</td>
                 </tr>
                 <tr>
@@ -56099,7 +56099,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mviereck/x11docker.git</td>
                 </tr>
                 <tr>
@@ -56144,7 +56144,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LukeSmithxyz/voidrice.git</td>
                 </tr>
                 <tr>
@@ -56189,7 +56189,7 @@ show me my starred repo
                     <td>https://voidlinux.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/void-linux/void-packages.git</td>
                 </tr>
                 <tr>
@@ -56234,7 +56234,7 @@ show me my starred repo
                     <td>https://github.com/atlassian/react-beautiful-dnd</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chinanf-boy/react-beautiful-dnd-zh.git</td>
                 </tr>
                 <tr>
@@ -56279,7 +56279,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/plexinc/pms-docker.git</td>
                 </tr>
                 <tr>
@@ -56324,7 +56324,7 @@ show me my starred repo
                     <td>http://paperswelove.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/papers-we-love/papers-we-love.git</td>
                 </tr>
                 <tr>
@@ -56369,7 +56369,7 @@ show me my starred repo
                     <td>https://pypi.org/project/opencv-python/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/opencv/opencv-python.git</td>
                 </tr>
                 <tr>
@@ -56414,7 +56414,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/myspaghetti/macos-virtualbox.git</td>
                 </tr>
                 <tr>
@@ -56459,7 +56459,7 @@ show me my starred repo
                     <td>https://rust-lang.github.io/rfcs/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rust-lang/rfcs.git</td>
                 </tr>
                 <tr>
@@ -56504,7 +56504,7 @@ show me my starred repo
                     <td>https://github.com/rixon-cochi/SMF</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rixon-cochi/SMF.git</td>
                 </tr>
                 <tr>
@@ -56549,7 +56549,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/captn3m0/google-sre-ebook.git</td>
                 </tr>
                 <tr>
@@ -56594,7 +56594,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/offa/android-foss.git</td>
                 </tr>
                 <tr>
@@ -56639,7 +56639,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/aind-containers/aind.git</td>
                 </tr>
                 <tr>
@@ -56684,7 +56684,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/DataGrip/docker-env.git</td>
                 </tr>
                 <tr>
@@ -56729,7 +56729,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/meetbill/op_practice_book.git</td>
                 </tr>
                 <tr>
@@ -56774,7 +56774,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nicolashery/mac-dev-setup.git</td>
                 </tr>
                 <tr>
@@ -56819,7 +56819,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/geerlingguy/mac-dev-playbook.git</td>
                 </tr>
                 <tr>
@@ -56864,7 +56864,7 @@ show me my starred repo
                     <td>http://gfw-breaker.win</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gfw-breaker/ssr-accounts.git</td>
                 </tr>
                 <tr>
@@ -56909,7 +56909,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/unixorn/awesome-zsh-plugins.git</td>
                 </tr>
                 <tr>
@@ -56954,7 +56954,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wangdoc/javascript-tutorial.git</td>
                 </tr>
                 <tr>
@@ -56999,7 +56999,7 @@ show me my starred repo
                     <td>https://wangdoc.com/bash/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wangdoc/bash-tutorial.git</td>
                 </tr>
                 <tr>
@@ -57044,7 +57044,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ruanyf/simple-bash-scripts.git</td>
                 </tr>
                 <tr>
@@ -57089,7 +57089,7 @@ show me my starred repo
                     <td>https://github.com/rajkumardusad/onex</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rajkumardusad/onex.git</td>
                 </tr>
                 <tr>
@@ -57134,7 +57134,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/taizilongxu/interview_python.git</td>
                 </tr>
                 <tr>
@@ -57179,7 +57179,7 @@ show me my starred repo
                     <td>https://youtu.be/Z2EHj4JQHCw</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/HACK3RY2J/Anon-SMS.git</td>
                 </tr>
                 <tr>
@@ -57224,7 +57224,7 @@ show me my starred repo
                     <td>https://hub.docker.com/r/sickcodes/docker-osx</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sickcodes/Docker-OSX.git</td>
                 </tr>
                 <tr>
@@ -57269,7 +57269,7 @@ show me my starred repo
                     <td>https://linktr.ee/tahmid.rayat</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/htr-tech/host.git</td>
                 </tr>
                 <tr>
@@ -57314,7 +57314,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/theniceboy/.config.git</td>
                 </tr>
                 <tr>
@@ -57359,7 +57359,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rauchg/wifi-password.git</td>
                 </tr>
                 <tr>
@@ -57404,7 +57404,7 @@ show me my starred repo
                     <td>http://kaitai.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kaitai-io/kaitai_struct.git</td>
                 </tr>
                 <tr>
@@ -57449,7 +57449,7 @@ show me my starred repo
                     <td>https://ohmyz.sh</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ohmyzsh/ohmyzsh.git</td>
                 </tr>
                 <tr>
@@ -57494,7 +57494,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dylanaraps/neofetch.git</td>
                 </tr>
                 <tr>
@@ -57539,7 +57539,7 @@ show me my starred repo
                     <td>https://tabnine.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/codota/TabNine.git</td>
                 </tr>
                 <tr>
@@ -57584,7 +57584,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Bambooin/rimerc.git</td>
                 </tr>
                 <tr>
@@ -57629,7 +57629,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/skywind3000/awesome-cheatsheets.git</td>
                 </tr>
                 <tr>
@@ -57674,7 +57674,7 @@ show me my starred repo
                     <td>https://pi-hole.net</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pi-hole/pi-hole.git</td>
                 </tr>
                 <tr>
@@ -57719,7 +57719,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/MasterDevX/Termux-Kali.git</td>
                 </tr>
                 <tr>
@@ -57764,7 +57764,7 @@ show me my starred repo
                     <td>https://www.noob-hackers.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/noob-hackers/hacklock.git</td>
                 </tr>
                 <tr>
@@ -57809,7 +57809,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/adi1090x/termux-style.git</td>
                 </tr>
                 <tr>
@@ -57854,7 +57854,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/kwokronny/stylus-shortcut.git</td>
                 </tr>
                 <tr>
@@ -57899,7 +57899,7 @@ show me my starred repo
                     <td>https://ranchero.com/netnewswire/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Ranchero-Software/NetNewsWire.git</td>
                 </tr>
                 <tr>
@@ -57944,7 +57944,7 @@ show me my starred repo
                     <td>https://www.fullstackedu.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fullstackio/FlappySwift.git</td>
                 </tr>
                 <tr>
@@ -57989,7 +57989,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gabrieloc/GIOVANNI.git</td>
                 </tr>
                 <tr>
@@ -58034,7 +58034,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mozilla-mobile/firefox-ios.git</td>
                 </tr>
                 <tr>
@@ -58072,23 +58072,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>20855</td>
+                    <td>20856</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SwiftyJSON/SwiftyJSON.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 14:08:55</td>
+                    <td>09/21/21 02:19:28</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T06:08:55Z</td>
+                    <td>2021-09-20T18:19:28Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -58124,7 +58124,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/exyte/Grid.git</td>
                 </tr>
                 <tr>
@@ -58169,7 +58169,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gtaban/JWKTransform.git</td>
                 </tr>
                 <tr>
@@ -58214,7 +58214,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/BohdanOrlov/iOS-Developer-Roadmap.git</td>
                 </tr>
                 <tr>
@@ -58259,7 +58259,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ochococo/Design-Patterns-In-Swift.git</td>
                 </tr>
                 <tr>
@@ -58304,7 +58304,7 @@ show me my starred repo
                     <td>https://owlink.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/seemoo-lab/openhaystack.git</td>
                 </tr>
                 <tr>
@@ -58349,7 +58349,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/schappim/macOCR.git</td>
                 </tr>
                 <tr>
@@ -58394,7 +58394,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dengzemiao/DZMeBookRead.git</td>
                 </tr>
                 <tr>
@@ -58439,7 +58439,7 @@ show me my starred repo
                     <td>http://awesomeios.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vsouza/awesome-ios.git</td>
                 </tr>
                 <tr>
@@ -58484,7 +58484,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/shadowsocks/ShadowsocksX-NG.git</td>
                 </tr>
                 <tr>
@@ -58529,7 +58529,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/gao-sun/eul.git</td>
                 </tr>
                 <tr>
@@ -58574,7 +58574,7 @@ show me my starred repo
                     <td>https://microsoftlearning.github.io/DA-100-Analyzing-Data-with-Power-BI/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI.git</td>
                 </tr>
                 <tr>
@@ -58619,7 +58619,7 @@ show me my starred repo
                     <td>https://microsoftlearning.github.io/DA-100ZH-Analyzing-Data-with-Power-BI/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/MicrosoftLearning/DA-100ZH-Analyzing-Data-with-Power-BI.git</td>
                 </tr>
                 <tr>
@@ -58664,16 +58664,16 @@ show me my starred repo
                     <td>https://sysprog21.github.io/lkmpg/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/sysprog21/lkmpg.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 17:23:25</td>
+                    <td>09/21/21 02:23:50</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T09:23:25Z</td>
+                    <td>2021-09-20T18:23:50Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -58709,7 +58709,7 @@ show me my starred repo
                     <td>http://origin.redisbook.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/huangz1990/redisbook.git</td>
                 </tr>
                 <tr>
@@ -58754,7 +58754,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yihui-he/resume-template.git</td>
                 </tr>
                 <tr>
@@ -58799,7 +58799,7 @@ show me my starred repo
                     <td>http://mszep.github.io/pandoc_resume/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mszep/pandoc_resume.git</td>
                 </tr>
                 <tr>
@@ -58844,7 +58844,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mohuangrui/ucasthesis.git</td>
                 </tr>
                 <tr>
@@ -58889,7 +58889,7 @@ show me my starred repo
                     <td>https://marketplace.visualstudio.com/items/ms-vscode.PowerShell</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PowerShell/vscode-powershell.git</td>
                 </tr>
                 <tr>
@@ -58934,7 +58934,7 @@ show me my starred repo
                     <td>https://7kms.github.io/react-illustration-series/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/7kms/react-illustration-series.git</td>
                 </tr>
                 <tr>
@@ -58979,7 +58979,7 @@ show me my starred repo
                     <td>https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/yzhang-gh/vscode-markdown.git</td>
                 </tr>
                 <tr>
@@ -59024,7 +59024,7 @@ show me my starred repo
                     <td>https://elastic.github.io/eui/#/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/elastic/eui.git</td>
                 </tr>
                 <tr>
@@ -59069,7 +59069,7 @@ show me my starred repo
                     <td>https://nx.dev</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nrwl/nx.git</td>
                 </tr>
                 <tr>
@@ -59114,7 +59114,7 @@ show me my starred repo
                     <td>https://vitesse.netlify.app/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/antfu/vitesse.git</td>
                 </tr>
                 <tr>
@@ -59159,7 +59159,7 @@ show me my starred repo
                     <td>https://feathersjs.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/feathersjs/feathers.git</td>
                 </tr>
                 <tr>
@@ -59204,7 +59204,7 @@ show me my starred repo
                     <td>https://egghead.io/instructors/basarat-ali-syed/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/basarat/algorithms.git</td>
                 </tr>
                 <tr>
@@ -59249,7 +59249,7 @@ show me my starred repo
                     <td>https://alm-tools.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alm-tools/alm.git</td>
                 </tr>
                 <tr>
@@ -59294,7 +59294,7 @@ show me my starred repo
                     <td>https://typestyle.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/typestyle/typestyle.git</td>
                 </tr>
                 <tr>
@@ -59339,7 +59339,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/shd101wyy/mume.git</td>
                 </tr>
                 <tr>
@@ -59384,7 +59384,7 @@ show me my starred repo
                     <td>https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rohinivsenthil/postcode.git</td>
                 </tr>
                 <tr>
@@ -59429,7 +59429,7 @@ show me my starred repo
                     <td>https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-leetcode</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LeetCode-OpenSource/vscode-leetcode.git</td>
                 </tr>
                 <tr>
@@ -59474,7 +59474,7 @@ show me my starred repo
                     <td>https://joplinapp.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/laurent22/joplin.git</td>
                 </tr>
                 <tr>
@@ -59519,7 +59519,7 @@ show me my starred repo
                     <td>https://t.me/jiao_long</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/whyour/qinglong.git</td>
                 </tr>
                 <tr>
@@ -59564,7 +59564,7 @@ show me my starred repo
                     <td>https://composition-api.vuejs.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/composition-api.git</td>
                 </tr>
                 <tr>
@@ -59609,7 +59609,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cs01/termpair.git</td>
                 </tr>
                 <tr>
@@ -59654,7 +59654,7 @@ show me my starred repo
                     <td>https://flat.whiteboard.agora.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/netless-io/flat.git</td>
                 </tr>
                 <tr>
@@ -59692,23 +59692,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>3931</td>
+                    <td>3933</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://milkdown.dev</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Saul-Mirone/milkdown.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:12:58</td>
+                    <td>09/21/21 02:23:06</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:12:58Z</td>
+                    <td>2021-09-20T18:23:06Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -59744,7 +59744,7 @@ show me my starred repo
                     <td>https://developers.notion.com/docs</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/makenotion/notion-sdk-js.git</td>
                 </tr>
                 <tr>
@@ -59789,7 +59789,7 @@ show me my starred repo
                     <td>https://shd101wyy.github.io/markdown-preview-enhanced</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/shd101wyy/vscode-markdown-preview-enhanced.git</td>
                 </tr>
                 <tr>
@@ -59834,7 +59834,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/idealjs/tsx-render.git</td>
                 </tr>
                 <tr>
@@ -59879,7 +59879,7 @@ show me my starred repo
                     <td>https://ionicframework.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ionic-team/ionic-framework.git</td>
                 </tr>
                 <tr>
@@ -59924,7 +59924,7 @@ show me my starred repo
                     <td>https://nativescript.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/NativeScript/NativeScript.git</td>
                 </tr>
                 <tr>
@@ -59969,7 +59969,7 @@ show me my starred repo
                     <td>https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/johnsoncodehk/volar.git</td>
                 </tr>
                 <tr>
@@ -60014,7 +60014,7 @@ show me my starred repo
                     <td>https://swc.rs</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/swc-project/swc.git</td>
                 </tr>
                 <tr>
@@ -60059,7 +60059,7 @@ show me my starred repo
                     <td>https://solidjs.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/solidjs/solid.git</td>
                 </tr>
                 <tr>
@@ -60104,7 +60104,7 @@ show me my starred repo
                     <td>https://vue3.chengpeiquan.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chengpeiquan/learning-vue3.git</td>
                 </tr>
                 <tr>
@@ -60149,7 +60149,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/zayabighead/office-user-auto-create.git</td>
                 </tr>
                 <tr>
@@ -60194,7 +60194,7 @@ show me my starred repo
                     <td>https://troisjs.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/troisjs/trois.git</td>
                 </tr>
                 <tr>
@@ -60239,7 +60239,7 @@ show me my starred repo
                     <td>https://hyper.is</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vercel/hyper.git</td>
                 </tr>
                 <tr>
@@ -60284,7 +60284,7 @@ show me my starred repo
                     <td>https://devhints.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/devhints-io/devhints-engine.git</td>
                 </tr>
                 <tr>
@@ -60329,7 +60329,7 @@ show me my starred repo
                     <td>https://typedoc.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TypeStrong/typedoc.git</td>
                 </tr>
                 <tr>
@@ -60374,7 +60374,7 @@ show me my starred repo
                     <td>https://v2.vuepress.vuejs.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuepress/vuepress-next.git</td>
                 </tr>
                 <tr>
@@ -60419,7 +60419,7 @@ show me my starred repo
                     <td>http://slatejs.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ianstormtaylor/slate.git</td>
                 </tr>
                 <tr>
@@ -60464,7 +60464,7 @@ show me my starred repo
                     <td>http://rap2.taobao.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/thx/rap2-delos.git</td>
                 </tr>
                 <tr>
@@ -60509,7 +60509,7 @@ show me my starred repo
                     <td>https://devtools.vuejs.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/devtools.git</td>
                 </tr>
                 <tr>
@@ -60554,7 +60554,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/petite-vue.git</td>
                 </tr>
                 <tr>
@@ -60599,7 +60599,7 @@ show me my starred repo
                     <td>https://signoz.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SigNoz/signoz.git</td>
                 </tr>
                 <tr>
@@ -60644,7 +60644,7 @@ show me my starred repo
                     <td>https://electronjs.org/fiddle</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/electron/fiddle.git</td>
                 </tr>
                 <tr>
@@ -60689,7 +60689,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/NaoTu/DesktopNaotu.git</td>
                 </tr>
                 <tr>
@@ -60734,7 +60734,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Raathigesh/majestic.git</td>
                 </tr>
                 <tr>
@@ -60779,7 +60779,7 @@ show me my starred repo
                     <td>https://cusdis.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/djyde/cusdis.git</td>
                 </tr>
                 <tr>
@@ -60824,7 +60824,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nativefier/nativefier.git</td>
                 </tr>
                 <tr>
@@ -60869,7 +60869,7 @@ show me my starred repo
                     <td>https://www.software.com/music-time</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/swdotcom/swdc-vscode-musictime.git</td>
                 </tr>
                 <tr>
@@ -60914,7 +60914,7 @@ show me my starred repo
                     <td>https://timecatjs.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/oct16/TimeCat.git</td>
                 </tr>
                 <tr>
@@ -60959,7 +60959,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fmeringdal/nettu-meet.git</td>
                 </tr>
                 <tr>
@@ -60997,23 +60997,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>6935</td>
+                    <td>6936</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://astro.build</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/snowpackjs/astro.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:27:23</td>
+                    <td>09/21/21 02:24:11</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:27:23Z</td>
+                    <td>2021-09-20T18:24:11Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -61049,7 +61049,7 @@ show me my starred repo
                     <td>https://n8n.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/n8n-io/n8n.git</td>
                 </tr>
                 <tr>
@@ -61094,7 +61094,7 @@ show me my starred repo
                     <td>https://postcss.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/postcss/postcss.git</td>
                 </tr>
                 <tr>
@@ -61139,16 +61139,16 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/vscode-cpptools.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 13:50:51</td>
+                    <td>09/21/21 02:19:05</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T05:50:51Z</td>
+                    <td>2021-09-20T18:19:05Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -61177,23 +61177,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>35729</td>
+                    <td>35730</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/DefinitelyTyped/DefinitelyTyped.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:06:37</td>
+                    <td>09/21/21 02:16:37</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:06:37Z</td>
+                    <td>2021-09-20T18:16:37Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -61229,7 +61229,7 @@ show me my starred repo
                     <td>http://tweenjs.github.io/tween.js</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tweenjs/tween.js.git</td>
                 </tr>
                 <tr>
@@ -61274,7 +61274,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/TypeScript-React-Starter.git</td>
                 </tr>
                 <tr>
@@ -61319,7 +61319,7 @@ show me my starred repo
                     <td>https://basarat.gitbook.io/typescript/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/basarat/typescript-book.git</td>
                 </tr>
                 <tr>
@@ -61364,7 +61364,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/zhongsp/TypeScript.git</td>
                 </tr>
                 <tr>
@@ -61409,7 +61409,7 @@ show me my starred repo
                     <td>https://docz.site</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/doczjs/docz.git</td>
                 </tr>
                 <tr>
@@ -61454,7 +61454,7 @@ show me my starred repo
                     <td>https://flowchart.fun/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/tone-row/flowchart-fun.git</td>
                 </tr>
                 <tr>
@@ -61499,7 +61499,7 @@ show me my starred repo
                     <td>https://next.mobile.ant.design</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ant-design/ant-design-mobile.git</td>
                 </tr>
                 <tr>
@@ -61544,7 +61544,7 @@ show me my starred repo
                     <td>https://microsoft.github.io/SandDance</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/SandDance.git</td>
                 </tr>
                 <tr>
@@ -61589,7 +61589,7 @@ show me my starred repo
                     <td>https://www.naiveui.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TuSimple/naive-ui.git</td>
                 </tr>
                 <tr>
@@ -61627,23 +61627,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>7571</td>
+                    <td>7573</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://cal.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/calendso/calendso.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:35:58</td>
+                    <td>09/21/21 02:22:11</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:35:58Z</td>
+                    <td>2021-09-20T18:22:11Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -61679,7 +61679,7 @@ show me my starred repo
                     <td>https://www.prisma.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/prisma/prisma.git</td>
                 </tr>
                 <tr>
@@ -61724,7 +61724,7 @@ show me my starred repo
                     <td>https://nav3.cn/?git</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/xjh22222228/nav.git</td>
                 </tr>
                 <tr>
@@ -61769,7 +61769,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/actions/upload-artifact.git</td>
                 </tr>
                 <tr>
@@ -61814,7 +61814,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/actions/cache.git</td>
                 </tr>
                 <tr>
@@ -61859,7 +61859,7 @@ show me my starred repo
                     <td>https://alg.li/autocomplete</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/algolia/autocomplete.git</td>
                 </tr>
                 <tr>
@@ -61904,7 +61904,7 @@ show me my starred repo
                     <td>https://fig.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/withfig/autocomplete.git</td>
                 </tr>
                 <tr>
@@ -61949,7 +61949,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/vscode-mssql.git</td>
                 </tr>
                 <tr>
@@ -61994,7 +61994,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/octokit/core.js.git</td>
                 </tr>
                 <tr>
@@ -62039,7 +62039,7 @@ show me my starred repo
                     <td>https://github1s.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/conwnet/github1s.git</td>
                 </tr>
                 <tr>
@@ -62084,7 +62084,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/actions/setup-python.git</td>
                 </tr>
                 <tr>
@@ -62129,7 +62129,7 @@ show me my starred repo
                     <td>https://swh.app</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/oldj/SwitchHosts.git</td>
                 </tr>
                 <tr>
@@ -62174,7 +62174,7 @@ show me my starred repo
                     <td>https://picassoui.58.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/wuba/Picasso.git</td>
                 </tr>
                 <tr>
@@ -62219,7 +62219,7 @@ show me my starred repo
                     <td>https://resume.mdedit.online/#/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hua1995116/react-resume-site.git</td>
                 </tr>
                 <tr>
@@ -62264,7 +62264,7 @@ show me my starred repo
                     <td>https://v10-beta--use-gesture.netlify.app</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pmndrs/use-gesture.git</td>
                 </tr>
                 <tr>
@@ -62302,23 +62302,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>5542</td>
+                    <td>5543</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://jotai.pmnd.rs</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/pmndrs/jotai.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 22:48:05</td>
+                    <td>09/21/21 02:17:13</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T14:48:05Z</td>
+                    <td>2021-09-20T18:17:13Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -62354,7 +62354,7 @@ show me my starred repo
                     <td>https://vitepress.vuejs.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/vitepress.git</td>
                 </tr>
                 <tr>
@@ -62399,7 +62399,7 @@ show me my starred repo
                     <td>https://the-algorithms.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TheAlgorithms/website.git</td>
                 </tr>
                 <tr>
@@ -62444,7 +62444,7 @@ show me my starred repo
                     <td>https://portfolio.zxh.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Renovamen/playground-macos.git</td>
                 </tr>
                 <tr>
@@ -62489,7 +62489,7 @@ show me my starred repo
                     <td>https://sli.dev</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/slidevjs/slidev.git</td>
                 </tr>
                 <tr>
@@ -62534,7 +62534,7 @@ show me my starred repo
                     <td>https://remirror.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/remirror/remirror.git</td>
                 </tr>
                 <tr>
@@ -62579,7 +62579,7 @@ show me my starred repo
                     <td>https://vuetifyjs.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuetifyjs/vuetify.git</td>
                 </tr>
                 <tr>
@@ -62624,7 +62624,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cuixiaorui/mini-vue.git</td>
                 </tr>
                 <tr>
@@ -62669,7 +62669,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/snabbdom/snabbdom.git</td>
                 </tr>
                 <tr>
@@ -62714,7 +62714,7 @@ show me my starred repo
                     <td>https://www.rrweb.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/rrweb-io/rrweb.git</td>
                 </tr>
                 <tr>
@@ -62752,23 +62752,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>12672</td>
+                    <td>12671</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://tiptap.dev</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ueberdosis/tiptap.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/20/21 22:39:14</td>
+                    <td>09/21/21 02:16:03</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T14:39:14Z</td>
+                    <td>2021-09-20T18:16:03Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -62797,23 +62797,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>3464</td>
+                    <td>3465</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://openkraken.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/openkraken/kraken.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:08:25</td>
+                    <td>09/21/21 02:17:30</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:08:25Z</td>
+                    <td>2021-09-20T18:17:30Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -62849,7 +62849,7 @@ show me my starred repo
                     <td>https://supabase.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/supabase/supabase.git</td>
                 </tr>
                 <tr>
@@ -62894,7 +62894,7 @@ show me my starred repo
                     <td>https://ant.design</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ant-design/ant-design.git</td>
                 </tr>
                 <tr>
@@ -62939,7 +62939,7 @@ show me my starred repo
                     <td>https://desktop.github.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/desktop/desktop.git</td>
                 </tr>
                 <tr>
@@ -62984,7 +62984,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/HelloGitHub-Team/taichi.git</td>
                 </tr>
                 <tr>
@@ -63029,7 +63029,7 @@ show me my starred repo
                     <td>https://grafana.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/grafana/grafana.git</td>
                 </tr>
                 <tr>
@@ -63074,7 +63074,7 @@ show me my starred repo
                     <td>https://backstage.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/backstage/backstage.git</td>
                 </tr>
                 <tr>
@@ -63119,7 +63119,7 @@ show me my starred repo
                     <td>https://qwerty.kaiyi.cool/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Kaiyiwing/qwerty-learner.git</td>
                 </tr>
                 <tr>
@@ -63164,7 +63164,7 @@ show me my starred repo
                     <td>https://marketplace.visualstudio.com/items?itemName=dongli.python-preview#overview</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dongli0x00/python-preview.git</td>
                 </tr>
                 <tr>
@@ -63209,7 +63209,7 @@ show me my starred repo
                     <td>https://bit.dev</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/teambit/bit.git</td>
                 </tr>
                 <tr>
@@ -63254,7 +63254,7 @@ show me my starred repo
                     <td>http://gitlens.amod.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/eamodio/vscode-gitlens.git</td>
                 </tr>
                 <tr>
@@ -63299,7 +63299,7 @@ show me my starred repo
                     <td>https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nonoroazoro/vscode-syncing.git</td>
                 </tr>
                 <tr>
@@ -63344,7 +63344,7 @@ show me my starred repo
                     <td>https://vuejs.github.io/vetur/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/vetur.git</td>
                 </tr>
                 <tr>
@@ -63389,7 +63389,7 @@ show me my starred repo
                     <td>http://emmet.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/emmetio/emmet.git</td>
                 </tr>
                 <tr>
@@ -63434,7 +63434,7 @@ show me my starred repo
                     <td>https://www.tabnine.com/install/vscodeֿ</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/codota/tabnine-vscode.git</td>
                 </tr>
                 <tr>
@@ -63479,7 +63479,7 @@ show me my starred repo
                     <td>http://aka.ms/vscodevim</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/VSCodeVim/Vim.git</td>
                 </tr>
                 <tr>
@@ -63524,7 +63524,7 @@ show me my starred repo
                     <td>https://code-device.github.io/x-build/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/code-device/x-build.git</td>
                 </tr>
                 <tr>
@@ -63569,7 +63569,7 @@ show me my starred repo
                     <td>https://baidu.gitee.io/amis</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/baidu/amis.git</td>
                 </tr>
                 <tr>
@@ -63614,7 +63614,7 @@ show me my starred repo
                     <td>https://copytranslator.gitee.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/CopyTranslator/CopyTranslator.git</td>
                 </tr>
                 <tr>
@@ -63659,7 +63659,7 @@ show me my starred repo
                     <td>https://coder.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cdr/code-server.git</td>
                 </tr>
                 <tr>
@@ -63704,7 +63704,7 @@ show me my starred repo
                     <td>https://directus.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/directus/directus.git</td>
                 </tr>
                 <tr>
@@ -63742,23 +63742,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>31679</td>
+                    <td>31680</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>http://vitejs.dev/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vitejs/vite.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 01:32:46</td>
+                    <td>09/21/21 02:22:48</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T17:32:46Z</td>
+                    <td>2021-09-20T18:22:48Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -63794,7 +63794,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/tsyringe.git</td>
                 </tr>
                 <tr>
@@ -63839,7 +63839,7 @@ show me my starred repo
                     <td>https://microsoft.github.io/frontend-bootcamp/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/frontend-bootcamp.git</td>
                 </tr>
                 <tr>
@@ -63884,7 +63884,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/vscode-chrome-debug.git</td>
                 </tr>
                 <tr>
@@ -63929,7 +63929,7 @@ show me my starred repo
                     <td>https://aka.ms/botemulator</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/BotFramework-Emulator.git</td>
                 </tr>
                 <tr>
@@ -63974,7 +63974,7 @@ show me my starred repo
                     <td>https://microsoft.github.io/just</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/just.git</td>
                 </tr>
                 <tr>
@@ -64019,7 +64019,7 @@ show me my starred repo
                     <td>https://aka.ms/webtsinstall</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/WebTemplateStudio.git</td>
                 </tr>
                 <tr>
@@ -64064,7 +64064,7 @@ show me my starred repo
                     <td>https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/vscode-docker.git</td>
                 </tr>
                 <tr>
@@ -64109,7 +64109,7 @@ show me my starred repo
                     <td>https://www.typescriptlang.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/TypeScript-Website.git</td>
                 </tr>
                 <tr>
@@ -64147,23 +64147,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>121575</td>
+                    <td>121576</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://code.visualstudio.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/vscode.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:10:58</td>
+                    <td>09/21/21 02:18:39</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:10:58Z</td>
+                    <td>2021-09-20T18:18:39Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -64199,7 +64199,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/pyright.git</td>
                 </tr>
                 <tr>
@@ -64244,7 +64244,7 @@ show me my starred repo
                     <td>https://developer.microsoft.com/fluentui</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/fluentui.git</td>
                 </tr>
                 <tr>
@@ -64289,7 +64289,7 @@ show me my starred repo
                     <td>https://jestjs.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/jest.git</td>
                 </tr>
                 <tr>
@@ -64334,7 +64334,7 @@ show me my starred repo
                     <td>https://fbflipper.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/facebook/flipper.git</td>
                 </tr>
                 <tr>
@@ -64379,7 +64379,7 @@ show me my starred repo
                     <td>https://aka.ms/pvsc-marketplace</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/microsoft/vscode-python.git</td>
                 </tr>
                 <tr>
@@ -64424,7 +64424,7 @@ show me my starred repo
                     <td>http://groundplatform.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/google/ground-platform.git</td>
                 </tr>
                 <tr>
@@ -64469,7 +64469,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/BizGoblin.git</td>
                 </tr>
                 <tr>
@@ -64514,7 +64514,7 @@ show me my starred repo
                     <td>https://ggeditor.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/GGEditor.git</td>
                 </tr>
                 <tr>
@@ -64559,7 +64559,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/pont.git</td>
                 </tr>
                 <tr>
@@ -64604,7 +64604,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/alibaba/kiwi.git</td>
                 </tr>
                 <tr>
@@ -64649,7 +64649,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/AntoniotheFuture/VBACode.git</td>
                 </tr>
                 <tr>
@@ -64694,7 +64694,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/honza/vim-snippets.git</td>
                 </tr>
                 <tr>
@@ -64739,7 +64739,7 @@ show me my starred repo
                     <td>https://spacevim.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/SpaceVim/SpaceVim.git</td>
                 </tr>
                 <tr>
@@ -64784,7 +64784,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/python-mode/python-mode.git</td>
                 </tr>
                 <tr>
@@ -64829,7 +64829,7 @@ show me my starred repo
                     <td>http://www.vim.org/scripts/script.php?script_id=3526</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/easymotion/vim-easymotion.git</td>
                 </tr>
                 <tr>
@@ -64874,7 +64874,7 @@ show me my starred repo
                     <td>https://www.vim.org/scripts/script.php?script_id=3764</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/lilydjwg/fcitx.vim.git</td>
                 </tr>
                 <tr>
@@ -64919,7 +64919,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/godlygeek/tabular.git</td>
                 </tr>
                 <tr>
@@ -64964,7 +64964,7 @@ show me my starred repo
                     <td>https://macvim-dev.github.io/macvim</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/macvim-dev/macvim.git</td>
                 </tr>
                 <tr>
@@ -65009,7 +65009,7 @@ show me my starred repo
                     <td>http://www.vim.org/scripts/script.php?script_id=5056</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ap/vim-css-color.git</td>
                 </tr>
                 <tr>
@@ -65054,7 +65054,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vim-airline/vim-airline-themes.git</td>
                 </tr>
                 <tr>
@@ -65099,7 +65099,7 @@ show me my starred repo
                     <td>https://www.vim.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vim/vim.git</td>
                 </tr>
                 <tr>
@@ -65137,23 +65137,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>47117</td>
+                    <td>47118</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://neovim.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/neovim/neovim.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 00:35:48</td>
+                    <td>09/21/21 02:20:18</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T16:35:48Z</td>
+                    <td>2021-09-20T18:20:18Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -65189,7 +65189,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/connorholyday/vim-snazzy.git</td>
                 </tr>
                 <tr>
@@ -65234,7 +65234,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vim-airline/vim-airline.git</td>
                 </tr>
                 <tr>
@@ -65279,7 +65279,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/junegunn/vim-plug.git</td>
                 </tr>
                 <tr>
@@ -65324,7 +65324,7 @@ show me my starred repo
                     <td>http://vimwiki.github.io/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vimwiki/vimwiki.git</td>
                 </tr>
                 <tr>
@@ -65369,7 +65369,7 @@ show me my starred repo
                     <td>https://instant-markdown.github.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/instant-markdown/vim-instant-markdown.git</td>
                 </tr>
                 <tr>
@@ -65414,7 +65414,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/theniceboy/.vim.git</td>
                 </tr>
                 <tr>
@@ -65459,7 +65459,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PegasusWang/vim-galore-zh_cn.git</td>
                 </tr>
                 <tr>
@@ -65504,7 +65504,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/theniceboy/nvim.git</td>
                 </tr>
                 <tr>
@@ -65549,7 +65549,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Aeraphe/excel-types.git</td>
                 </tr>
                 <tr>
@@ -65594,7 +65594,7 @@ show me my starred repo
                     <td>https://icones.js.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/antfu/icones.git</td>
                 </tr>
                 <tr>
@@ -65639,7 +65639,7 @@ show me my starred repo
                     <td>http://vue-admin-box.51weblove.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/cmdparkour/vue-admin-box.git</td>
                 </tr>
                 <tr>
@@ -65684,7 +65684,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/callmehui/web-music-player.git</td>
                 </tr>
                 <tr>
@@ -65729,7 +65729,7 @@ show me my starred repo
                     <td>http://106.15.179.105/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/hai-27/vue-store.git</td>
                 </tr>
                 <tr>
@@ -65774,7 +65774,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/dcloudio/uni-template-news.git</td>
                 </tr>
                 <tr>
@@ -65819,7 +65819,7 @@ show me my starred repo
                     <td>https://nutui.jd.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jdf2e/nutui.git</td>
                 </tr>
                 <tr>
@@ -65864,7 +65864,7 @@ show me my starred repo
                     <td>http://xmall.exrick.cn</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Exrick/xmall-front.git</td>
                 </tr>
                 <tr>
@@ -65909,7 +65909,7 @@ show me my starred repo
                     <td>https://juejin.im/book/6844733826191589390</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/newbee-ltd/newbee-mall-vue-app.git</td>
                 </tr>
                 <tr>
@@ -65954,7 +65954,7 @@ show me my starred repo
                     <td>https://powerdos.github.io/Mall-Vue/index.html</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PowerDos/Mall-Vue.git</td>
                 </tr>
                 <tr>
@@ -65999,7 +65999,7 @@ show me my starred repo
                     <td>https://juejin.im/book/6844733826191589390</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/newbee-ltd/newbee-mall-vue3-app.git</td>
                 </tr>
                 <tr>
@@ -66044,7 +66044,7 @@ show me my starred repo
                     <td>http://zyszys.github.io/vue-canvas-nest/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ZYSzys/vue-canvas-nest.git</td>
                 </tr>
                 <tr>
@@ -66089,7 +66089,7 @@ show me my starred repo
                     <td>https://chengpeiquan.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/chengpeiquan/chengpeiquan.com.git</td>
                 </tr>
                 <tr>
@@ -66134,7 +66134,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/57code/vite2-in-action.git</td>
                 </tr>
                 <tr>
@@ -66179,7 +66179,7 @@ show me my starred repo
                     <td>https://blog.coderap.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/LennonChin/Blog-Frontend-Project.git</td>
                 </tr>
                 <tr>
@@ -66224,7 +66224,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/octref/veturpack.git</td>
                 </tr>
                 <tr>
@@ -66262,23 +66262,23 @@ show me my starred repo
                 </tr>
                 <tr>
                     <td><b>stargazers_count</b></td>
-                    <td>17369</td>
+                    <td>17370</td>
                 </tr>
                 <tr>
                     <td><b>homepage</b></td>
                     <td>https://docs.nocodb.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nocodb/nocodb.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:02:55</td>
+                    <td>09/21/21 02:25:24</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:02:55Z</td>
+                    <td>2021-09-20T18:25:24Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -66314,7 +66314,7 @@ show me my starred repo
                     <td>https://nuxtjs.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/nuxt/nuxtjs.org.git</td>
                 </tr>
                 <tr>
@@ -66359,7 +66359,7 @@ show me my starred repo
                     <td>https://vuepress-theme-reco.recoluan.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuepress-reco/vuepress-theme-reco.git</td>
                 </tr>
                 <tr>
@@ -66404,7 +66404,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Code-Pop/Vuex_Fundamentals.git</td>
                 </tr>
                 <tr>
@@ -66449,7 +66449,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Code-Pop/animating-vue.git</td>
                 </tr>
                 <tr>
@@ -66494,7 +66494,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Code-Pop/beautify-with-vuetify.git</td>
                 </tr>
                 <tr>
@@ -66539,7 +66539,7 @@ show me my starred repo
                     <td>https://vuesomedev.github.io/vue-3-playground/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuesomedev/vue-3-playground.git</td>
                 </tr>
                 <tr>
@@ -66584,7 +66584,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/appbaseio/vue-playground.git</td>
                 </tr>
                 <tr>
@@ -66629,7 +66629,7 @@ show me my starred repo
                     <td>https://v3.cn.vuejs.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/docs-next-zh-cn.git</td>
                 </tr>
                 <tr>
@@ -66674,7 +66674,7 @@ show me my starred repo
                     <td>https://www.vuemastery.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Code-Pop/real-world-vue.git</td>
                 </tr>
                 <tr>
@@ -66719,7 +66719,7 @@ show me my starred repo
                     <td>https://salomonelli.github.io/best-resume-ever</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/salomonelli/best-resume-ever.git</td>
                 </tr>
                 <tr>
@@ -66764,7 +66764,7 @@ show me my starred repo
                     <td>https://icyfenix.cn</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/fenixsoft/awesome-fenix.git</td>
                 </tr>
                 <tr>
@@ -66809,7 +66809,7 @@ show me my starred repo
                     <td>https://armour.github.io/vue-typescript-admin-template</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/Armour/vue-typescript-admin-template.git</td>
                 </tr>
                 <tr>
@@ -66854,7 +66854,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/jackchen0120/vueDataV.git</td>
                 </tr>
                 <tr>
@@ -66899,7 +66899,7 @@ show me my starred repo
                     <td>https://hxkj.vip/demo/echartsMap/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/TangSY/echarts-map-demo.git</td>
                 </tr>
                 <tr>
@@ -66944,7 +66944,7 @@ show me my starred repo
                     <td>https://hongqingcao.github.io/GitDataV/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/HongqingCao/GitDataV.git</td>
                 </tr>
                 <tr>
@@ -66989,7 +66989,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/huangwei9527/Ink-wash-docs.git</td>
                 </tr>
                 <tr>
@@ -67034,7 +67034,7 @@ show me my starred repo
                     <td>https://v3.vuejs.org</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vuejs/docs.git</td>
                 </tr>
                 <tr>
@@ -67079,7 +67079,7 @@ show me my starred repo
                     <td>https://antdv.com/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/vueComponent/ant-design-vue.git</td>
                 </tr>
                 <tr>
@@ -67124,7 +67124,7 @@ show me my starred repo
                     <td>https://daisyui.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/saadeghi/daisyui.git</td>
                 </tr>
                 <tr>
@@ -67169,7 +67169,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/PanJiaChen/vue-element-admin.git</td>
                 </tr>
                 <tr>
@@ -67214,7 +67214,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bailicangdu/vue2-manage.git</td>
                 </tr>
                 <tr>
@@ -67259,7 +67259,7 @@ show me my starred repo
                     <td></td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/bailicangdu/vue2-elm.git</td>
                 </tr>
                 <tr>
@@ -67304,16 +67304,16 @@ show me my starred repo
                     <td>https://element-plus.org/</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/element-plus/element-plus.git</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(china_local_time)</b></td>
-                    <td>09/21/21 02:09:25</td>
+                    <td>09/21/21 02:23:50</td>
                 </tr>
                 <tr>
                     <td><b>updated_at(utc)</b></td>
-                    <td>2021-09-20T18:09:25Z</td>
+                    <td>2021-09-20T18:23:50Z</td>
                 </tr>
                 <tr>
                     <td><b>page</b></td>
@@ -67349,7 +67349,7 @@ show me my starred repo
                     <td>http://datav.jiaminghi.com</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/DataV-Team/DataV.git</td>
                 </tr>
                 <tr>
@@ -67394,7 +67394,7 @@ show me my starred repo
                     <td>https://iHateRegex.io</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/geongeorge/i-hate-regex.git</td>
                 </tr>
                 <tr>
@@ -67439,7 +67439,7 @@ show me my starred repo
                     <td>https://gitee.com/itmonkey-cn/shopro.git</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/ITmonkey-cn/shopro-uniapp.git</td>
                 </tr>
                 <tr>
@@ -67484,7 +67484,7 @@ show me my starred repo
                     <td>None</td>
                 </tr>
                 <tr>
-                    <th>clone_url</th>
+                    <td><b>clone_url</b></td>
                     <td>https://github.com/mdn/webassembly-examples.git</td>
                 </tr>
                 <tr>
