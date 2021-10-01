@@ -63,7 +63,7 @@ def get_pages(pages=1):
     """.strip()
 
     payload = {}
-    headers = {}
+    headers = {accept:"application/vnd.github.v3+json"}
     star_pages = (requests.request("GET",
                                    url.format(i),
                                    headers=headers,
