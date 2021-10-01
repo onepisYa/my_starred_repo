@@ -64,7 +64,7 @@ def get_pages(pages=1):
     """.strip()
 
     payload = {}
-    headers = {"accept" : "application/vnd.github.v3+json"}
+    headers = {"accept": "application/vnd.github.v3+json"}
     star_pages = (requests.request("GET",
                                    url.format(i),
                                    headers=headers,
@@ -97,7 +97,7 @@ show me my starred repo
 update at {}
 ---
 
-""".format(now)
+""".format(now))
         for project in projects:
             fp.write(template.format(**project))
 
