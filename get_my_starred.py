@@ -94,10 +94,12 @@ def save_pages(projects):
     with open("./README.md", "w+", encoding="utf-8") as fp:
         fp.write("""# my_starred_repo
 show me my starred repo
-update at {}
+
+update at {} in [starred_repo](./index.html)
 ---
 
 """.format(now))
+    with open("./index.html", "w+", encoding="utf-8") as fp:
         for project in projects:
             fp.write(template.format(**project))
 
