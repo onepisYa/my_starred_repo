@@ -1,6 +1,6 @@
 # my_starred_repo
 show me my starred repo
 
-update at 10/26/21 20:11:58 in [starred_repo](./index.html)
+update at 10/27/21 00:38:18 in [starred_repo](./index.html)
 ---
 
