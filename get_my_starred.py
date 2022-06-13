@@ -105,7 +105,7 @@ update at {} in [starred_repo](./index.html)
 
 
 def main():
-    pages = get_pages(24)
+    pages = get_pages(40)
     project_gen = process_pages(pages)
     projects = sorted(project_gen, key=lambda x: x['language'], reverse=False)
     save_pages(projects)
